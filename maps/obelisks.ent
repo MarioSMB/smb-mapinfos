@@ -1,0 +1,2629 @@
+{
+"_q3map2_version" "2.5.17n-git-0c20b6e"
+"_q3map2_cmdline" "-samplesize 64 -meta -v -mv 1000000 -mi 6000000; -vis -saveprt; -light -deluxe -fast -samples 3"
+"_description" "A fortress with deadly obelisks that protect the flags"
+"message" "Obelisks"
+"author" "forseti"
+"fog" "0.12 0.8 0.8 0.8 0.8"
+"classname" "worldspawn"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "-3576.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"targetname" "wall1"
+"origin" "3584.000000 -2556.000000 1192.000000"
+"classname" "target_position"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "-3064.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "-2552.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "-2040.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "-1528.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "-1016.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "-504.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "8.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "520.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "1032.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "1544.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "2056.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "2568.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall1"
+"origin" "3080.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "-3576.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"targetname" "wall2"
+"origin" "3592.000000 -2556.000000 1080.000000"
+"classname" "target_position"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "-3064.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "-2552.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "-2040.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "-1528.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "-1016.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "-504.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "8.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "520.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "1032.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "1544.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "2056.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "2568.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall2"
+"origin" "3080.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "3576.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"targetname" "wall3"
+"origin" "-3592.000000 2556.000000 1192.000000"
+"classname" "target_position"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "3064.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "2552.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "2040.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "1528.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "1016.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "504.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "-8.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "-520.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "-1032.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "-1544.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "-2056.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "-2568.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall3"
+"origin" "-3080.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "3576.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"targetname" "wall4"
+"origin" "-3592.000000 2556.000000 1080.000000"
+"classname" "target_position"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "3064.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "2552.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "2040.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "1528.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "1016.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "504.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "-8.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "-520.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "-1032.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "-1544.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "-2056.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "-2568.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-179.999985"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall4"
+"origin" "-3080.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"targetname" "wall5"
+"origin" "-3580.000000 -2556.000000 1192.000000"
+"classname" "target_position"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall5"
+"origin" "-3580.000000 1540.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall5"
+"origin" "-3580.000000 1028.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall5"
+"origin" "-3580.000000 516.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall5"
+"origin" "-3580.000000 4.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall5"
+"origin" "-3580.000000 -508.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall5"
+"origin" "-3580.000000 -1020.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall5"
+"origin" "-3580.000000 -1532.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall5"
+"origin" "-3580.000000 -2044.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"targetname" "wall6"
+"origin" "-3580.000000 -2556.000000 1080.000000"
+"classname" "target_position"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall6"
+"origin" "-3580.000000 1540.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall6"
+"origin" "-3580.000000 1028.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall6"
+"origin" "-3580.000000 516.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall6"
+"origin" "-3580.000000 4.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall6"
+"origin" "-3580.000000 -508.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall6"
+"origin" "-3580.000000 -1020.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall6"
+"origin" "-3580.000000 -1532.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall6"
+"origin" "-3580.000000 -2044.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall5"
+"origin" "-3580.000000 2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall5"
+"origin" "-3580.000000 2052.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall6"
+"origin" "-3580.000000 2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall6"
+"origin" "-3580.000000 2052.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"targetname" "wall7"
+"origin" "3580.000000 2568.000000 1192.000000"
+"classname" "target_position"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall7"
+"origin" "3580.000000 -1540.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall7"
+"origin" "3580.000000 -1028.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall7"
+"origin" "3580.000000 -516.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall7"
+"origin" "3580.000000 -4.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall7"
+"origin" "3580.000000 508.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall7"
+"origin" "3580.000000 1020.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall7"
+"origin" "3580.000000 1532.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall7"
+"origin" "3580.000000 2044.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"targetname" "wall8"
+"origin" "3580.000000 2568.000000 1080.000000"
+"classname" "target_position"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall8"
+"origin" "3580.000000 -1540.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall8"
+"origin" "3580.000000 -1028.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall8"
+"origin" "3580.000000 -516.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall8"
+"origin" "3580.000000 -4.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall8"
+"origin" "3580.000000 508.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall8"
+"origin" "3580.000000 1020.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall8"
+"origin" "3580.000000 1532.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall8"
+"origin" "3580.000000 2044.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall7"
+"origin" "3580.000000 -2556.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall7"
+"origin" "3580.000000 -2052.000000 1192.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall8"
+"origin" "3580.000000 -2556.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall8"
+"origin" "3580.000000 -2052.000000 1080.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"targetname" "spot1"
+"origin" "2568.000000 -56.000000 872.000000"
+"classname" "target_position"
+}
+{
+"targetname" "spot2"
+"origin" "2568.000000 64.000000 872.000000"
+"classname" "target_position"
+}
+{
+"angle" "-179.999985"
+"targetname" "spot3"
+"origin" "-2608.000000 56.000000 872.000000"
+"classname" "target_position"
+}
+{
+"angle" "-179.999985"
+"targetname" "spot4"
+"origin" "-2608.000000 -64.000000 872.000000"
+"classname" "target_position"
+}
+{
+"origin" "-2460.000000 2.000000 2.000000"
+"classname" "item_flag_team2"
+}
+{
+"origin" "2458.000000 0.000000 2.000000"
+"classname" "item_flag_team1"
+}
+{
+"dmg" "-1"
+"target" "reddest1"
+"targetname" "laserred1"
+"origin" "2542.000000 0.000000 1320.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"model" "*1"
+"target" "activate1"
+"angle" "-2"
+"targetname" "buttonred1"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"targetname" "reddest1"
+"origin" "2008.000000 0.000000 -104.000000"
+"classname" "target_position"
+}
+{
+"targetname" "activate1"
+"wait" "2"
+"target" "laserred1"
+"origin" "1992.000000 0.000000 -104.000000"
+"classname" "trigger_monoflop"
+}
+{
+"killtarget" "trainred0"
+"target" "reddest1"
+"origin" "1992.000000 0.000000 -88.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*2"
+"speed" "500"
+"targetname" "trainred0"
+"target" "trainred1"
+"classname" "func_train"
+}
+{
+"targetname" "trainred1"
+"target" "trainred2"
+"origin" "2024.000000 0.000000 -88.000000"
+"classname" "path_corner"
+}
+{
+"targetname" "trainred2"
+"target" "trainred1"
+"origin" "2472.000000 0.000000 -88.000000"
+"classname" "path_corner"
+}
+{
+"model" "*3"
+"target" "activate2"
+"angle" "-2"
+"targetname" "buttonred2"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"targetname" "reddest2"
+"origin" "1248.000000 0.000000 -104.000000"
+"classname" "target_position"
+}
+{
+"targetname" "activate2"
+"wait" "2"
+"target" "laserred2"
+"origin" "1232.000000 0.000000 -104.000000"
+"classname" "trigger_monoflop"
+}
+{
+"killtarget" "trainred3"
+"target" "reddest2"
+"origin" "1232.000000 0.000000 -88.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*4"
+"speed" "500"
+"targetname" "trainred3"
+"target" "trainred4"
+"classname" "func_train"
+}
+{
+"targetname" "trainred4"
+"target" "trainred5"
+"origin" "1264.000000 0.000000 -88.000000"
+"classname" "path_corner"
+}
+{
+"targetname" "trainred5"
+"target" "trainred4"
+"origin" "1624.000000 0.000000 -88.000000"
+"classname" "path_corner"
+}
+{
+"model" "*5"
+"target" "activate3"
+"angle" "-2"
+"targetname" "buttonred3"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"angle" "-44.512634"
+"targetname" "reddest3"
+"origin" "1459.217651 1106.367920 -96.000000"
+"classname" "target_position"
+}
+{
+"angle" "-44.512634"
+"targetname" "activate3"
+"wait" "2"
+"target" "laserred3"
+"origin" "1447.808228 1117.584839 -96.000000"
+"classname" "trigger_monoflop"
+}
+{
+"angle" "-44.512634"
+"killtarget" "trainred6"
+"target" "reddest3"
+"origin" "1447.808228 1117.584839 -80.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*6"
+"speed" "500"
+"targetname" "trainred6"
+"target" "trainred7"
+"classname" "func_train"
+}
+{
+"angle" "-44.512634"
+"targetname" "trainred7"
+"target" "trainred8"
+"origin" "1470.627197 1095.150757 -80.000000"
+"classname" "path_corner"
+}
+{
+"angle" "-44.512634"
+"targetname" "trainred8"
+"target" "trainred7"
+"origin" "1613.246216 954.937439 -80.000000"
+"classname" "path_corner"
+}
+{
+"model" "*7"
+"target" "activate4"
+"angle" "-2"
+"targetname" "buttonred4"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"angle" "67.145462"
+"targetname" "reddest4"
+"origin" "2062.984375 -1066.648438 -104.000000"
+"classname" "target_position"
+}
+{
+"angle" "67.145462"
+"targetname" "activate4"
+"wait" "2"
+"target" "laserred4"
+"origin" "2056.770508 -1081.392212 -104.000000"
+"classname" "trigger_monoflop"
+}
+{
+"angle" "67.145462"
+"killtarget" "trainred9"
+"target" "reddest4"
+"origin" "2056.770508 -1081.392212 -88.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*8"
+"speed" "500"
+"targetname" "trainred9"
+"target" "trainred10"
+"classname" "func_train"
+}
+{
+"angle" "67.145462"
+"targetname" "trainred10"
+"target" "trainred11"
+"origin" "2069.198730 -1051.904419 -88.000000"
+"classname" "path_corner"
+}
+{
+"angle" "67.145462"
+"targetname" "trainred11"
+"target" "trainred10"
+"origin" "2210.877441 -739.605591 -88.000000"
+"classname" "path_corner"
+}
+{
+"model" "*9"
+"target" "activate5"
+"angle" "-2"
+"targetname" "buttonred5"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"angle" "-93.066429"
+"targetname" "reddest5"
+"origin" "2606.519043 1161.350952 -104.000000"
+"classname" "target_position"
+}
+{
+"angle" "-93.066429"
+"targetname" "activate5"
+"wait" "2"
+"target" "laserred5"
+"origin" "2607.375000 1177.328003 -104.000000"
+"classname" "trigger_monoflop"
+}
+{
+"angle" "-93.066429"
+"killtarget" "trainred12"
+"target" "reddest5"
+"origin" "2607.375000 1177.328003 -88.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*10"
+"speed" "500"
+"targetname" "trainred12"
+"target" "trainred13"
+"classname" "func_train"
+}
+{
+"angle" "-93.066429"
+"targetname" "trainred13"
+"target" "trainred14"
+"origin" "2605.663086 1145.373901 -88.000000"
+"classname" "path_corner"
+}
+{
+"angle" "-93.066429"
+"targetname" "trainred14"
+"target" "trainred13"
+"origin" "2586.964355 753.660217 -88.000000"
+"classname" "path_corner"
+}
+{
+"model" "*11"
+"target" "activate6"
+"angle" "-2"
+"targetname" "buttonred6"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"angles" "0.000002 51.308338 -0.000000"
+"targetname" "reddest6"
+"origin" "1293.489990 -1658.203125 -104.000000"
+"classname" "target_position"
+}
+{
+"angles" "0.000002 51.308338 -0.000000"
+"targetname" "activate6"
+"wait" "2"
+"target" "laserred6"
+"origin" "1283.487915 -1670.691406 -104.000000"
+"classname" "trigger_monoflop"
+}
+{
+"angles" "0.000002 51.308338 -0.000000"
+"killtarget" "trainred15"
+"target" "reddest6"
+"origin" "1283.487915 -1670.691406 -88.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*12"
+"speed" "500"
+"targetname" "trainred15"
+"target" "trainred16"
+"classname" "func_train"
+}
+{
+"angles" "0.000002 51.308338 -0.000000"
+"targetname" "trainred16"
+"target" "trainred17"
+"origin" "1303.492065 -1645.714722 -88.000000"
+"classname" "path_corner"
+}
+{
+"angles" "0.000002 51.308338 -0.000000"
+"targetname" "trainred17"
+"target" "trainred16"
+"origin" "1428.517944 -1489.610596 -88.000000"
+"classname" "path_corner"
+}
+{
+"dmg" "-1"
+"target" "reddest2"
+"targetname" "laserred2"
+"origin" "2542.000000 0.000000 1320.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"dmg" "-1"
+"target" "reddest3"
+"targetname" "laserred3"
+"origin" "2542.000000 0.000000 1320.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"dmg" "-1"
+"target" "reddest4"
+"targetname" "laserred4"
+"origin" "2542.000000 0.000000 1320.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"dmg" "-1"
+"target" "reddest5"
+"targetname" "laserred5"
+"origin" "2534.000000 0.000000 1328.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"dmg" "-1"
+"target" "reddest6"
+"targetname" "laserred6"
+"origin" "2542.000000 0.000000 1320.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"dmg" "-1"
+"target" "reddest7"
+"targetname" "laserred7"
+"origin" "2542.000000 0.000000 1320.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"model" "*13"
+"target" "activate7"
+"angle" "-2"
+"targetname" "buttonred7"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"angle" "5.403026"
+"targetname" "reddest7"
+"origin" "809.215332 -145.757187 -104.000000"
+"classname" "target_position"
+}
+{
+"angle" "5.403026"
+"targetname" "activate7"
+"wait" "2"
+"target" "laserred7"
+"origin" "793.286438 -147.263763 -104.000000"
+"classname" "trigger_monoflop"
+}
+{
+"angle" "5.403026"
+"killtarget" "trainred18"
+"target" "reddest7"
+"origin" "793.286438 -147.263763 -88.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*14"
+"speed" "500"
+"targetname" "trainred18"
+"target" "trainred19"
+"classname" "func_train"
+}
+{
+"angle" "5.403026"
+"targetname" "trainred19"
+"target" "trainred20"
+"origin" "825.144287 -144.250610 -88.000000"
+"classname" "path_corner"
+}
+{
+"angle" "5.403026"
+"targetname" "trainred20"
+"target" "trainred19"
+"origin" "1216.255615 -93.418434 -88.000000"
+"classname" "path_corner"
+}
+{
+"colormod" "0 0 1"
+"angle" "-179.999985"
+"dmg" "-1"
+"target" "reddest8"
+"targetname" "laserred8"
+"origin" "-2582.000000 0.000000 1320.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"model" "*15"
+"target" "activate8"
+"angle" "-2"
+"targetname" "buttonred8"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"angle" "-179.999985"
+"targetname" "reddest8"
+"origin" "-2112.000000 0.000000 -104.000000"
+"classname" "target_position"
+}
+{
+"angle" "-179.999985"
+"targetname" "activate8"
+"wait" "2"
+"target" "laserred8"
+"origin" "-2096.000000 0.000000 -104.000000"
+"classname" "trigger_monoflop"
+}
+{
+"angle" "-179.999985"
+"killtarget" "trainred21"
+"target" "reddest8"
+"origin" "-2096.000000 0.000000 -88.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*16"
+"speed" "500"
+"targetname" "trainred21"
+"target" "trainred22"
+"classname" "func_train"
+}
+{
+"angle" "-179.999985"
+"targetname" "trainred22"
+"target" "trainred33"
+"origin" "-2128.000000 0.000000 -88.000000"
+"classname" "path_corner"
+}
+{
+"angle" "-179.999985"
+"targetname" "trainred33"
+"target" "trainred22"
+"origin" "-2472.000000 0.000000 -88.000000"
+"classname" "path_corner"
+}
+{
+"model" "*17"
+"target" "activate9"
+"angle" "-2"
+"targetname" "buttonred9"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"angle" "-179.999985"
+"targetname" "reddest9"
+"origin" "-1232.000000 24.000000 -104.000000"
+"classname" "target_position"
+}
+{
+"angle" "-179.999985"
+"targetname" "activate9"
+"wait" "2"
+"target" "laserred9"
+"origin" "-1216.000000 24.000000 -104.000000"
+"classname" "trigger_monoflop"
+}
+{
+"angle" "-179.999985"
+"killtarget" "trainred35"
+"target" "reddest9"
+"origin" "-1216.000000 24.000000 -88.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*18"
+"speed" "500"
+"targetname" "trainred35"
+"target" "trainred36"
+"classname" "func_train"
+}
+{
+"angle" "-179.999985"
+"targetname" "trainred36"
+"target" "trainred37"
+"origin" "-1248.000000 24.000000 -88.000000"
+"classname" "path_corner"
+}
+{
+"angle" "-179.999985"
+"targetname" "trainred37"
+"target" "trainred36"
+"origin" "-1672.000000 16.000000 -88.000000"
+"classname" "path_corner"
+}
+{
+"model" "*19"
+"target" "activate10"
+"angle" "-2"
+"targetname" "buttonred10"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"angle" "146.058914"
+"targetname" "reddest10"
+"origin" "-1114.881592 -990.208557 -96.000000"
+"classname" "target_position"
+}
+{
+"angle" "146.058914"
+"targetname" "activate10"
+"wait" "2"
+"target" "laserred10"
+"origin" "-1101.607666 -999.141907 -96.000000"
+"classname" "trigger_monoflop"
+}
+{
+"angle" "146.058914"
+"killtarget" "trainred38"
+"target" "reddest10"
+"origin" "-1101.607666 -999.141907 -80.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*20"
+"speed" "500"
+"targetname" "trainred38"
+"target" "trainred39"
+"classname" "func_train"
+}
+{
+"angle" "146.058914"
+"targetname" "trainred39"
+"target" "trainred40"
+"origin" "-1128.155273 -981.275085 -80.000000"
+"classname" "path_corner"
+}
+{
+"angle" "146.058914"
+"targetname" "trainred40"
+"target" "trainred39"
+"origin" "-1454.077515 -773.606873 -80.000000"
+"classname" "path_corner"
+}
+{
+"model" "*21"
+"target" "activate11"
+"angle" "-2"
+"targetname" "buttonred11"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"angle" "-125.094833"
+"targetname" "reddest11"
+"origin" "-1910.459473 898.076172 -104.000000"
+"classname" "target_position"
+}
+{
+"angle" "-125.094833"
+"targetname" "activate11"
+"wait" "2"
+"target" "laserred11"
+"origin" "-1901.260986 911.167358 -104.000000"
+"classname" "trigger_monoflop"
+}
+{
+"angle" "-125.094833"
+"killtarget" "trainred41"
+"target" "reddest11"
+"origin" "-1901.260986 911.167358 -88.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*22"
+"speed" "500"
+"targetname" "trainred41"
+"target" "trainred23"
+"classname" "func_train"
+}
+{
+"angle" "-125.094833"
+"targetname" "trainred23"
+"target" "trainred24"
+"origin" "-1919.658447 884.984863 -88.000000"
+"classname" "path_corner"
+}
+{
+"angle" "-125.094818"
+"targetname" "trainred24"
+"target" "trainred23"
+"origin" "-2114.644775 625.344482 -88.000000"
+"classname" "path_corner"
+}
+{
+"model" "*23"
+"target" "activate12"
+"angle" "-2"
+"targetname" "buttonred12"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"angle" "102.157013"
+"targetname" "reddest12"
+"origin" "-2240.245361 -1449.185913 -104.000000"
+"classname" "target_position"
+}
+{
+"angle" "102.157013"
+"targetname" "activate12"
+"wait" "2"
+"target" "laserred12"
+"origin" "-2236.875977 -1464.827148 -104.000000"
+"classname" "trigger_monoflop"
+}
+{
+"angle" "102.157013"
+"killtarget" "trainred25"
+"target" "reddest12"
+"origin" "-2236.875977 -1464.827148 -88.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*24"
+"speed" "500"
+"targetname" "trainred25"
+"target" "trainred26"
+"classname" "func_train"
+}
+{
+"angle" "102.157013"
+"targetname" "trainred26"
+"target" "trainred27"
+"origin" "-2243.614746 -1433.544800 -88.000000"
+"classname" "path_corner"
+}
+{
+"angle" "102.157013"
+"targetname" "trainred27"
+"target" "trainred26"
+"origin" "-2333.733154 -1110.029785 -88.000000"
+"classname" "path_corner"
+}
+{
+"model" "*25"
+"target" "activate13"
+"angle" "-2"
+"targetname" "buttonred13"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"angles" "0.000010 -135.650299 -0.000001"
+"targetname" "reddest13"
+"origin" "-1173.589722 1443.311890 -104.000000"
+"classname" "target_position"
+}
+{
+"angles" "0.000010 -135.650299 -0.000001"
+"targetname" "activate13"
+"wait" "2"
+"target" "laserred13"
+"origin" "-1162.148193 1454.496338 -104.000000"
+"classname" "trigger_monoflop"
+}
+{
+"angles" "0.000010 -135.650299 -0.000001"
+"killtarget" "trainred28"
+"target" "reddest13"
+"origin" "-1162.148193 1454.496338 -88.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*26"
+"speed" "500"
+"targetname" "trainred28"
+"target" "trainred29"
+"classname" "func_train"
+}
+{
+"angles" "0.000010 -135.650299 -0.000001"
+"targetname" "trainred29"
+"target" "trainred30"
+"origin" "-1185.031250 1432.127197 -88.000000"
+"classname" "path_corner"
+}
+{
+"angles" "0.000010 -135.650299 -0.000001"
+"targetname" "trainred30"
+"target" "trainred29"
+"origin" "-1437.879883 1184.834961 -88.000000"
+"classname" "path_corner"
+}
+{
+"colormod" "0 0 1"
+"angle" "-179.999985"
+"dmg" "-1"
+"target" "reddest9"
+"targetname" "laserred9"
+"origin" "-2582.000000 0.000000 1320.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "0 0 1"
+"angle" "-179.999985"
+"dmg" "-1"
+"target" "reddest10"
+"targetname" "laserred10"
+"origin" "-2582.000000 0.000000 1320.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "0 0 1"
+"angle" "-179.999985"
+"dmg" "-1"
+"target" "reddest11"
+"targetname" "laserred11"
+"origin" "-2582.000000 0.000000 1320.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "0 0 1"
+"angle" "-179.999985"
+"dmg" "-1"
+"target" "reddest12"
+"targetname" "laserred12"
+"origin" "-2574.000000 0.000000 1328.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "0 0 1"
+"angle" "-179.999985"
+"dmg" "-1"
+"target" "reddest13"
+"targetname" "laserred13"
+"origin" "-2582.000000 0.000000 1320.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"colormod" "0 0 1"
+"angle" "-179.999985"
+"dmg" "-1"
+"target" "reddest14"
+"targetname" "laserred14"
+"origin" "-2582.000000 0.000000 1320.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"model" "*27"
+"target" "activate14"
+"angle" "-2"
+"targetname" "buttonred14"
+"wait" "1"
+"speed" "1000"
+"classname" "func_button"
+}
+{
+"angle" "-174.597000"
+"targetname" "reddest14"
+"origin" "-769.215332 161.757202 -104.000000"
+"classname" "target_position"
+}
+{
+"angle" "-174.597000"
+"targetname" "activate14"
+"wait" "2"
+"target" "laserred14"
+"origin" "-753.286621 163.263672 -104.000000"
+"classname" "trigger_monoflop"
+}
+{
+"angle" "-174.597000"
+"killtarget" "trainred31"
+"target" "reddest14"
+"origin" "-753.286621 163.263672 -88.000000"
+"classname" "misc_follow"
+}
+{
+"model" "*28"
+"speed" "500"
+"targetname" "trainred31"
+"target" "trainred32"
+"classname" "func_train"
+}
+{
+"angle" "-174.597000"
+"targetname" "trainred32"
+"target" "trainred34"
+"origin" "-785.144287 160.250610 -88.000000"
+"classname" "path_corner"
+}
+{
+"angle" "-174.597000"
+"targetname" "trainred34"
+"target" "trainred32"
+"origin" "-1136.255615 125.418457 -88.000000"
+"classname" "path_corner"
+}
+{
+"origin" "3472.000000 1776.000000 560.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "3472.000000 1264.000000 560.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "3472.000000 752.000000 560.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "3472.000000 240.000000 560.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "3472.000000 -272.000000 560.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "3472.000000 -784.000000 560.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "3472.000000 -1296.000000 560.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "3472.000000 -1808.000000 560.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "180.000000"
+"origin" "2816.000000 1872.000000 64.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-179.999985"
+"origin" "2320.000000 1136.000000 64.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-179.999985"
+"origin" "2080.000000 720.000000 160.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-179.999985"
+"origin" "2480.000000 -1920.000000 64.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-179.999985"
+"origin" "2272.000000 -1408.000000 64.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-179.999985"
+"origin" "1824.000000 -256.000000 64.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-179.999985"
+"origin" "-3472.000000 -1808.000000 560.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "-3472.000000 -1296.000000 560.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "-3472.000000 -784.000000 560.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "-3472.000000 -272.000000 560.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "-3472.000000 240.000000 560.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "-3472.000000 752.000000 560.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "-3472.000000 1264.000000 560.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "-3472.000000 1776.000000 560.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "0.000009"
+"origin" "-2656.000000 1680.000000 64.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "0.000009"
+"origin" "-1984.000000 1328.000000 64.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "0.000009"
+"origin" "-2480.000000 -240.000000 64.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "0.000009"
+"origin" "-1984.000000 -800.000000 144.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "0.000009"
+"origin" "-1696.000000 -1184.000000 64.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "0.000009"
+"origin" "-2880.000000 -1664.000000 64.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "0.000009"
+"origin" "-1808.000000 80.000000 64.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "90.000015"
+"origin" "-1936.000000 -2448.000000 560.000000"
+"classname" "info_player_team3"
+}
+{
+"angle" "90.000015"
+"origin" "-1424.000000 -2448.000000 560.000000"
+"classname" "info_player_team3"
+}
+{
+"angle" "90.000015"
+"origin" "-912.000000 -2448.000000 560.000000"
+"classname" "info_player_team3"
+}
+{
+"angle" "90.000015"
+"origin" "-400.000000 -2448.000000 560.000000"
+"classname" "info_player_team3"
+}
+{
+"angle" "90.000015"
+"origin" "112.000000 -2448.000000 560.000000"
+"classname" "info_player_team3"
+}
+{
+"angle" "90.000015"
+"origin" "624.000000 -2448.000000 560.000000"
+"classname" "info_player_team3"
+}
+{
+"angle" "90.000015"
+"origin" "1136.000000 -2448.000000 560.000000"
+"classname" "info_player_team3"
+}
+{
+"angle" "90.000015"
+"origin" "1648.000000 -2448.000000 560.000000"
+"classname" "info_player_team3"
+}
+{
+"angle" "-90.000000"
+"origin" "1424.000000 2448.000000 560.000000"
+"classname" "info_player_team4"
+}
+{
+"angle" "-90.000000"
+"origin" "912.000000 2448.000000 560.000000"
+"classname" "info_player_team4"
+}
+{
+"angle" "-90.000000"
+"origin" "400.000000 2448.000000 560.000000"
+"classname" "info_player_team4"
+}
+{
+"angle" "-90.000000"
+"origin" "-112.000000 2448.000000 560.000000"
+"classname" "info_player_team4"
+}
+{
+"angle" "-90.000000"
+"origin" "-624.000000 2448.000000 560.000000"
+"classname" "info_player_team4"
+}
+{
+"angle" "-90.000000"
+"origin" "-1136.000000 2448.000000 560.000000"
+"classname" "info_player_team4"
+}
+{
+"angle" "-90.000000"
+"origin" "-1648.000000 2448.000000 560.000000"
+"classname" "info_player_team4"
+}
+{
+"angle" "-90.000000"
+"origin" "-2160.000000 2448.000000 560.000000"
+"classname" "info_player_team4"
+}
+{
+"angle" "-90.000000"
+"targetname" "wall9"
+"origin" "-1020.000000 -2052.000000 168.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall9"
+"origin" "-1020.000000 2040.000000 168.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall9"
+"origin" "-1020.000000 1272.000000 168.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall9"
+"origin" "-1020.000000 248.000000 168.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall9"
+"origin" "-1020.000000 -520.000000 168.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall9"
+"origin" "-1020.000000 -1288.000000 168.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"targetname" "wall10"
+"origin" "-1020.000000 -2056.000000 56.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall10"
+"origin" "-1020.000000 2040.000000 56.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall10"
+"origin" "-1020.000000 1272.000000 56.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall10"
+"origin" "-1020.000000 248.000000 56.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall10"
+"origin" "-1020.000000 -520.000000 56.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall10"
+"origin" "-1020.000000 -1288.000000 56.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "89.999992"
+"targetname" "wall12"
+"origin" "-1020.000000 2548.000000 680.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "89.999992"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall12"
+"origin" "-1020.000000 2396.000000 680.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "89.999992"
+"targetname" "wall11"
+"origin" "-1020.000000 2556.000000 568.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall11"
+"origin" "-1020.000000 2396.000000 568.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "89.999992"
+"targetname" "wall14"
+"origin" "-1020.000000 2400.000000 680.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "89.999992"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall14"
+"origin" "-1020.000000 2048.000000 168.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "89.999992"
+"targetname" "wall13"
+"origin" "-1020.000000 2404.000000 568.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall13"
+"origin" "-1020.000000 2048.000000 56.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"targetname" "wall16"
+"origin" "-1020.000000 -2548.000000 680.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall16"
+"origin" "-1020.000000 -2396.000000 680.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"targetname" "wall15"
+"origin" "-1020.000000 -2556.000000 568.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall15"
+"origin" "-1020.000000 -2396.000000 568.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"targetname" "wall18"
+"origin" "-1020.000000 -2400.000000 680.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall18"
+"origin" "-1020.000000 -2048.000000 168.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"targetname" "wall17"
+"origin" "-1020.000000 -2404.000000 568.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged1"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall17"
+"origin" "-1020.000000 -2048.000000 56.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"model" "*29"
+"message" "Fences switched on/off !!!"
+"target" "damaged1"
+"sounds" "2"
+"wait" "30"
+"health" "20"
+"classname" "trigger_multiple"
+}
+{
+"model" "*30"
+"target" "bluetrans1"
+"classname" "trigger_teleport"
+}
+{
+"targetname" "bluetrans1"
+"origin" "-759.000000 -1431.000000 55.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"model" "*31"
+"target" "bluetrans2"
+"classname" "trigger_teleport"
+}
+{
+"angles" "-0.000000 0.000003 0.000010"
+"targetname" "bluetrans2"
+"origin" "-783.000000 1503.000000 54.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"model" "*32"
+"target" "bluetrans3"
+"classname" "trigger_teleport"
+}
+{
+"angle" "-179.999985"
+"targetname" "bluetrans3"
+"origin" "759.000000 1431.000000 55.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"model" "*33"
+"target" "bluetrans4"
+"classname" "trigger_teleport"
+}
+{
+"angles" "-0.000000 -179.999985 0.000010"
+"targetname" "bluetrans4"
+"origin" "783.000000 -1503.000000 54.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"angle" "90.000000"
+"targetname" "wall28"
+"origin" "978.000000 2052.000000 169.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall28"
+"origin" "978.000000 -2040.000000 169.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall28"
+"origin" "978.000000 -1272.000000 169.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall28"
+"origin" "978.000000 -248.000000 169.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall28"
+"origin" "978.000000 520.000000 169.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall28"
+"origin" "978.000000 1288.000000 169.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"targetname" "wall19"
+"origin" "978.000000 2056.000000 57.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall19"
+"origin" "978.000000 -2040.000000 57.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall19"
+"origin" "978.000000 -1272.000000 57.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall19"
+"origin" "978.000000 -248.000000 57.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall19"
+"origin" "978.000000 520.000000 57.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall19"
+"origin" "978.000000 1288.000000 57.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"targetname" "wall21"
+"origin" "978.000000 -2548.000000 681.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall21"
+"origin" "978.000000 -2396.000000 681.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"targetname" "wall20"
+"origin" "978.000000 -2556.000000 569.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall20"
+"origin" "978.000000 -2396.000000 569.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"targetname" "wall23"
+"origin" "978.000000 -2400.000000 681.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall23"
+"origin" "978.000000 -2048.000000 169.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "-90.000000"
+"targetname" "wall22"
+"origin" "978.000000 -2404.000000 569.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "-90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall22"
+"origin" "978.000000 -2048.000000 57.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"targetname" "wall25"
+"origin" "978.000000 2548.000000 681.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall25"
+"origin" "978.000000 2396.000000 681.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"targetname" "wall24"
+"origin" "978.000000 2556.000000 569.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall24"
+"origin" "978.000000 2396.000000 569.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"targetname" "wall27"
+"origin" "978.000000 2400.000000 681.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall27"
+"origin" "978.000000 2048.000000 169.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"angle" "90.000000"
+"targetname" "wall26"
+"origin" "978.000000 2404.000000 569.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"targetname" "damaged2"
+"angle" "90.000000"
+"colormod" "1 0 1"
+"dmg" "-1"
+"target" "wall26"
+"origin" "978.000000 2048.000000 57.000000"
+"classname" "misc_laser"
+"mdl" "none"
+}
+{
+"model" "*34"
+"message" "Fences switched on/off !!!"
+"target" "damaged2"
+"sounds" "2"
+"wait" "30"
+"health" "20"
+"classname" "trigger_multiple"
+}
+{
+"model" "*35"
+"target" "pushblu1"
+"classname" "trigger_push"
+}
+{
+"targetname" "pushblu1"
+"origin" "850.000000 1454.000000 377.000000"
+"classname" "target_position"
+}
+{
+"model" "*36"
+"target" "pushblu2"
+"classname" "trigger_push"
+}
+{
+"targetname" "pushblu2"
+"origin" "850.000000 302.000000 377.000000"
+"classname" "target_position"
+}
+{
+"model" "*37"
+"target" "pushblu3"
+"classname" "trigger_push"
+}
+{
+"targetname" "pushblu3"
+"origin" "850.000000 -722.000000 377.000000"
+"classname" "target_position"
+}
+{
+"model" "*38"
+"target" "pushblu4"
+"classname" "trigger_push"
+}
+{
+"targetname" "pushblu4"
+"origin" "850.000000 -1490.000000 377.000000"
+"classname" "target_position"
+}
+{
+"model" "*39"
+"target" "pushblu5"
+"classname" "trigger_push"
+}
+{
+"angle" "-179.999985"
+"targetname" "pushblu5"
+"origin" "-722.000000 1490.000000 377.000000"
+"classname" "target_position"
+}
+{
+"model" "*40"
+"target" "pushblu6"
+"classname" "trigger_push"
+}
+{
+"angle" "-179.999985"
+"targetname" "pushblu6"
+"origin" "-722.000000 594.000000 537.000000"
+"classname" "target_position"
+}
+{
+"model" "*41"
+"target" "pushblu7"
+"classname" "trigger_push"
+}
+{
+"angle" "-179.999985"
+"targetname" "pushblu7"
+"origin" "-818.000000 -334.000000 377.000000"
+"classname" "target_position"
+}
+{
+"model" "*42"
+"target" "pushblu8"
+"classname" "trigger_push"
+}
+{
+"angle" "-179.999985"
+"targetname" "pushblu8"
+"origin" "-818.000000 -1582.000000 377.000000"
+"classname" "target_position"
+}
