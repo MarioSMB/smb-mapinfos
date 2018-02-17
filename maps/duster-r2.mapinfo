@@ -1,10 +1,10 @@
-title Duster
-description Visit an old friend!
-author SavageX
+title Duster-r2
+description Visit an old friend! vehicle support by Jeff
+author SavageX 
 has weapons
 has vehicles
-cdtrack 14
 gametype ctf
 gametype vip
 gametype kh
-gametype inf
+
+fog 0.2 .7 .3 .1 .4
