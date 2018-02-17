@@ -1,0 +1,19 @@
+title Dark Corridors
+description A darkmatch
+author MikeeUSA
+cdtrack 4
+has weapons
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype dom
+gametype vip
+gametype kh
+gametype inf
+
+clientsettemp_for_type all r_ambient 0

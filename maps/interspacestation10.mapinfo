@@ -1,0 +1,13 @@
+title Interspacestation
+description Large open space map
+author MikeeUSA (LICENSE: GNU GPL v2)
+_diameter 11228.033203
+_spawnpoints 19
+cdtrack DockingProcedures
+has weapons
+gametype ctf
+gametype kh
+gametype dom
+settemp_for_type all sv_gravity 160
+settemp_for_type all g_balance_jumpheight 600
+

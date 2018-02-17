@@ -1,0 +1,10 @@
+title BOOM
+description BOOM
+author Master
+has weapons
+cdtrack dk_evil
+gametype dm
+gametype ka
+gametype tdm
+gametype arena
+gametype lms

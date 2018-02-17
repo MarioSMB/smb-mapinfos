@@ -1,0 +1,9 @@
+title Swamp
+description A medium sized map
+author shaggy, thanks to TK471
+has weapons
+cdtrack 4
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

@@ -1,0 +1,8 @@
+title Skycastle
+description Medium CTF map in the sky
+author Cortez
+has weapons
+cdtrack 4
+gametype ctf
+gametype kh
+gametype vip

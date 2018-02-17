@@ -1,0 +1,6 @@
+title The Age of Tenebra
+description Large terrain map
+author Kit Carson & Nemo
+has weapons
+gametype ctf
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

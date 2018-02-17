@@ -1,0 +1,8 @@
+title recrate
+description quick and ugly map made for overkill mod
+author Morphed
+cdtrack 4
+has weapons
+gametype ctf
+gametype vip
+gametype kh

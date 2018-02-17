@@ -1,0 +1,11 @@
+title Fair Dastower
+description Huge open CTF map with sky hooking
+author MikeeUSA, mod by BlackDragon-131
+has weapons
+cdtrack at-demo-2
+gametype ctf
+gametype dom
+gametype cq
+gametype vip
+gametype kh
+gametype inf

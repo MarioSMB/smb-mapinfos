@@ -1,0 +1,13 @@
+title SlimePipe
+description A sewer arena
+author MikeeUSA (LICENSE: GNU GPL v2)
+_diameter 7066.278320
+_spawnpoints 14
+cdtrack AyMambo
+has weapons
+gametype dm
+gametype dom
+gametype lms
+gametype ka
+gametype tdm
+fog 0.2 0.5 1 0.3 0.8 1024

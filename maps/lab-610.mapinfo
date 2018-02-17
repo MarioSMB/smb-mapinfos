@@ -1,0 +1,19 @@
+title Lab 610
+description A lab with heavy machinery and stuff
+author Mircea Kitsune
+cdtrack 3
+has weapons
+gametype dm
+gametype tdm
+gametype lms
+gametype ctf
+gametype ons
+gametype nb
+gametype ca
+gametype dom
+gametype kh
+gametype inf
+gametype vip
+gametype ft
+gametype ka
+gametype tdm

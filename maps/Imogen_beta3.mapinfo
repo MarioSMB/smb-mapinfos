@@ -1,0 +1,12 @@
+title Imogen BETA 3
+description A small/medium sized space dm map 
+author Kay Pisarowitz
+cdtrack Paragliding
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+gametype ctf
+gametype kh
+gametype ft

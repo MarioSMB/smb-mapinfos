@@ -1,0 +1,9 @@
+title Boogie
+description Large CTF map
+author Grasshopper
+cdtrack 4
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

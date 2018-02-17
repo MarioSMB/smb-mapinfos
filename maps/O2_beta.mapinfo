@@ -1,0 +1,9 @@
+title O2
+description Like Oxygen?
+author OopsyBear and (Player_2)
+cdtrack 6
+has weapons
+gametype tdm
+gametype ctf
+gametype kh
+gametype vip

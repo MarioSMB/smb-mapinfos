@@ -1,0 +1,7 @@
+title Eccentric Entities
+description Re-released
+author {DEMO}LITION
+// (uses worldspawn.music) // cdtrack 8
+has weapons
+gametype ctf
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

@@ -1,0 +1,11 @@
+title PyconicCTF
+description Small tech CTF map in an initial collation facility
+author MikeeUSA (LICENSE: GNU GPL v2)
+_diameter 5703.545410
+_spawnpoints 28
+cdtrack battle5
+has weapons
+gametype ctf
+gametype kh
+gametype ons
+gametype vip

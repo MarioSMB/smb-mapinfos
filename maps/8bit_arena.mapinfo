@@ -1,0 +1,9 @@
+title 8-bit Arena
+description A small, intense 8-bit themed arena, with glowy floors.
+author C.Brutail
+cdtrack 12
+has weapons
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

@@ -1,0 +1,9 @@
+title Canned heat 2
+description Small CTF map
+author Unknown[NF]
+// (uses worldspawn.music) // cdtrack 6
+has weapons
+gametype ctf
+gametype kh
+gametype vip
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

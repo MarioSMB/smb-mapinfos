@@ -1,0 +1,18 @@
+title Chiroptera DM
+description Deathmatch
+author Alcatraz / Nunuk / Sock
+has weapons
+cdtrack 15
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype dom
+gametype vip
+gametype kh
+gametype inf
+
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

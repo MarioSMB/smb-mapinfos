@@ -1,0 +1,9 @@
+title ideas
+description A sandbox to try out mapping ideas
+author Neil <xonotic@dist.ro>
+cdtrack 9
+gametype ctf
+gametype kh
+gametype ft
+gametype vip
+clientsettemp_for_type all r_ambient 1.5

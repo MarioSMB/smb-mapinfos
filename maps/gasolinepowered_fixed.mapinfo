@@ -1,0 +1,9 @@
+title Gasoline Powered - Fixed
+description Simple remix with Xonotic textures
+author Mario
+cdtrack 4
+has weapons
+gametype ctf
+gametype ft
+gametype kh
+gametype vip

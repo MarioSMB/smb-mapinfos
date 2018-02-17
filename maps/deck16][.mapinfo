@@ -1,0 +1,17 @@
+title Deck16][
+description Classic Unreal Tournament map, Deck 16
+author Elliot "Myscha" Cannon, ported by Mircea Kitsune
+has weapons
+cdtrack godown
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype dom
+gametype vip
+gametype kh
+gametype inf
+

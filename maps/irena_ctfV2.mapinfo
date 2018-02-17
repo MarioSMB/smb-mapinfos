@@ -1,0 +1,6 @@
+title iRena Rev 2
+description Medum sized arena style map
+author Jakob "tZork" MG, Cortez
+has weapons
+cdtrack 15
+gametype ctf

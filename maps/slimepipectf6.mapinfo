@@ -1,0 +1,10 @@
+title SlimePipe
+description Sewer complex
+author MikeeUSA (LICENSE: GNU GPL v2)
+_diameter 10355.029297
+_spawnpoints 28
+cdtrack AyMambo
+has weapons
+gametype ctf
+gametype kh
+fog 0.2 0.5 1 0.3 0.8 1024

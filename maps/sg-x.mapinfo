@@ -1,0 +1,8 @@
+title SG-X
+description Just-for-fun domination map
+author nowego
+cdtrack 8
+has weapons
+gametype dom
+gametype dm
+gametype ft

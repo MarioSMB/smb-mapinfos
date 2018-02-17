@@ -1,0 +1,10 @@
+title Opposing Castles
+description Large castles
+author MikeeUSA (LICENSE: GNU GPL v2)
+cdtrack nondescriptviolin1
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+hidden
+noautomaplist

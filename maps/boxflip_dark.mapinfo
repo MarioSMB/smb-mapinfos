@@ -1,0 +1,18 @@
+title Box Flip
+description Box gardens turned on it's head
+author Clueless Newbie / C Lund / Darkened by Mario
+cdtrack 4
+has weapons
+gametype ctf
+gametype tdm
+gametype arena
+gametype dom
+gametype ons
+gametype ft
+gametype ca
+gametype vip
+gametype kh
+gametype inf
+
+settemp_for_type all g_turrets 0 
+settemp_for_type ons g_turrets 1 

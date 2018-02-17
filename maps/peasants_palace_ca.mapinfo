@@ -1,0 +1,10 @@
+title Peasants Palace
+description Battle in the peasants palace
+author PinkRobot
+cdtrack 6
+has weapons
+gametype ca
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

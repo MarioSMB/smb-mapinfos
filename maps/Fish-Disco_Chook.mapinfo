@@ -1,0 +1,11 @@
+title Fish-Disco_Chook
+description epic disco stomp, music by chooksta
+author Fishman
+cdtrack chooksta_dj
+has weapons
+gametype ctf
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype vip

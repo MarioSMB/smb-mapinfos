@@ -1,0 +1,7 @@
+title Nova Fortress
+description Medium space CTF map
+author Unknown[NF]
+// (uses worldspawn.music) // cdtrack 2
+has weapons
+gametype ctf
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

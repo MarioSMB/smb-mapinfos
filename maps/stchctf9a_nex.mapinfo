@@ -1,0 +1,7 @@
+title courtyard
+description reloaded
+author Unknown
+cdtrack 10
+has weapons
+gametype ctf
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

@@ -1,0 +1,10 @@
+title Frozen Colors
+description Frozen Colors
+author 79DieselRabbit
+has weapons
+cdtrack 12
+gametype ctf
+gametype kh
+gametype vip
+
+fog 0.2 0.8 0.8 1 0.2 2000 99999

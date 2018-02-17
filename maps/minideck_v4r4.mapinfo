@@ -1,0 +1,12 @@
+title MiniDeck
+description Small map inspired by a rather famous UT99 map
+author Florian Paul "lda17h" Schmidt
+cdtrack 3
+has weapons
+gametype dm
+gametype lms
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype kh

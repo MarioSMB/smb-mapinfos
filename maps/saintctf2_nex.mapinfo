@@ -1,0 +1,9 @@
+title Saint CTF 2
+description Medium sized CTF map
+author Kaziganthe
+// (uses worldspawn.music) // cdtrack 10
+has weapons
+gametype ctf
+gametype kh
+gametype vip
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

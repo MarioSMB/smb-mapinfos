@@ -1,0 +1,11 @@
+title Chemical
+description The slime processing plant
+author DAX
+has weapons
+cdtrack "Dax - Mindleak"
+gametype dm
+gametype ka
+gametype tdm
+gametype lms
+
+fog 0.3 0.4 0.6 0 0.15 300 8000

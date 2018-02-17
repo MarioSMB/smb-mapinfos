@@ -1,0 +1,7 @@
+title Floating Stonefaces
+description Some floating platforms in the sky, for play with Rocketlauncher only
+author sst13
+has weapons
+cdtrack 4
+gametype ctf
+gametype vip

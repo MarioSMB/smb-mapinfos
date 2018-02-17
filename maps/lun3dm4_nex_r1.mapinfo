@@ -1,0 +1,10 @@
+title Pull Your Socks Up
+description Small Abandoned Deathmatch Arena
+author Lunaran
+cdtrack 5
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

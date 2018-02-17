@@ -1,0 +1,16 @@
+title Crimson Mountain
+description Large outdoor map, good for at least 5 players
+author Mircea Kitsune
+has weapons
+cdtrack 6
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf

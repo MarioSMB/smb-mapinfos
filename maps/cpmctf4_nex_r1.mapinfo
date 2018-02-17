@@ -1,0 +1,8 @@
+title Out of the Dark
+description CTF/NTF
+author Rich "swelt" Jacques
+cdtrack 6
+has weapons
+gametype ctf
+gametype vip
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

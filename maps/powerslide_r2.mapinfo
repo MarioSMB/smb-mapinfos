@@ -1,0 +1,6 @@
+title POWER SLIDE
+description falling down, falling down
+author Morphed
+cdtrack 3
+gametype rc
+settemp_for_type all g_jetpack 1

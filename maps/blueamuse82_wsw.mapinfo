@@ -1,0 +1,17 @@
+title Blue Amuse
+description Large-sized map set in a Cell refinery and packaging plant
+author MikeeUSA (LICENSE: GNU GPL v2)
+cdtrack 5
+has weapons
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype rc
+gametype ons
+gametype dom
+gametype vip
+gametype kh
+gametype inf
+
+settemp_for_type all g_shootfromeye 1

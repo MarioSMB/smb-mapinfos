@@ -1,0 +1,11 @@
+title Forest Houses
+description Small houses in the forest
+author Mario
+cdtrack at-demo-2
+has weapons
+gametype ctf
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype vip

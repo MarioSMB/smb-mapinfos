@@ -1,0 +1,16 @@
+title MentalREspaceDv2
+description Small space map
+author tZork, Merlwiz79
+cdtrack 15
+has weapons
+gametype ctf
+gametype dm
+gametype dom
+gametype lms
+gametype ka
+gametype tdm
+gametype tdm
+gametype ca
+gametype ft
+gametype kh
+gametype vip

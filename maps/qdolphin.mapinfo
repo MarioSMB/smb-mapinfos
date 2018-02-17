@@ -1,0 +1,8 @@
+title QDolphin
+description Giant floating cyber animal
+author Quint (Marco Quintavalle)
+has weapons
+cdtrack qdolphin
+gametype lms
+gametype dm
+gametype tdm

@@ -1,0 +1,12 @@
+title Chasm V2
+description Medium-sized CTF map with a deep chasm
+author -z-
+has weapons
+cdtrack 6
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype vip
+gametype kh
+gametype inf

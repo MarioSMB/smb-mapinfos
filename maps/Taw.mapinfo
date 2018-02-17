@@ -1,0 +1,6 @@
+title Taw 
+description An old q3 map rebuilt for Nexuiz 
+author ./killit & 
+has weapons
+gametype dm
+gametype tdm

@@ -1,0 +1,7 @@
+title outofthisworld_v2
+description Big CTF map with vehicles
+author forseti
+cdtrack wisdom
+has weapons
+has vehicles
+gametype ctf

@@ -1,0 +1,10 @@
+title Desert Castles - Mod
+description Large desert map
+author MikeeUSA, mod by Clueless Newbie
+has weapons
+cdtrack blackllama
+gametype ctf
+gametype dom
+gametype cq
+gametype vip
+gametype kh

@@ -1,0 +1,6 @@
+title MojoCTF
+description A small space CTF map
+author tZork 
+cdtrack 14
+has weapons
+gametype ctf

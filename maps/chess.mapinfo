@@ -1,0 +1,15 @@
+title Chess
+description Strategy wins!
+author -z-
+has weapons
+cdtrack chess
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf

@@ -1,0 +1,15 @@
+title Concrete Space
+description A concrete space station map with platforms for CTF
+author Nodenum
+cdtrack 11
+has weapons
+gametype ctf
+gametype tdm
+gametype ca
+gametype dom
+gametype cq
+gametype ons
+gametype ft
+gametype vip
+gametype kh
+gametype inf

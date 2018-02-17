@@ -1,0 +1,15 @@
+title Figure8Revisited, *final*
+description Symmetrical CTF map
+author Clueless Newbie / C Lund
+cdtrack Figure8
+has weapons
+gametype ctf
+gametype dm
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip

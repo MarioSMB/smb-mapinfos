@@ -1,0 +1,11 @@
+title Pharaoh's Gate
+description Pharaoh's Gate
+author haste
+has weapons
+cdtrack 3
+gametype ctf
+gametype vip
+gametype kh
+gametype inf
+
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

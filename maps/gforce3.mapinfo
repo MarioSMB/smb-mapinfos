@@ -1,0 +1,11 @@
+title Ground Force!
+description The third
+author Cortez
+has weapons
+cdtrack 8
+gametype ctf
+gametype kh
+gametype vip
+
+_diameter 6797.103516
+_spawnpoints 36

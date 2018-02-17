@@ -1,0 +1,9 @@
+title On A Rail
+description CTF action on a train
+author SavageX
+has weapons
+cdtrack 4
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

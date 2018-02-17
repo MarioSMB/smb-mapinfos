@@ -1,0 +1,10 @@
+title Farewell laser fun
+description Small and very fast tourney map
+author tymo aka henning janssen
+has weapons
+cdtrack 5
+gametype dm
+gametype tdm
+gametype ka
+gametype tdm
+gametype lms

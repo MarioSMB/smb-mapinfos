@@ -1,0 +1,12 @@
+title 19mai
+description Small ctf map
+author Muad'Dib
+has weapons
+cdtrack 13
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype vip
+gametype kh
+gametype inf

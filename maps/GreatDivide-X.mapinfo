@@ -1,0 +1,9 @@
+title GreatDivide-X
+description CTF map. Original by Clueless Newbie/C Lund
+author Retextured by forseti
+has weapons
+cdtrack GreatDivide
+gametype ctf
+gametype kh
+gametype vip
+gametype dom

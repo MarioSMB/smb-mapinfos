@@ -1,0 +1,10 @@
+title dear Soelen's Room
+description Modelled my Room, 1 to 1
+author Soelen, music by Cimba
+cdtrack cdtracks/machineRoom
+has weapons
+has vehicles
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

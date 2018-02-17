@@ -1,0 +1,30 @@
+title Nexball Challenge Number 1
+description Its a teamplay map! Give the ball to a team member its better to move the ball fast ;)
+author Sven
+gametype nb
+
+settemp_for_type all g_mirrordamage 0
+settemp_for_type all g_balance_selfdamagepercent 0
+
+settemp_for_type all g_start_weapon_laser 1
+settemp_for_type all g_balance_laser_primary_damage 1
+settemp_for_type all g_balance_laser_primary_radius 10
+settemp_for_type all g_balance_laser_primary_refire 0.4
+settemp_for_type all g_balance_laser_primary_speed 2000
+settemp_for_type all g_balance_nex_force 300
+
+settemp_for_type all g_turrets_unit_phaser_std_aim_maxpitch 90
+settemp_for_type all g_turrets_unit_phaser_std_shot_dmg 0
+settemp_for_type all g_turrets_unit_phaser_std_aim_maxrot 90
+settemp_for_type all g_turrets_unit_phaser_std_aim_speed 200
+settemp_for_type all g_turrets_unit_phaser_std_target_select_missilebias 1
+
+settemp_for_type all g_start_weapon_rocketlauncher 1
+settemp_for_type all g_balance_rocketlauncher_damage 0
+settemp_for_type all g_balance_rocketlauncher_ammo 0
+settemp_for_type all g_balance_rocketlauncher_force 500
+
+settemp_for_type all g_start_weapon_nex 1
+settemp_for_type all g_balance_nex_damage 0
+settemp_for_type all g_balance_nex_force 200
+settemp_for_type all g_balance_nex_ammo 0

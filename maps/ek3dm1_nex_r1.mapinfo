@@ -1,0 +1,14 @@
+title The Abandoned Post
+description A tourney map made for q3's CPMA-mod
+author Electro / Killazontherun
+has weapons
+cdtrack 3
+gametype dm
+gametype tdm
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+
+settemp_for_type all sv_q3acompat_machineshotgunswap 1
+settemp_for_type all r_ambient 9

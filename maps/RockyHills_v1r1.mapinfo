@@ -1,0 +1,20 @@
+title Rocky Hills
+description An outdoors map for CTF & ONS
+author Clueless Newbie / C Lund
+cdtrack 4
+has weapons
+has turrets
+settemp_for_type all g_turrets 0 
+settemp_for_type ons g_turrets 1 
+size -5000 -5000 -1000 5000 5000 1500
+gametype ctf
+gametype dom
+gametype kh
+gametype ons
+gametype ft
+gametype ca
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+gametype vip

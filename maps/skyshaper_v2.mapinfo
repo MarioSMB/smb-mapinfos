@@ -1,0 +1,9 @@
+title SkyShaper v2
+description How do these kind of maps actually stay in the air?
+author freefang, modified by Merlwiz79
+has weapons
+cdtrack 11
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

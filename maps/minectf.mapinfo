@@ -1,0 +1,19 @@
+title MineCTF
+description Blocky CTF map
+author Mario, Ari, Kammy, Floxy, ICU, Calcifer
+cdtrack minectf
+has weapons
+gametype ctf
+gametype kh
+gametype ft
+gametype ca
+gametype tdm
+
+settemp_for_type all sv_allow_customplayermodels 0
+settemp_for_type all sv_defaultcharacter 1
+settemp_for_type all sv_defaultplayermodel "models/player/steve.dpm models/player/steve.dpm:1 models/player/steve.dpm:2 models/player/steve.dpm:3 models/player/steve.dpm:4"
+settemp_for_type all sv_defaultplayermodel_red ""
+settemp_for_type all sv_defaultplayermodel_blue ""
+settemp_for_type all sv_defaultplayermodel_yellow ""
+settemp_for_type all sv_defaultplayermodel_pink ""
+settemp_for_type all sv_defaultplayerskin 0

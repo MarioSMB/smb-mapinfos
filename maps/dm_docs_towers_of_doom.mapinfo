@@ -1,0 +1,21 @@
+( DM ) Docs Towers Of Doom
+maps/towers_of_doom
+
+
+Max Players: 8
+( Small fast Action Map )
+Game Mode : Deathmatch
+
+Author:
+Doc-Pyton
+Email : dow.sensor@gmx.de
+
+title Docs Towers Of Doom
+description Small fast action map
+author Doc-Pyton
+has weapons
+cdtrack dk_evil
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

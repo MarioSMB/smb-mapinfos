@@ -1,0 +1,9 @@
+title Escher
+description Large tight map with lots of obstacles
+author vael
+has weapons
+cdtrack 16
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

@@ -1,0 +1,16 @@
+title Army Tunnels CTF
+description Tight spaces, look for secrets!
+author 70MM13
+has weapons
+cdtrack 70mm13_10ctf
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf

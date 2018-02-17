@@ -1,0 +1,7 @@
+title Mental Fog
+description Good luck...
+author tZork/RoKenn
+cdtrack 9
+has weapons
+gametype ctf
+settemp_for_type all sv_foginterval 3

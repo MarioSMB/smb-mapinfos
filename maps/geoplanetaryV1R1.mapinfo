@@ -1,0 +1,8 @@
+title Geoplanetary
+description Remake of geomonetary for xonotic
+author mintOX
+has weapons
+cdtrack 9
+gametype ctf
+gametype kh
+gametype vip

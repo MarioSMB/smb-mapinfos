@@ -1,0 +1,10 @@
+title RedStarRepublic
+description Large russian forts
+author MikeeUSA (LICENSE: GNU GPL v2)
+cdtrack isoext
+has weapons
+gametype ctf
+gametype kh
+hidden
+noautomaplist
+

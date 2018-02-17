@@ -1,0 +1,15 @@
+title Glow Arena
+description A small arena map
+author Garth Hendy
+has weapons
+cdtrack 9
+gametype dm
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype dom

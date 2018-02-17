@@ -1,0 +1,9 @@
+title Silver City Reloaded
+description A large, very open map
+author Forest Hale, Garth Hendy, Jakob "tZork" MG, [uc]Master
+has weapons
+cdtrack bones
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

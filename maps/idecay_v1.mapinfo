@@ -1,0 +1,6 @@
+title idecay
+description A flat, maze-like CTF map with some acid.
+author nowego
+cdtrack 14
+has weapons
+gametype ctf

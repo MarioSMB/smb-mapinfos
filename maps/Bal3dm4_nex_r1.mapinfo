@@ -1,0 +1,15 @@
+title Scrap Metal
+description Conversion of baldm6
+author Benoit "Bal" Stordeur
+has weapons
+cdtrack 12
+gametype dm
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

@@ -1,0 +1,11 @@
+title Peace 4
+description PEACEBROTHERS!!!!
+author Peace Brothers
+has weapons
+cdtrack 6
+gametype dm
+hidden
+settemp_for_type all mod_collision_bih 0
+settemp_for_type all mod_recalculatenodeboxes 0
+clientsettemp_for_type all mod_collision_bih 0
+clientsettemp_for_type all mod_recalculatenodeboxes 0

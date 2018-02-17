@@ -1,0 +1,23 @@
+title AcrossAnOcean
+description Desolate isles far apart
+author MikeeUSA
+has weapons
+cdtrack new_patriarchy_forever_v1
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype arena
+gametype lms
+gametype vip
+gametype kh
+gametype inf
+
+settemp_for_type all g_balance_seeker_missile_lifetime 120
+settemp_for_type all g_balance_rocketlauncher_lifetime 120
+settemp_for_type all g_balance_hagar_primary_lifetime 120
+settemp_for_type all g_balance_hagar_secondary_lifetime 120
+settemp_for_type all g_balance_electro_primary_lifetime 120

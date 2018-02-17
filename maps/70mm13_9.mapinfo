@@ -1,0 +1,9 @@
+title Plasmarena
+description keep moving and aim well
+author 70MM13
+has weapons
+cdtrack 70mm13_9
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

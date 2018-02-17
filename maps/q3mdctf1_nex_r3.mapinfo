@@ -1,0 +1,7 @@
+title Passive Valley
+description Small sized CTF Map, Suitable for 3vs3 and up
+author Matthew Dickson (PassiveAggressor)
+// (uses worldspawn.music) // cdtrack 9
+has weapons
+gametype ctf
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

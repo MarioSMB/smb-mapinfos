@@ -1,0 +1,10 @@
+title Frozen Colors
+description Frozen Colors with working music
+author 79DieselRabbit
+has weapons
+cdtrack chcknbnk
+gametype ctf
+gametype kh
+gametype vip
+
+fog 0

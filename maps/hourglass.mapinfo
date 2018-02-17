@@ -1,0 +1,9 @@
+title Hourglass
+description Small CTF map with lava
+author Unknown
+has weapons
+cdtrack 5
+gametype ctf
+gametype kh
+gametype ft
+gametype vip

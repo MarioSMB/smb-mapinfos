@@ -1,0 +1,17 @@
+title Aquamarine beta
+description 2on2 team dm
+author fabzor3
+has weapons
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype arena
+gametype lms
+gametype vip
+gametype kh
+gametype inf
+
+fog 0.0800000 0.900000 0.900000 0.900000 0.200000 120.000000 1800.000000

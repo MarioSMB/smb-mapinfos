@@ -1,0 +1,9 @@
+title Pyramid Fight
+description Beta DM map
+author Mr.C00L
+has weapons
+cdtrack 9
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

@@ -1,0 +1,8 @@
+title Obelisks
+description A fortress with deadly obelisks that protect the flags
+author forseti
+cd loop creation
+has weapons
+gametype ctf
+gametype kh
+gametype vip

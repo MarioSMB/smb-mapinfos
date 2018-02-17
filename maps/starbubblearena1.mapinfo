@@ -1,0 +1,14 @@
+title StarBubbleArena
+description A space arena orbiting Mars
+author MikeeUSA (LICENSE: GNU GPL v2)
+_diameter 3681.112793
+_spawnpoints 22
+cdtrack DepressionChamber
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+settemp_for_type all sv_gravity 15
+settemp_for_type all g_balance_jumpheight 1000
+

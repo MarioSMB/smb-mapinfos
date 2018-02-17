@@ -1,0 +1,10 @@
+title Duster
+description Visit an old friend!
+author SavageX
+has weapons
+has vehicles
+cdtrack 14
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

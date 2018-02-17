@@ -1,0 +1,9 @@
+title Shine
+description Converted from OpenArena
+author BARTUC
+has weapons
+cdtrack 13
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

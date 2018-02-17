@@ -1,0 +1,16 @@
+title Crossover
+description Small CTF map
+author Edward Holness
+has weapons
+cdtrack 8
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf

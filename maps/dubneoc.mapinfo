@@ -1,0 +1,15 @@
+title Neorganic Epiphany
+description Small tourney/ffa map
+author Lasse "Dubbilan" Kolding
+has weapons
+cdtrack 6
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf

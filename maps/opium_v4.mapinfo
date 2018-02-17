@@ -1,0 +1,9 @@
+title OPIUM
+description 1on1 and 2on2 Level
+author Ferdinand 'cityy' List
+cdtrack 6
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

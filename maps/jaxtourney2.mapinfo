@@ -1,0 +1,9 @@
+title The Tangled Webs We Weave
+description Small Tourney/FFA level
+author David "Jax_Gator" Cherry
+has weapons
+cdtrack 4
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

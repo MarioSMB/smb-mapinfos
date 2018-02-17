@@ -1,0 +1,9 @@
+title Vorix - JB Test
+description This is Vorix!
+author packer
+cdtrack 6
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype jb

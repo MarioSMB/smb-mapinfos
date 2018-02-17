@@ -1,0 +1,10 @@
+title Monastery
+description Small map, good for freezetag
+author 70MM13
+has weapons
+cdtrack monastery
+gametype dm
+gametype ft
+gametype lms
+gametype ka
+gametype tdm

@@ -1,0 +1,9 @@
+title Desolation
+description DM map designed for insanity
+author impulse9
+has weapons
+cdtrack 9
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

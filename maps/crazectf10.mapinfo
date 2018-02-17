@@ -1,0 +1,12 @@
+title Craze CTF
+description Spinning towers
+author MikeeUSA
+has weapons
+cdtrack battle1battle2
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype vip
+gametype kh
+gametype inf

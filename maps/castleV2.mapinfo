@@ -1,0 +1,13 @@
+title Castle V2
+description its new
+author Cortez
+has weapons
+cdtrack 4
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype vip
+gametype kh
+gametype inf

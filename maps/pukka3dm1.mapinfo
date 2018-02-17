@@ -1,0 +1,7 @@
+title Hot Place
+description Quake3Arena TDM/Tourney level
+author Alexander `thefury´ Mader
+has weapons
+cdtrack 12
+gametype tdm
+gametype dm

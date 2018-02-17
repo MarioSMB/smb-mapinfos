@@ -1,0 +1,7 @@
+title Laminar
+description Simple CTF map
+author Sepelio
+cdtrack 9
+has weapons
+gametype ctf
+gametype kh

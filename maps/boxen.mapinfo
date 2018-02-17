@@ -1,0 +1,9 @@
+title Boxen
+description Get your zeros and ones ready!
+author bryn Mosher
+has weapons
+cdtrack 12
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

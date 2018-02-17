@@ -1,0 +1,9 @@
+title Bases
+description Big map with lots of small corridors
+author Black-Dragon131
+has weapons
+cdtrack 5
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

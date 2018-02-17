@@ -1,0 +1,10 @@
+title Jolly Roger Bay
+description From Super Mario 64
+author Mario
+cdtrack jollyroger
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+settemp_for_type all g_balance_contents_drowndelay 20

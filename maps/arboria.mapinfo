@@ -1,0 +1,16 @@
+title Arboria
+description <DESCRIPTION>
+author <AUTHOR>
+cdtrack 6
+has weapons
+gametype tdm
+gametype ctf
+gametype vip
+gametype kh
+gametype ft
+gametype ca
+gametype dom
+gametype cq
+gametype kh
+gametype ons
+gametype ft

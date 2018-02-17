@@ -1,0 +1,10 @@
+title Penthouse
+description Hong Kong deathmatch map
+author 70MM13
+has weapons
+cdtrack 5
+gametype ctf
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

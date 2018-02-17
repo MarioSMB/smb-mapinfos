@@ -1,0 +1,8 @@
+title Tokam
+description Small DM map where fight and destroy the enemy
+author Fabio “BARTUC” Piccinni
+cdtrack 5
+has weapons
+gametype dm
+gametype kh
+gametype ft

@@ -1,0 +1,12 @@
+title Necchesu
+description Chess!
+author Rudolf "div0" Polzer
+has weapons
+cdtrack div0-escalation
+gametype dm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip

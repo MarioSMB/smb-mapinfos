@@ -1,0 +1,9 @@
+title Slime Factory
+description Slimy industrial area
+author Cortez
+has weapons
+cdtrack 4
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

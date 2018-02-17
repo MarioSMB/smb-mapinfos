@@ -1,0 +1,9 @@
+title Penthouse
+description Giant sized penthouse made for sneaky gameplay and sniping
+author 70MM13
+has weapons
+cdtrack power
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

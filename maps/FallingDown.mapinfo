@@ -1,0 +1,8 @@
+title Falling Down
+description I just had to do this, sorry
+author Clueless Newbie / C Lund
+has weapons
+cdtrack "Falling Down"
+gametype dm
+gametype lms
+settemp_for_type all sv_gravity 50

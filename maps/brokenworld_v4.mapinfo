@@ -1,0 +1,9 @@
+title Br0k3nWorld
+description The camping map
+author tZork
+has weapons
+cdtrack 3
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

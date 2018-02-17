@@ -1,0 +1,13 @@
+title SymFireball
+description Fireballs!!
+author Ari
+cdtrack symfireball
+has weapons
+gametype ctf
+gametype kh
+gametype ft
+gametype dm
+gametype tdm
+gametype lms
+gametype ca
+gametype ka

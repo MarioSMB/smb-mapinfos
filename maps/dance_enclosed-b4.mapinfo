@@ -1,0 +1,19 @@
+title Dance - Enclosed
+description A non-spacemap version of dance
+author Unknown
+cdtrack dance_neutered
+has weapons
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf
+
+_diameter 2978.063721
+_spawnpoints 5

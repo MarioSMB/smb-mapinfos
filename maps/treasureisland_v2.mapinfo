@@ -1,0 +1,15 @@
+title Treasure Island Version 2
+description An abandoned island, holding a glowing secret
+author sev
+cdtrack 16
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+gametype dom
+gametype cq
+gametype kh
+gametype ft
+gametype ca
+gametype vip

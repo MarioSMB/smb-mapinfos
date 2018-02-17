@@ -1,0 +1,10 @@
+title Pull Your Socks Up
+description Designed for Tournament, but works with up to 5
+author Matt "Lunaran"  Breit
+cdtrack 2
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

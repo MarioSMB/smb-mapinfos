@@ -1,0 +1,10 @@
+title Tomb
+description Small arena
+author Mircea Kitsune
+cdtrack remaxim-boss_theme
+has weapons
+gametype dom
+gametype dm
+gametype ons
+gametype kh
+gametype ctf

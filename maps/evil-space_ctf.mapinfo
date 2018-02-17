@@ -1,0 +1,9 @@
+title Evil Space
+description A dark and evil space map
+author Mario
+cdtrack 5
+has weapons
+gametype ctf
+gametype kh
+gametype ft
+gametype vip

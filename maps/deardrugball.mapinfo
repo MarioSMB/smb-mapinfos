@@ -1,0 +1,49 @@
+title dear Drug Ball
+
+author Soelen, music by DrugNoise, Skull by Daniel FR Gordillo
+// http://www.blendswap.com/3D-models/misc-objects/craneo
+// http://www.newgrounds.com/audio/listen/424596
+
+// special thanks: Mario (SMB), qbit (exiLe) and Cortez666 (CON), -itsme/.packer
+
+description You never imagined how football would be like with drugs? Well kind sir HERE is your chance!
+cdtrack cdtracks/useMeUp.ogg
+
+gametype nb
+
+// enabling drug features
+
+clientsettemp_for_type nb v_idlescale 50
+clientsettemp_for_type nb v_psycho 1
+clientsettemp_for_type nb fov 100
+clientsettemp_for_type nb r_stereo_redcyan 1
+clientsettemp_for_type nb r_stereo_angle 40
+clientsettemp_for_type nb crosshair_alpha 0
+
+// disabling, moving hud for a better feeling
+
+clientsettemp_for_type nb hud_panel_healtharmor 0
+clientsettemp_for_type nb hud_panel_score 0
+clientsettemp_for_type nb hud_panel_weapons 0
+clientsettemp_for_type nb hud_panel_radar 0
+clientsettemp_for_type nb hud_panel_ammo 0
+clientsettemp_for_type nb hud_panel_score_pos 0.790000 0.020000
+clientsettemp_for_type nb hud_panel_timer_pos 0.920000 0.020000
+clientsettemp_for_type nb hud_panel_pressedkeys 0
+clientsettemp_for_type nb hud_panel_physics 0
+clientsettemp_for_type nb showfps 0
+
+// changing the only weapon, crylink a bit
+
+settemp_for_type nb g_balance_crylink_primary_ammo 0
+settemp_for_type nb g_balance_crylink_primary_animtime 0.3
+settemp_for_type nb g_balance_crylink_primary_speed 300
+settemp_for_type nb g_balance_crylink_primary_refire 0.01
+settemp_for_type nb g_balance_crylink_reload_time 500
+settemp_for_type nb g_balance_crylink_primary_shots 10
+
+// last but not least, some nexball config
+
+settemp_for_type nb g_nexball_football_bouncefactor 0.7
+settemp_for_type nb g_nexball_delay_goal 2
+settemp_for_type nb g_nexball_football_boost_forward 150

@@ -1,0 +1,9 @@
+title FabZ CTF
+description FabZ Ctf Xonotified
+author Mario
+cdtrack 6
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

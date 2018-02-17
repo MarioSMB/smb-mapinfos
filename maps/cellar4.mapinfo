@@ -1,0 +1,10 @@
+title Cellar4
+description Small dark deathmatch map
+author [kay]
+has weapons
+cdtrack 5
+gametype dm
+gametype ka
+gametype tdm
+gametype arena
+gametype lms

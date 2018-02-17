@@ -1,0 +1,9 @@
+title Techy2
+description Small map
+author TheUbuntuGuy
+has weapons
+cdtrack 4
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

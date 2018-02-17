@@ -1,0 +1,9 @@
+title Kettensaege
+description My entry to geocomp3
+author Gleeb
+has weapons
+cdtrack bauernspacer
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

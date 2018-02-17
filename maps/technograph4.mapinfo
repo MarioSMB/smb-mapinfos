@@ -1,0 +1,10 @@
+title TechnoGraph
+description Beware the lasers!
+author MikeeUSA (LICENSE: GNU GPL v2)
+_diameter 2306.900879
+_spawnpoints 4
+cdtrack DepressionChamber
+has weapons
+gametype ctf
+gametype kh
+gametype ft

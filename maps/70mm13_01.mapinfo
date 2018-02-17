@@ -1,0 +1,9 @@
+title 70MM13
+description 70MM13's hangar
+author 70MM13
+has weapons
+cdtrack area70mm13
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

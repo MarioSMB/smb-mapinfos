@@ -1,0 +1,17 @@
+title Skybowl
+description Giant bowl in the sky
+author Ari
+cdtrack skybowl
+has weapons
+gametype ctf
+gametype kh teams=4
+gametype ft
+gametype dom
+gametype inf
+gametype inv
+gametype vip
+gametype dm
+gametype tdm
+gametype lms
+gametype ca
+gametype ka

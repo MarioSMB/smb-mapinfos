@@ -1,0 +1,10 @@
+title Downer
+description Remake of a classic map
+author Cortez
+has weapons
+cdtrack 3
+gametype dm
+gametype ft
+gametype ka
+gametype tdm
+gametype lms

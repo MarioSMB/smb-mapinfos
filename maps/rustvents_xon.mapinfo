@@ -1,0 +1,7 @@
+title Rust Vents
+description An old rusty Nexuiz map
+author Clueless Newbie
+cdtrack 6
+has weapons
+gametype ctf
+gametype kh

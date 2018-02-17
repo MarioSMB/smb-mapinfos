@@ -1,0 +1,13 @@
+title Toxic CTF
+description Blue Amusing Goo vs Lava
+author morfar, Master and div0
+has weapons
+cdtrack 3
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype dom
+gametype vip
+gametype kh
+gametype inf

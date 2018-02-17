@@ -1,0 +1,10 @@
+title Des Hertogens Hove
+description The Duke's Garden
+author Geit
+cdtrack 3
+has weapons
+gametype ctf
+gametype kh
+gametype ft
+gametype vip
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

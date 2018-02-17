@@ -1,0 +1,15 @@
+title Foolish Legacy
+description Quake III Arena level designed for CPM TDM
+author Rich "swelt" Jacques, port by Unknown[NF]
+cdtrack 10
+has weapons
+gametype dm
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

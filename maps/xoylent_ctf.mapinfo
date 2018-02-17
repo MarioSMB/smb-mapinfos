@@ -1,0 +1,9 @@
+title Xoylent CTF
+description Xoylent CTF-ified
+author sev, Strahlemann, MaKR, kuniu the frogg
+cdtrack 7
+has weapons
+gametype ctf
+gametype tdm
+gametype ft
+gametype kh

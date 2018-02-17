@@ -1,0 +1,9 @@
+title matrix
+description EXPERT map
+author 70MM13
+has weapons
+cdtrack matrix-ob3lisk
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

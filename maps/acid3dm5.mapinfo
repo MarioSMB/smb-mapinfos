@@ -1,0 +1,15 @@
+title unbalanced
+description ffa map designed for warsow
+author [acid]
+has weapons
+cdtrack 7
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf

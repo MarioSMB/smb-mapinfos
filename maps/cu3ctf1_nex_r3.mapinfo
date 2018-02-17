@@ -1,0 +1,9 @@
+title Soap on a Rope
+description chad@trishock.com
+author Chad "cuirass" Berger
+cdtrack 4
+has weapons
+gametype ctf
+gametype kh
+gametype vip
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

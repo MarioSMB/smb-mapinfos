@@ -1,0 +1,10 @@
+title Distortion
+description Medium-sized CTF map.
+author Justin 
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype inf
+
+clientsettemp_for_type all r_water 1

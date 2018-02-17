@@ -1,0 +1,9 @@
+title Antediluvian
+description Medium sized DM map
+author ReFlex
+has weapons
+cdtrack 3
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

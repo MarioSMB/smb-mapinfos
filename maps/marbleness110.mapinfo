@@ -1,0 +1,7 @@
+title Marbleness
+description An early map which takes place in a block castle
+author MikeeUSA (LICENSE: GNU GPL v2)
+has weapons
+gametype dm
+gametype dom
+gametype lms

@@ -1,0 +1,10 @@
+title Attic
+description Large indoors map
+author kuniu the frogg
+cdtrack 3
+has weapons
+gametype ctf
+gametype ons
+gametype vip
+gametype kh
+gametype inf

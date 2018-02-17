@@ -1,0 +1,9 @@
+title Bunker Beta
+description A little bunker for CTF
+author Black-Dragon131
+has weapons
+cdtrack 10
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

@@ -1,0 +1,9 @@
+title Quimera
+description Medium sized Tourney map
+author Jose "JAJ" Arcediano
+has weapons
+cdtrack 9
+gametype lms
+gametype dm
+gametype ka
+gametype tdm

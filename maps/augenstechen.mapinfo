@@ -1,0 +1,16 @@
+title Augenstechen
+description Morbid isnt it?
+author divVerent / Sepelio
+has weapons
+cdtrack 9
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf

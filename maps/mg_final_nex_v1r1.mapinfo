@@ -1,0 +1,8 @@
+title Mystic Gemini
+description Hook not recommended
+author simonoc.com
+// (uses worldspawn.music) // cdtrack 5
+has weapons
+gametype ctf
+gametype vip
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

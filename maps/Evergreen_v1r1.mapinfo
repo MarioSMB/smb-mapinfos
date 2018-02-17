@@ -1,0 +1,16 @@
+title Evergreen
+description Large onslaught map, jetpack recommended
+author Sepelio
+has weapons
+cdtrack 16
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype ons
+gametype vip
+gametype kh
+gametype inf
+
+settemp_for_type all g_jetpack 1
+fog 0.2 0.25 0.3 0.3 1.0 4000 16384

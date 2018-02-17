@@ -1,0 +1,17 @@
+title Ptolemy's Wrath
+description CPM pack map 25
+author Rich "swelt" Jacques
+has weapons
+cdtrack 7
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf
+
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

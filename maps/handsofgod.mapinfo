@@ -1,0 +1,9 @@
+title Hands of God
+description Small sized DM map
+author Pingu
+has weapons
+cdtrack wisdom
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

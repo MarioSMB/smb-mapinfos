@@ -1,0 +1,7 @@
+title Kill Factor
+description Good CTF map for 8-12 players
+author RUSKULL
+cdtrack 4
+has weapons
+gametype ctf
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

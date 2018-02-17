@@ -1,0 +1,10 @@
+title Hydroxon
+description Simple map, brutal action
+author SavageX
+cdtrack 13
+has weapons
+gametype ctf
+gametype kh
+gametype ft
+gametype vip
+size -1736.000000 -5824.000000 -512.000000 896.000000 5760.000000 776.000000

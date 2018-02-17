@@ -1,0 +1,11 @@
+title Interrogator
+description Simple map
+author Byrned
+has weapons
+cdtrack 2
+gametype kh
+gametype ft
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

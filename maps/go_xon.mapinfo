@@ -1,0 +1,10 @@
+title Go
+description Go Xonotic!
+author Mario
+cdtrack 13
+has weapons
+gametype ctf
+gametype kh
+gametype ft
+gametype vip
+gametype dom

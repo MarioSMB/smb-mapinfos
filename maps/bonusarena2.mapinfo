@@ -1,0 +1,11 @@
+title Bonus Arena
+description A colorful medium sized arena map to play for a short time in-between largermaps
+author MikeeUSA
+has weapons
+hidden
+cdtrack aerathemebattle
+gametype dm
+gametype ka
+gametype tdm
+gametype arena
+gametype lms

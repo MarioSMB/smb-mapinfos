@@ -1,0 +1,15 @@
+title BlockScape
+description Blocky CTF/ONS map
+author Clueless Newbie / C Lund
+cdtrack 4
+settemp_for_type all g_turrets 0 
+settemp_for_type ons g_turrets 1 
+has weapons
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype dom
+gametype ons
+gametype vip
+gametype kh

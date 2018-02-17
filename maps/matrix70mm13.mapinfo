@@ -1,0 +1,9 @@
+title Matrix
+description Enter The Matrix!
+author 70MM13
+has weapons
+cdtrack matrix-ob3lisk
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

@@ -1,0 +1,8 @@
+title SkyShaper
+description How do these kind of maps actually stay in the air?
+author freefang
+_diameter 9513.543945
+_spawnpoints 48
+has weapons
+gametype ctf
+gametype kh

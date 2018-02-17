@@ -1,0 +1,20 @@
+title Bob-Omb Battlefield
+description From Super Mario 64
+author Mario
+cdtrack 3
+has weapons
+gametype ctf
+gametype dm
+gametype tdm
+gametype lms
+gametype ka
+gametype tdm
+gametype ca
+gametype ft
+gametype cts
+gametype vip
+gametype kh
+gametype inf
+
+settemp_for_type cts g_jetpack 0
+settemp_for_type rc g_jetpack 0

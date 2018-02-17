@@ -1,0 +1,14 @@
+title Vitamea Mod
+description Symmetrical CTF map
+author Rudolf "div0" Polzer. Mod by Clueless Newbie
+cdtrack germany1-loop
+has weapons
+gametype ctf
+gametype dm
+gametype vip
+gametype kh
+gametype lms
+gametype ka
+gametype tdm
+gametype ft
+gametype ca

@@ -1,0 +1,8 @@
+title Rhombicuboctahedron
+description A WarpSphere?!
+author sev
+cdtrack 5
+has weapons
+gametype ctf
+clientsettemp_for_type all r_water 1
+clientsettemp_for_type all r_water_resolutionmultiplier 1

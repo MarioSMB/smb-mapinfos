@@ -1,0 +1,8 @@
+title Manifold
+description Medium CTF map
+author Unknown
+has weapons
+cdtrack 5
+gametype ctf
+gametype kh
+gametype vip

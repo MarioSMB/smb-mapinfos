@@ -1,0 +1,9 @@
+title CTF-LavaGiant
+description Large CTF map with lava
+author Black-Dragon131
+has weapons
+cdtrack 3
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

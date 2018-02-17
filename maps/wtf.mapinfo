@@ -1,0 +1,9 @@
+title WTF
+description This map is a joke
+author FruitieX
+has weapons
+cdtrack 4
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

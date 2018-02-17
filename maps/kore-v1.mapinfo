@@ -1,0 +1,10 @@
+title Kore v1.0
+description Kinetic Osmium Reacting Engine
+author Snow_56767
+cdtrack kore
+has weapons
+gametype ctf
+gametype ft
+gametype vip
+gametype kh
+gametype ca

@@ -1,0 +1,8 @@
+title Chronic
+description Deathmatch level staring Eminem
+author MasterPlan inc. and Fullerene Productions Inc.
+has weapons
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

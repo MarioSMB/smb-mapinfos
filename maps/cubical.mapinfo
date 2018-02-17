@@ -1,0 +1,9 @@
+title CuBiCal
+description The map which is full packed with... Health and armor
+author FruitieX
+has weapons
+cdtrack 6
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

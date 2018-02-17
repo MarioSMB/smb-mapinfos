@@ -1,0 +1,12 @@
+title Whizard v1r4 BETA (October 2008)
+description A remake of Halo (2)'s Wizard/Warlock
+author -z- of www.nexuizninjaz.com
+_spawnpoints 16
+cdtrack whizard
+has weapons
+gametype ctf
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+gametype kh teams=4

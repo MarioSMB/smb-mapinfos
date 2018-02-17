@@ -1,0 +1,20 @@
+title Hyperspace
+description (This is a beta version for CTF)
+author ThePWTULN
+cdtrack 10
+has weapons
+gametype dm
+gametype lms
+gametype tdm
+gametype ca
+gametype kh
+gametype ft
+gametype ka
+gametype tdm
+gametype ctf
+gametype inf
+
+clientsettemp_for_type all r_water 1
+clientsettemp_for_type all r_water_resolutionmultiplier 1
+clientsettemp_for_type all r_depthfirst 0
+clientsettemp_for_type all r_bloom 0

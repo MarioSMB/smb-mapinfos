@@ -1,0 +1,15 @@
+title Figure 8
+description Strange CTF map
+author Clueless Newbie
+has weapons
+cdtrack 3
+gametype ctf
+gametype dm
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip

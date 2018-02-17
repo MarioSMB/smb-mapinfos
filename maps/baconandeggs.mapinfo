@@ -1,0 +1,11 @@
+title Bacon & Eggs
+description Your mind will be blown
+author divVerent, modified by Mario
+cdtrack 8
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype inf
+clientsettemp_for_type all r_water 1
+clientsettemp_for_type all r_water_resolutionmultiplier 1

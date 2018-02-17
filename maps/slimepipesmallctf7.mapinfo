@@ -1,0 +1,9 @@
+title SlimePipeSmallCTF
+description Sewer complex
+author MikeeUSA (LICENSE: GNU GPL v2)
+cdtrack AyMambo
+has weapons
+gametype ctf
+gametype kh
+gametype ons
+fog 0.2 0.5 1 0.3 0.8 1024

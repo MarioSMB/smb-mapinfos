@@ -1,0 +1,11 @@
+title PyconicArena
+description Very small tech arena
+author MikeeUSA (LICENSE: GNU GPL v2)
+_diameter 3143.175537
+_spawnpoints 10
+cdtrack battle5
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

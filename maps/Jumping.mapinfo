@@ -1,0 +1,7 @@
+title Jumping
+description Jumping
+author Master
+has weapons
+cdtrack 5
+gametype dm
+gametype tdm

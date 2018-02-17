@@ -1,0 +1,11 @@
+title Ripper's Play Ground
+description A small DM Arena
+author dONKEY
+has weapons
+cdtrack 7
+gametype dm
+gametype ka
+gametype tdm
+gametype lms
+
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

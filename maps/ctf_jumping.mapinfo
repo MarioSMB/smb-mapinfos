@@ -1,0 +1,9 @@
+title Jumping
+description Boing Boing
+author Unknown
+has weapons
+cdtrack 3
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

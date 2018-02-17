@@ -1,0 +1,12 @@
+title SideLoop
+description Strange landscape of loops, jumps, and spring-boards
+author MikeeUSA (LICENSE: GNU GPL v2)
+_diameter 16865.062500
+_spawnpoints 51
+cdtrack battle5_p
+has weapons
+gametype ctf
+gametype kh
+gametype dm
+gametype lms
+gametype tdm

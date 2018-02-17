@@ -1,0 +1,10 @@
+title aimtrain
+description www.frag24.net
+author CrYpto
+has weapons
+cdtrack 6
+gametype dm
+gametype ka
+gametype tdm
+gametype lms
+gametype kh

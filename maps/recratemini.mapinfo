@@ -1,0 +1,8 @@
+title recratemini
+description a map so small it triggered a bug
+cdtrack 4
+gametype ctf
+gametype kh
+gametype vip
+clientsettemp_for_type all r_bloom_colorscale 1.1
+clientsettemp_for_type all r_bloom_brighten 1.1

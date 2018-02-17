@@ -1,0 +1,9 @@
+title Pillars
+description Unfinished giant CTF map
+author forseti
+has weapons
+cdtrack 4
+gametype ctf
+
+settemp_for_type all g_ctf_reverse 1
+clientsettemp_for_type all r_hdr_scenebrightness 2

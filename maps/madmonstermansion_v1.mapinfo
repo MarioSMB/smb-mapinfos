@@ -1,0 +1,16 @@
+title Mad Monster Mansion
+description From Banjo Kazooie
+author Mario
+cdtrack monstermansion
+has weapons
+gametype dm
+gametype ctf
+gametype kh
+gametype ft
+gametype ka
+gametype tdm
+gametype vip
+gametype lms
+gametype ca
+gametype dom
+gametype cq

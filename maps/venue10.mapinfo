@@ -1,0 +1,9 @@
+title Venue
+description Greek amphitheater where concerts can be held
+author MikeeUSA (LICENSE: GNU GPL v2)
+cdtrack 18
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

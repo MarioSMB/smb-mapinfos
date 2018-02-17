@@ -1,0 +1,11 @@
+title Block Fort
+description From Mario Kart 64
+author Mario
+cdtrack 4
+has weapons
+gametype ctf
+gametype ca teams=4
+gametype tdm teams=4
+gametype ft teams=4
+gametype vip
+gametype kh teams=4

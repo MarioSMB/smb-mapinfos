@@ -1,0 +1,9 @@
+title Courtyard
+description bonuscheckers
+author Grasshopper+mikeeusa
+has weapons
+cdtrack 7
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

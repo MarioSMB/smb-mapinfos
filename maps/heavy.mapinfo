@@ -1,0 +1,17 @@
+title Heavy Arena
+description Round arena with two floors and two side hallways
+author Mircea Kitsune
+_diameter 2048
+_spawnpoints 12
+has weapons
+cdtrack 3
+gametype dm
+gametype tdm
+gametype lms
+gametype dom
+gametype kh
+gametype ft
+gametype ca
+gametype ka
+gametype tdm
+gametype inf

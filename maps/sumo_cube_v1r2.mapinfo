@@ -1,0 +1,8 @@
+title The Cube
+description Laser Sumo Slime Map
+author FruitieX
+cdtrack 3
+has weapons
+gametype dm
+
+settemp_for_type all g_weaponarena laser

@@ -1,0 +1,9 @@
+title Lava Flag
+description Medium CTF map with lava
+author divVerent
+has weapons
+cdtrack 3
+gametype ctf
+gametype kh
+gametype ft
+gametype vip

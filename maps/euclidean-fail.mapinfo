@@ -1,0 +1,12 @@
+title Euclidean FAIL
+description WarpZone example map
+author Rudolf "div0" Polzer
+cdtrack 9
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype inf
+
+clientsettemp_for_type all r_water 1
+clientsettemp_for_type all r_water_resolutionmultiplier 1

@@ -1,0 +1,9 @@
+title Aviation
+description Try not to fall down. For your own good.
+author kuniu the frogg, Cortez
+cdtrack 9
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

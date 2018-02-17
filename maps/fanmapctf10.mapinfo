@@ -1,0 +1,12 @@
+title Fan Map
+description An aeronautical map
+author MikeeUSA
+has weapons
+cdtrack militarybase_p
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype vip
+gametype kh
+gametype inf

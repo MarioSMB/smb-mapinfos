@@ -1,0 +1,9 @@
+title Face 2 Face
+description Small CTF space map
+author BerneyBoy
+has weapons
+cdtrack 5
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

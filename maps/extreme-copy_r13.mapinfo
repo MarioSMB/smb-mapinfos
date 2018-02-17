@@ -1,0 +1,9 @@
+title Extreme Copy
+description extreme-fight inspired CTF map.  No items 
+author Neil
+has weapons
+cdtrack 9
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

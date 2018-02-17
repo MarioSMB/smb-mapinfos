@@ -1,0 +1,17 @@
+title Eye Cancer
+description It can be cured
+author Cortez / mod by Clueless Newbie / mod by Nodenum / mod by Mario
+has weapons
+cdtrack 10
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype dom
+gametype vip
+gametype kh
+gametype inf

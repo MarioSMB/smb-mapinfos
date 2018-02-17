@@ -1,0 +1,10 @@
+title Gothic_Block!
+description CPM Edition
+author www.ninemil.com
+cdtrack 2
+has weapons
+gametype ctf
+gametype kh
+gametype vip
+
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

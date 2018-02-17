@@ -1,0 +1,9 @@
+title TundraMagi
+description It is cold, but you have shelter
+author MikeeUSA (LICENSE: GNU GPL v2)
+cdtrack piano_remembrance_v1
+has weapons
+gametype ctf
+gametype kh
+
+settemp_for_type all g_turrets 0

@@ -1,0 +1,7 @@
+title SpaceCross
+description Space map
+author Paul Evers
+has weapons
+cdtrack 4
+gametype lms
+gametype dm

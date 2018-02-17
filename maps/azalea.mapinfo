@@ -1,0 +1,16 @@
+title Azalea
+description Small indoors map designed for 1v1 action.
+author kuniu the frogg
+cdtrack 14
+has weapons
+gametype dm
+gametype tdm
+gametype lms
+gametype ca
+gametype arena
+gametype ft
+gametype ka
+gametype tdm
+gametype vip
+gametype kh
+gametype inf

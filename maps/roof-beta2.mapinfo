@@ -1,0 +1,13 @@
+title roof-beta1
+description zih_roof remake by Hanzo
+author Sergei Starko, Alex Vishnevsky, Hanzo
+cdtrack music/zih_roof
+has weapons
+//gametype ctf
+//gametype jb
+//gametype kh
+//gametype ft
+//gametype ca
+//gametype tdm
+//gametype dom
+gametype vip

@@ -1,0 +1,6 @@
+title Minstarena
+description Arena LMS map
+author Paul "Strahlemann" Evers
+cdtrack 6
+gametype lms
+gametype dm

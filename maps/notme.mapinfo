@@ -1,0 +1,9 @@
+title NotMe
+description Lowest effort ctf terrain map project :) done in few hours not counting compile times, I know, I should not release such simple map but its so fun to bunnyhop there :)
+author Morphed
+_diameter 19924.464844
+_spawnpoints 14
+cdtrack 6
+has weapons
+gametype ctf
+gametype kh

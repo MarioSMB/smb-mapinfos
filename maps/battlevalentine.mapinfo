@@ -1,0 +1,9 @@
+title Battle Valentine
+description Hearts
+author dublpaws
+has weapons
+cdtrack 12
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

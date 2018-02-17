@@ -1,0 +1,14 @@
+title Game Over
+description You know it!
+author Rudolf "div0" Polzer
+has weapons
+cdtrack 6
+gametype dm
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip

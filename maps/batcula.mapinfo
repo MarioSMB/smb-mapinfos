@@ -1,0 +1,11 @@
+title Batcula
+description Gothic thingie
+author nunuk, alcatraz, sock
+has weapons
+cdtrack 3
+gametype tdm
+gametype ca
+gametype ft
+gametype vip
+gametype kh
+gametype inf

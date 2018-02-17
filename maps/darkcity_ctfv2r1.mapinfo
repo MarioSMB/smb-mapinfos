@@ -1,0 +1,10 @@
+title Darkcity CTF
+description nightvision
+author Grasshopper
+cdtrack 15
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype inf
+

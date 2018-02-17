@@ -1,0 +1,9 @@
+title Controlfactor
+description Large semi symetrical map
+author Jakob MG (tZork)
+has weapons
+cdtrack 13
+gametype ctf
+gametype dom
+gametype cq
+gametype vip

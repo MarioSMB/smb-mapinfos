@@ -1,0 +1,10 @@
+title Ruins of Slaughter
+description Ruined arena
+author HReaper
+has weapons
+cdtrack 3
+gametype dm
+gametype lms
+gametype kh
+gametype ka
+gametype tdm

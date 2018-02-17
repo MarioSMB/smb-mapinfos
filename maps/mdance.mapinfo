@@ -1,0 +1,8 @@
+title Mario Dance!
+description Quick retexture of Nexuiz map pdance
+author Mario
+cdtrack ghosts_n_stuff
+has weapons
+gametype ctf
+
+settemp_for_type all _nexuiz_mode 1

@@ -1,0 +1,6 @@
+title 13dream_v2
+description Fixed version of Dreamscape. Teleporter fixed, performance improved, changed lighting
+cdtrack neuronal-diving
+gametype ctf
+
+settemp_for_type all _nexuiz_mode 1

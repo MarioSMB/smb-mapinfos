@@ -1,0 +1,12 @@
+title Double Miniman
+description Without the doors
+author Mario
+cdtrack 6
+has weapons
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype vip
+gametype kh
+gametype inf

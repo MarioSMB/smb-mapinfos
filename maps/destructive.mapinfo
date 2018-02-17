@@ -1,0 +1,9 @@
+title Destructive
+description A spacestation floater
+author Cortez
+has weapons
+cdtrack 4
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

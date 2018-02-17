@@ -1,0 +1,9 @@
+title Nexm
+description The Best
+author -z-
+has weapons
+cdtrack 12
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

@@ -1,0 +1,10 @@
+title Running Man JB
+description Medium-sized JB-Map
+author Paul Evers (JB version by Akari)
+_diameter 5930.995117
+_spawnpoints 16
+has weapons
+gametype jb
+gametype kh
+gametype ons
+clientsettemp_for_type all snd_staticvolume 1

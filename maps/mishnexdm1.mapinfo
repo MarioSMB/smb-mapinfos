@@ -1,0 +1,9 @@
+title Close Quarters
+description 3-level Box with teleporters and jumppads
+author Marc "Mishura" Hurst
+has weapons
+cdtrack 9
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

@@ -1,0 +1,12 @@
+title Facing Worlds - Xonotic Version
+description Who doesn't know this sniper hell?
+author Known Unartist (Nexuiz version by C.Brutail)
+has weapons
+cdtrack 7
+gametype ctf
+gametype vip
+gametype kh
+gametype inf
+
+clientsettemp_for_type all r_water 1
+clientsettemp_for_type all r_water_resolutionmultiplier 1

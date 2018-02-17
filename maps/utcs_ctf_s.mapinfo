@@ -1,0 +1,14 @@
+title :U.T.C.S:
+description Port of the popular Tremulous map, "UTCS."
+author Chompers(original), ^2Odin(Port) Morphed (fixes for nexuiz)
+cdtrack 4
+has weapons
+gametype ctf
+gametype kh
+gametype ft
+gametype ons
+fog 0.1 0.4 0.2 0.1 1 1000
+settemp_for_type ctf g_turrets 0
+settemp_for_type ons g_weapon_stay 2
+settemp_for_type ons g_respawn_waves 8
+settemp_for_type ons g_respawn_delay 0

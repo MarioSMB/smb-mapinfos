@@ -1,0 +1,10 @@
+title Meatball Grinder
+description A small deathmatch Arena best suited for 2-3 players
+author Iikka "Fingers" Keranen
+cdtrack 3
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

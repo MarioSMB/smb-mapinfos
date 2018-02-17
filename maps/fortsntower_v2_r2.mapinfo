@@ -1,0 +1,10 @@
+title Forts 'n' tower
+description Destroy your enemy's vehicles and it'll be an easy win
+author forseti
+cdtrack 4
+has weapons
+has turrets
+has vehicles
+gametype ctf
+gametype vip
+gametype kh

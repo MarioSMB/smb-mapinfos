@@ -1,0 +1,9 @@
+title Monolith
+description Monolithic industrial dungeon
+author Sock
+has weapons
+cdtrack stralenexuiz
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

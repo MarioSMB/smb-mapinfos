@@ -1,0 +1,26 @@
+title Box Gardens
+description In case of low fps, turn off reflections
+author Clueless Newbie / C Lund
+has weapons
+cdtrack 4
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype arena
+gametype ons
+gametype dom
+gametype cts
+gametype lms
+gametype vip
+gametype kh
+gametype inf
+
+settemp_for_type all g_turrets 0 
+settemp_for_type ons g_turrets 1 
+settemp_for_type cts g_pickup_items 0
+settemp_for_type cts g_start_weapon_laser 0
+size -4096 -7424 -768 3584 3072 1280

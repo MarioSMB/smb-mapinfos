@@ -1,0 +1,15 @@
+title Dreadful Place
+description The Dreadful Place
+cdtrack 12
+has weapons
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype dom
+gametype vip
+gametype kh
+gametype inf

@@ -1,0 +1,11 @@
+titile Catharsis v06
+description Large CTF level with crystals
+author Justin
+cdtrack 3
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype inf
+
+clientsettemp_for_type all r_water 1

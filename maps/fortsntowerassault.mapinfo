@@ -1,0 +1,8 @@
+title Forts 'n' tower (Assault)
+description Destroy your enemy's vehicles and it'll be an easy win
+author forseti
+cdtrack 9
+has weapons
+has vehicles
+has turrets
+gametype as

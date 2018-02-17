@@ -1,0 +1,14 @@
+title lolplane
+description A map I made in a few hours
+author -z-
+cdtrack 3
+has weapons
+gametype ctf
+gametype dm
+gametype lms
+gametype ka
+gametype vip
+gametype inf
+gametype ft
+gametype tdm
+gametype ca

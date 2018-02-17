@@ -1,0 +1,16 @@
+title Campgrounds Xonotic
+description Remix of the old map
+author Francotirador
+has weapons
+cdtrack 10
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype arena
+gametype lms
+gametype vip
+gametype kh
+gametype inf

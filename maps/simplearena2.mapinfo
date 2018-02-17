@@ -1,0 +1,9 @@
+title SimpleArena
+description Simple arena amid an arid landscape
+author MikeeUSA
+has weapons
+cdtrack Bliss
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

@@ -1,0 +1,9 @@
+title X-Vectorwars
+description a fast medium deathmatch
+author fabzor3@gmail.com
+cdtrack 14
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

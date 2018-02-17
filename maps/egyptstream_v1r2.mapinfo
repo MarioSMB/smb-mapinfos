@@ -1,0 +1,9 @@
+title Egyptstream
+description Fast CTF map
+author FruitieX
+has weapons
+cdtrack 8
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

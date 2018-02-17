@@ -1,0 +1,9 @@
+title White Noise
+description F3 Edition
+author Publius
+cdtrack 9
+has weapons
+gametype ctf
+gametype kh
+gametype vip
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

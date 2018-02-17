@@ -1,0 +1,8 @@
+title pinkswar ctf
+description ctf-ified by Grasshopper
+author Pinkrobot:ctf'ed by Grasshopper
+cdtrack 10
+has weapons
+gametype ctf
+gametype kh
+gametype vip

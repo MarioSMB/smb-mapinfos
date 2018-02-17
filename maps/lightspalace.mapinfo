@@ -1,0 +1,10 @@
+title Lights Palace (june 2008)
+description DM map with one room only
+author Giuseppe
+cdtrack 11
+_spawnpoints 8
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

@@ -1,0 +1,11 @@
+title Temple of Eternal Night
+description Dark and mystical place
+author Jakob MG (tZork)
+has weapons
+cdtrack 5
+gametype dm
+gametype dom
+gametype cq
+gametype tdm
+gametype kh
+gametype vip

@@ -1,0 +1,9 @@
+title DigDigDig
+description Get your picking axe ready!
+author Abaddon
+has weapons
+cdtrack 9
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

@@ -1,0 +1,10 @@
+title Peace 5
+description PEACEBROTHERS!!!!
+author Peace Brothers - http://peacebrothers.de.tl/
+has weapons
+gametype dm
+hidden
+settemp_for_type all mod_collision_bih 0
+settemp_for_type all mod_recalculatenodeboxes 0
+clientsettemp_for_type all mod_collision_bih 0
+clientsettemp_for_type all mod_recalculatenodeboxes 0

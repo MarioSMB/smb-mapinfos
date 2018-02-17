@@ -1,0 +1,8 @@
+title Greatest Wall
+description The Greatest Wall
+author MikeeUSA (LICENSE: GNU GPL v2)
+cdtrack asiafight_v4
+has weapons
+gametype ctf
+gametype kh
+gametype vip

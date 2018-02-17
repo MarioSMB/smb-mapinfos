@@ -1,0 +1,8 @@
+title Medival
+description Small medival map
+author Sago007, Cortez
+has weapons
+cdtrack 11
+gametype ctf
+gametype kh
+gametype vip

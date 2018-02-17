@@ -1,0 +1,9 @@
+title Cold Steel
+description shiny map
+author 70MM13
+has weapons
+cdtrack 70MM13_8
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

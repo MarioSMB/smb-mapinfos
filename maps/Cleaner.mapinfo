@@ -1,0 +1,19 @@
+title Cleaner
+description Symmetrical map for CTF and so on
+author Clueless Newbie / C Lund
+cdtrack 8
+has weapons
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype arena
+gametype lms
+gametype vip
+gametype kh
+gametype inf
+
+size -2816 -6656 -640 3328 512 1856

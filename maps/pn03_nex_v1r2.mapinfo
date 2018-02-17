@@ -1,0 +1,7 @@
+title PN03
+description Shielded CTF
+author Greg [skin[NCN]master] Crockatt
+// (uses worldspawn.music) // cdtrack 4
+has weapons
+gametype ctf
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

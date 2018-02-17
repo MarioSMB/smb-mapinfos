@@ -1,0 +1,9 @@
+title Crescent
+description 1v1 / FA map
+author Jochum Skoglund / Hipshot
+has weapons
+cdtrack 3
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

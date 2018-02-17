@@ -1,0 +1,9 @@
+title Facility 123
+description Small DM map
+author Cortez
+has weapons
+cdtrack 7
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

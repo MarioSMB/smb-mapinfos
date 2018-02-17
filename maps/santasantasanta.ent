@@ -1,0 +1,400 @@
+{
+"_q3map2_version" "2.5.17n-git-aa9e315"
+"_q3map2_cmdline" "-meta -v"
+"message" "Merry X-mas you all, wishes FruitieX!"
+"blocksize" "8192"
+"classname" "worldspawn"
+}
+{
+"model" "*1"
+"message" "burned."
+"dmg" "5"
+"spawnflags" "16"
+"classname" "trigger_hurt"
+}
+{
+"message" "froze to death."
+"dmg" "35"
+"spawnflags" "16"
+"classname" "trigger_hurt"
+}
+{
+"model" "*2"
+"target" "t2"
+"classname" "trigger_teleport"
+}
+{
+"model" "*3"
+"target" "t3"
+"classname" "trigger_teleport"
+}
+{
+"model" "*4"
+"target" "t4"
+"classname" "trigger_teleport"
+}
+{
+"model" "*5"
+"target" "t1"
+"classname" "trigger_teleport"
+}
+{
+"targetname" "t1"
+"angle" "-90"
+"origin" "256 -1408 256"
+"classname" "target_teleporter"
+}
+{
+"targetname" "t2"
+"angle" "-90"
+"origin" "-512 -1408 256"
+"classname" "target_teleporter"
+}
+{
+"targetname" "t3"
+"angle" "-90"
+"origin" "-256 -1408 256"
+"classname" "target_teleporter"
+}
+{
+"targetname" "t4"
+"angle" "-90"
+"origin" "0 -1408 256"
+"classname" "target_teleporter"
+}
+{
+"model" "*6"
+"target" "strafepadmistake"
+"classname" "trigger_teleport"
+}
+{
+"targetname" "strafepadmistake"
+"origin" "3264 -1376 256"
+"classname" "target_teleporter"
+}
+{
+"model" "*7"
+"target" "pinkmap"
+"classname" "trigger_teleport"
+}
+{
+"targetname" "pinkmap"
+"origin" "-2304 4352 -256"
+"classname" "target_teleporter"
+}
+{
+"model" "*8"
+"target" "frutzmap"
+"classname" "trigger_teleport"
+}
+{
+"targetname" "frutzmap"
+"origin" "-1792 -2048 256"
+"classname" "target_teleporter"
+}
+{
+"origin" "3840 -640 256"
+"classname" "item_flag_team2"
+}
+{
+"origin" "3712 -512 256"
+"classname" "item_flag_team2"
+}
+{
+"origin" "-3776 -4608 240"
+"classname" "item_flag_team1"
+}
+{
+"origin" "-3648 -4608 192"
+"classname" "item_flag_team1"
+}
+{
+"origin" "-3904 -4608 296"
+"classname" "item_flag_team1"
+}
+{
+"angle" "45"
+"origin" "7680 -4608 256"
+"classname" "info_player_team1"
+}
+{
+"angle" "135"
+"origin" "12800 -4608 256"
+"classname" "info_player_team1"
+}
+{
+"angle" "-135"
+"origin" "12800 512 256"
+"classname" "info_player_team1"
+}
+{
+"angle" "315"
+"origin" "7680 512 256"
+"classname" "info_player_team1"
+}
+{
+"origin" "3456 -256 256"
+"classname" "item_flag_team2"
+}
+{
+"origin" "3584 -384 256"
+"classname" "item_flag_team2"
+}
+{
+"origin" "-3072 -1024 256"
+"classname" "item_health25"
+}
+{
+"origin" "-2560 -5888 256"
+"classname" "item_health25"
+}
+{
+"origin" "-768 -5888 256"
+"classname" "item_health25"
+}
+{
+"origin" "768 -5888 256"
+"classname" "item_health25"
+}
+{
+"origin" "1536 -3840 256"
+"classname" "item_health25"
+}
+{
+"origin" "0 -1792 256"
+"classname" "item_health25"
+}
+{
+"origin" "-2048 -3072 256"
+"classname" "item_health25"
+}
+{
+"origin" "0 4864 -1024"
+"classname" "weapon_electro"
+}
+{
+"origin" "-2048 4608 -1024"
+"classname" "weapon_rocketlauncher"
+}
+{
+"origin" "2048 5632 -768"
+"classname" "weapon_hagar"
+}
+{
+"targetname" "jump"
+"angle" "90"
+"origin" "416 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump1"
+"angle" "90"
+"origin" "-1504 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump2"
+"angle" "90"
+"origin" "-1376 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump3"
+"angle" "90"
+"origin" "-1248 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump4"
+"angle" "90"
+"origin" "-1120 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump5"
+"angle" "90"
+"origin" "-992 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump6"
+"angle" "90"
+"origin" "-864 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump7"
+"angle" "90"
+"origin" "-736 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump8"
+"angle" "90"
+"origin" "-608 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump9"
+"angle" "90"
+"origin" "-480 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump10"
+"angle" "90"
+"origin" "-352 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump11"
+"angle" "90"
+"origin" "-224 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump12"
+"angle" "90"
+"origin" "-96 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump13"
+"angle" "90"
+"origin" "32 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump14"
+"angle" "90"
+"origin" "160 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"targetname" "jump15"
+"angle" "90"
+"origin" "288 -5056 192"
+"classname" "target_teleporter"
+}
+{
+"model" "*9"
+"target" "jumpup"
+"classname" "trigger_push"
+}
+{
+"targetname" "jumpup"
+"origin" "-3952 -4608 1664"
+"classname" "target_push"
+}
+{
+"model" "*10"
+"target" "stopcheater"
+"classname" "trigger_push"
+}
+{
+"targetname" "stopcheater"
+"origin" "-544 -5856 256"
+"classname" "target_push"
+}
+{
+"model" "*11"
+"target" "jump1"
+"classname" "trigger_teleport"
+}
+{
+"model" "*12"
+"target" "jump2"
+"classname" "trigger_teleport"
+}
+{
+"model" "*13"
+"target" "jump3"
+"classname" "trigger_teleport"
+}
+{
+"model" "*14"
+"target" "jump4"
+"classname" "trigger_teleport"
+}
+{
+"model" "*15"
+"target" "jump5"
+"classname" "trigger_teleport"
+}
+{
+"model" "*16"
+"target" "jump6"
+"classname" "trigger_teleport"
+}
+{
+"model" "*17"
+"target" "jump7"
+"classname" "trigger_teleport"
+}
+{
+"model" "*18"
+"target" "jump8"
+"classname" "trigger_teleport"
+}
+{
+"model" "*19"
+"target" "jump9"
+"classname" "trigger_teleport"
+}
+{
+"model" "*20"
+"target" "jump10"
+"classname" "trigger_teleport"
+}
+{
+"model" "*21"
+"target" "jump11"
+"classname" "trigger_teleport"
+}
+{
+"model" "*22"
+"target" "jump12"
+"classname" "trigger_teleport"
+}
+{
+"model" "*23"
+"target" "jump13"
+"classname" "trigger_teleport"
+}
+{
+"model" "*24"
+"target" "jump14"
+"classname" "trigger_teleport"
+}
+{
+"model" "*25"
+"target" "jump15"
+"classname" "trigger_teleport"
+}
+{
+"model" "*26"
+"health" "15"
+"target" "messagebox"
+"classname" "func_button"
+}
+{
+"message" "DON'T TRY TO FRAG ^1SANTA ^7STUCK IN THE CHIMNEY!!!1!1!111ONE ONE HUNDREDELEVEN1!"
+"targetname" "messagebox"
+"classname" "trigger_multiple"
+}
+{
+"origin" "1800.000000 -2504.000000 256.000000"
+"classname" "info_player_team2"
+}
+{
+"origin" "792.000000 -2240.000000 224.000000"
+"classname" "info_player_team2"
+}
+{
+"origin" "1856.000000 -560.000000 288.000000"
+"classname" "info_player_team2"
+}
+{
+"origin" "3952.000000 -2352.000000 376.000000"
+"classname" "info_player_team2"
+}

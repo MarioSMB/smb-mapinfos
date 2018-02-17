@@ -1,0 +1,12 @@
+title Caverna
+description Mining for flags
+author Clueless Newbie
+has weapons
+cdtrack 5
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype vip
+gametype kh
+gametype inf

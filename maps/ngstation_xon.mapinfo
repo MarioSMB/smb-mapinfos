@@ -1,0 +1,8 @@
+title ngstation - Xonotified
+description Custom Elite Force map ported to Xonotic
+author netgames-uk.net
+cdtrack 5
+has weapons
+gametype ctf
+gametype kh
+gametype vip

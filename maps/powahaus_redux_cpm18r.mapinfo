@@ -1,0 +1,10 @@
+title PowaHaus Redux
+description CPM map
+author Swelt and Lunaran
+cdtrack 2
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

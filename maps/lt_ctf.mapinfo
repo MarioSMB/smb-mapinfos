@@ -1,0 +1,9 @@
+title LT CTF
+description Quake 3 styled CTF map
+author Banshee
+has weapons
+cdtrack 3
+gametype ctf
+gametype kh
+gametype ft
+gametype vip

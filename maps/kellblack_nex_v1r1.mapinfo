@@ -1,0 +1,7 @@
+title Black Belvedere
+description Quake 2 CTF
+author SoulBringer.69@gmail.com
+cdtrack 6
+has weapons
+gametype ctf
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

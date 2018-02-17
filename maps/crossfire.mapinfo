@@ -1,0 +1,9 @@
+title Crossfire
+description Small DM map
+author OverDriven
+has weapons
+cdtrack 3
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

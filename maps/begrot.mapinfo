@@ -1,0 +1,9 @@
+title Begrot
+description Large map with lots of obstacles
+author Unknown
+has weapons
+cdtrack 14
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

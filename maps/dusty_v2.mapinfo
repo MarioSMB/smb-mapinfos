@@ -1,0 +1,9 @@
+title Dusty
+description Outdoor map, non symetrical inspired by de_dust map
+author Morphed
+has weapons
+cdtrack 4
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

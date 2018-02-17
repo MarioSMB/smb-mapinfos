@@ -1,0 +1,11 @@
+title Central Processing
+description Processing facility
+author Clinton "Kaziganthe" Freeman
+has weapons
+cdtrack 4
+gametype dm
+gametype dom
+gametype tdm
+gametype lms
+gametype ka
+gametype tdm

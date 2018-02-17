@@ -1,0 +1,9 @@
+title Dark valley
+description A bloody valley
+author 70MM13
+has weapons
+cdtrack 70mm13_11
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

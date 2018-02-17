@@ -1,0 +1,8 @@
+title Castle CTF
+description Medium-sized ctf map for 5on5 matches
+author Geit
+has weapons
+cdtrack 14
+gametype ctf
+gametype kh
+gametype vip

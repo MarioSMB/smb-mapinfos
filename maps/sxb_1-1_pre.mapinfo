@@ -1,0 +1,8 @@
+title SXB: world 1-1
+description Super Nexuiz Brotherz: A new school take on an old school classic, first in a series
+author Tyler "-z-" Mulligan
+cdtrack sxb-1-1-js
+has weapons
+gametype rc 
+gametype cts
+clientsettemp_for_type all cl_hidewaypoints 1

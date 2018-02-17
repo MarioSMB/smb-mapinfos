@@ -1,0 +1,10 @@
+title Phenomenon
+description Decent 1v1 map
+author Andrew "shdw" Brabec
+has weapons
+cdtrack 8
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+gametype dom

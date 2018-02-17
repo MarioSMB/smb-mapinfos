@@ -1,0 +1,8 @@
+title Fighter Bay
+description Medium sized straight forward CTF
+author dublpaws
+has weapons
+cdtrack 16
+gametype ctf
+gametype vip
+gametype kh

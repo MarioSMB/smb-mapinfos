@@ -1,0 +1,9 @@
+title Craze
+description Spinning tower
+author MikeeUSA
+has weapons
+cdtrack battle1battle2
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

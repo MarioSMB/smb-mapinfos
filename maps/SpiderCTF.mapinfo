@@ -1,0 +1,8 @@
+title Spiderex
+description The large CTF map with lots of spiders 
+author Justin 
+cdtrack 3
+has weapons
+gametype ctf
+gametype vip
+gametype kh

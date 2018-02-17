@@ -1,0 +1,9 @@
+title Edurneum
+description A big map for the CTF
+author Fabio “BARTUC” Piccinni
+has weapons
+cdtrack 9
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

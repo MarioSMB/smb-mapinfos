@@ -1,0 +1,12 @@
+title Roundel
+description An architectural excercise
+author MikeeUSA (LICENSE: Gnu GPL v2)
+cdtrack triumphal_march_to_the_thought-sleeping_sea_v1
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+gametype kh
+clientsettemp_for_type all cl_particles_snow 0
+fog 0.1 1 1 1 0.3 1024

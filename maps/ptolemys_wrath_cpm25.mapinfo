@@ -1,0 +1,10 @@
+title Ptolemy's Wrath
+description Heavily optimised for CPMA, a heap of trick jumps are just begging to be found
+author Rich "swelt" Jacques
+cdtrack 7
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

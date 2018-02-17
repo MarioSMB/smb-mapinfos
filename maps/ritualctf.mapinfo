@@ -1,0 +1,10 @@
+title Ritual CTF
+description This is my first ctf map I made for nexuiz, have fun playing it
+author freefang
+_diameter 13856.942383
+_spawnpoints 18
+cdtrack war
+has weapons
+gametype ctf
+gametype kh
+gametype vip

@@ -1,0 +1,11 @@
+title Frost
+description small CTF Map, released December 24, 2009
+author Oblivion
+cdtrack sixtyfour_
+has weapons
+gametype ctf
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype vip

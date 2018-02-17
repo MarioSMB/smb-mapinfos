@@ -1,0 +1,10 @@
+title Let's Drink Beer and Shoot Things
+description Hi-Tech Deathmatch Arena
+author Lunaran
+cdtrack 8
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

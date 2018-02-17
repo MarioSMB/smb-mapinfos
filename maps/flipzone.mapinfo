@@ -1,0 +1,15 @@
+title Flip Zone
+description Dark Zone returns twice
+author Maik Merten, Rudolf "div0" Polzer
+has weapons
+cdtrack 5
+gametype dm
+gametype tdm
+gametype ft
+gametype ca
+gametype vip
+gametype kh
+gametype ka
+gametype tdm
+gametype lms
+gametype dom

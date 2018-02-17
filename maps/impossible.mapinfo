@@ -1,0 +1,7 @@
+title Impossible
+description This CTF map is impossible
+author Known Unartist
+cdtrack impossible
+gametype ctf
+has weapons
+settemp_for_type all g_start_weapon_shotgun 0

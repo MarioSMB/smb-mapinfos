@@ -1,0 +1,7 @@
+title Weird Towers
+description A simple map with 16 towers and 16 teleporter pads
+author C.Brutail
+has weapons
+cdtrack 7
+gametype dm
+gametype lms

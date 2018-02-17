@@ -1,0 +1,9 @@
+title F4cing Worlds
+description 4 team facing worlds
+author Unknown
+cdtrack 3
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

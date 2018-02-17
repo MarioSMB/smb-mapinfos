@@ -1,0 +1,10 @@
+title Lich
+description Hard and fast
+author Sepelio
+_diameter 2978.063721
+_spawnpoints 6
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

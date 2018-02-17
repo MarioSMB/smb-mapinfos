@@ -1,0 +1,9 @@
+title Hell's Gate
+description Quake Live map
+author dummy
+has weapons
+cdtrack 9
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

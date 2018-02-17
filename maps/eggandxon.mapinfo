@@ -1,0 +1,12 @@
+title Ham And Eggs
+description Classic CTF minsta+hook map
+author Xperience aka. Sushy
+has weapons
+cdtrack 8
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype vip
+gametype kh
+gametype inf

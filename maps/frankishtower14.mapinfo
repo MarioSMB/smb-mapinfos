@@ -1,0 +1,15 @@
+title FrankishTower
+description A frankish donjon
+author MikeeUSA
+cdtrack thedirgev1
+has weapons
+gametype ctf
+gametype dm
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip

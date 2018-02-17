@@ -1,0 +1,16 @@
+title Cupola Arena
+description Small map for 1vs1 matches
+author forseti, MikeeUSA
+has weapons
+cdtrack 12
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf

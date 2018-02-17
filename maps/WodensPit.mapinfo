@@ -1,0 +1,7 @@
+title Wodens Pit
+description Large map designed for CTF
+author Clueless Newbie / C Lund
+has weapons
+gametype ctf
+gametype dom
+gametype kh

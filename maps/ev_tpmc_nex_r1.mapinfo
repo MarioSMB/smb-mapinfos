@@ -1,0 +1,11 @@
+title Ev tpmc
+description I have done this map for the Team Play Map Contest by betamap.de
+author Eversor Omni Rei
+has weapons
+cdtrack 6
+gametype ctf
+gametype vip
+gametype kh
+gametype inf
+
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

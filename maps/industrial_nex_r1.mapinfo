@@ -1,0 +1,10 @@
+title Industrial
+description Industrial Arena
+author Jochum "Hipshot" Skoglund
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm
+gametype dom
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

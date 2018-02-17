@@ -1,0 +1,12 @@
+title Fickle CTF
+description Mid-sized CTF and ONS map with fog
+author nowego
+has weapons
+cdtrack 14
+gametype ctf
+gametype ons
+gametype vip
+gametype kh
+gametype inf
+
+fog 2.2 0.5 0.5 0.5 1 300 1000 400 800

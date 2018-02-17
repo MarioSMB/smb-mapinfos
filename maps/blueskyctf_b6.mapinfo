@@ -1,0 +1,9 @@
+title blueskyCTF
+description bluesky CTF
+author djSupport
+cdtrack 16
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

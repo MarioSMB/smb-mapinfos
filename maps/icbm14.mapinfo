@@ -1,0 +1,12 @@
+title ICBM
+description Russian Rocket Base
+author MikeeUSA (LICENSE: Gnu GPL v2)
+cdtrack isoext
+has weapons
+has turrets
+gametype dm
+gametype tdm
+gametype lms
+gametype kh
+gametype ka
+gametype tdm

@@ -1,0 +1,10 @@
+title Arahia
+description Battleground on forgotten planet
+author Morphed
+has weapons
+cdtrack 4
+gametype dom
+gametype cq
+
+_diameter 26851.472656
+_spawnpoints 53

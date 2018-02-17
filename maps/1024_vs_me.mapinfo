@@ -1,0 +1,11 @@
+title 1024 vs me
+description just play and have fun
+author mIKE
+has weapons
+cdtrack 5
+gametype dm
+gametype ka
+gametype tdm
+gametype lms
+
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

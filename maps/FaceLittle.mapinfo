@@ -1,0 +1,9 @@
+title Face Little
+description Tiny CTF space map
+author BerneyBoy
+has weapons
+cdtrack 5
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

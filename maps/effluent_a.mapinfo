@@ -1,0 +1,15 @@
+title Effluent
+description TDM map
+author Sepelio
+has weapons
+cdtrack 5
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf

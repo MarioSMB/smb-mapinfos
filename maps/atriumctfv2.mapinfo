@@ -1,0 +1,9 @@
+title Atrium (2nd version)
+description Roman themed CTF map
+author fabzor3
+has weapons
+cdtrack mickrippon-runescape
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

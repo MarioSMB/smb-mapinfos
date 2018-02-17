@@ -1,0 +1,11 @@
+title Football fever !
+description GOOOOOOOOOOOOL GOOOOOOOOOL GOOOOOOOOOOOOOOOOOOOL
+author Morphed and Div0
+cdtrack 6
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+
+settemp_for_type ctf g_ctf_fullbrightflags 0
+size -2521 -2121 -16 2512 2121 170

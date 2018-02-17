@@ -1,0 +1,11 @@
+title Blasted Lands
+description One of the first terrain maps for Nexuiz
+author Unknown
+cdtrack 4
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype inf
+
+size -6144 -3072 -512 6144 3072 512

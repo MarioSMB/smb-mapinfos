@@ -1,0 +1,9 @@
+title Electrobitch
+description A very electric bitch map
+author BARTUC[ITA]
+has weapons
+cdtrack 6
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

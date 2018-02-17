@@ -1,0 +1,19 @@
+title kritische masse
+description Complex medium sized deathmatch map
+author cha0s
+has weapons
+cdtrack 6
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype dom
+gametype cq
+gametype vip
+gametype kh
+gametype inf
+
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

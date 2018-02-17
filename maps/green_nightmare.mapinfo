@@ -1,0 +1,10 @@
+title Green Nightmare
+description Turbo CTF!
+author Unknown
+cdtrack 3
+has weapons
+gametype ctf
+gametype kh
+gametype vip
+
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

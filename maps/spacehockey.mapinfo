@@ -1,0 +1,8 @@
+title Space Hockey
+description A large Hockey themed map in Space 
+author Acidphase 
+cdtrack the-laws-of-physics
+gametype ctf
+gametype vip
+
+clientsettemp_for_type all r_water 0

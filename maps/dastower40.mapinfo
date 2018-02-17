@@ -1,0 +1,17 @@
+title DasTower
+description A tower in the Andes Mountains
+author MikeeUSA
+has weapons
+cdtrack at-demo-2
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype dom
+gametype vip
+gametype kh
+gametype inf

@@ -1,0 +1,8 @@
+title Safe District
+description Small and fast assault map on the streets
+author forseti
+has weapons
+cdtrack 10
+gametype as
+
+settemp_for_type as g_start_weapon_laser 0

@@ -1,0 +1,9 @@
+title Advanced Tactical Combat Simulator
+description Tremulous map
+author nicolas "jex" jansens
+_diameter 4514.410645
+_spawnpoints 10
+cdtrack 7
+has weapons
+gametype ctf
+gametype vip

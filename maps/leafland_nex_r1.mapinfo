@@ -1,0 +1,10 @@
+title Leafland
+description A CTF-map set in the middle of a pond
+author skin[NCN]master
+cdtrack leafland
+has weapons
+gametype ctf
+gametype kh
+gametype ft
+gametype vip
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

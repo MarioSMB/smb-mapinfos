@@ -1,0 +1,8 @@
+title Pyramids
+description Large egyptian ctf map
+author Cortez
+has weapons
+cdtrack 10
+gametype ctf
+gametype kh
+gametype vip

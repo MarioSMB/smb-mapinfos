@@ -1,0 +1,8 @@
+title MICRO
+description Fun map for onslaught
+author Morphed
+cdtrack 8
+has weapons
+gametype ons
+settemp_for_type all g_respawn_waves 6
+settemp_for_type all g_respawn_delay 0

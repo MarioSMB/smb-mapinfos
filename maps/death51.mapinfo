@@ -1,0 +1,13 @@
+title Death51
+description A map for most gametypes. mainly ons. HAVE FUN!
+author fishman
+has weapons
+cdtrack 8
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype ons
+gametype vip
+gametype kh
+gametype inf

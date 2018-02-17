@@ -1,0 +1,7 @@
+title The Vast and Furious
+description Space floater CTF map
+author ButterB
+has weapons
+cdtrack 4
+gametype ctf
+gametype vip

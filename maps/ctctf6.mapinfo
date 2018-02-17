@@ -1,0 +1,9 @@
+title Rocky Rampage
+description The Chickenteam is a group of Europe's best CTF players that worked hand in hand with our mappers to finally release a mappack by CTF players for CTF players
+author Agent Orange
+has weapons
+cdtrack 2
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

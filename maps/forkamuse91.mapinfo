@@ -1,0 +1,16 @@
+title Fork Amuse
+description Large-sized map set in a kind of refinery
+author MikeeUSA, adapted by Babar
+has weapons
+cdtrack 4
+gametype ctf
+gametype dm
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype dom

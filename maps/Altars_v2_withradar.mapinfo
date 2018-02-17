@@ -1,0 +1,19 @@
+title Altars v2
+description Symmetrical map designed for CTF
+author Clueless Newbie / C Lund
+has weapons
+cdtrack 5
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype arena
+gametype lms
+gametype vip
+gametype kh
+gametype inf
+
+size -2048 -4096 -512 2048 1024 1024

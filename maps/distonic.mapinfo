@@ -1,0 +1,15 @@
+title Distonic
+description Medium-sized space map, based on jumppad action
+author nunuk (nicolas bouvier)
+has weapons
+cdtrack mistdei
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf

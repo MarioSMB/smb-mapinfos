@@ -1,0 +1,7 @@
+title Sandstorm
+description Test Map for Vehicles
+author Pow!
+cdtrack 5
+has weapons
+gametype ctf
+gametype kh

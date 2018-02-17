@@ -1,0 +1,13 @@
+title Ancient
+description Ancient large CTF map
+author Sepelio
+has weapons
+cdtrack 14
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype vip
+gametype kh
+gametype inf
+gametype ons

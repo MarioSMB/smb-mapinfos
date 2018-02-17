@@ -1,0 +1,9 @@
+title Paralyze
+description A 2v2 map that paralyzes
+author Moo and PCLizard
+cdtrack paralyze
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

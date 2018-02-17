@@ -1,0 +1,16 @@
+title Iron Yard
+description An Industrial Deathmatch Map
+author Friction
+cdtrack 4
+has weapons
+gametype dm
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype dom
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

@@ -1,0 +1,6 @@
+title Spatium
+description Medium size CTF map 
+author Justin 
+has weapons
+gametype ctf
+clientsettemp_for_type all r_water 1

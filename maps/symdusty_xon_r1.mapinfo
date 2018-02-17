@@ -1,0 +1,8 @@
+title symdusty_xon_r1
+description A symmetric remake of dusty_v2 with Xonotic textures
+author 
+cdtrack thru-the-mirror
+has weapons
+gametype ctf
+
+settemp_for_type all _nexuiz_mode 0

@@ -1,0 +1,11 @@
+title Bubblegloop Swamp
+description From Banjo Kazooie
+author Mario
+cdtrack Bubble
+has weapons
+gametype ctf
+gametype ft
+gametype ca
+gametype tdm
+gametype vip
+gametype kh

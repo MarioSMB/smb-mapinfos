@@ -1,0 +1,9 @@
+title Zion CTF Beta 3
+description Small-sized CTF-Map
+author -z-
+cdtrack 3
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype ft

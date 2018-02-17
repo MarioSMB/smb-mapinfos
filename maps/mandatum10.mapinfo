@@ -1,0 +1,15 @@
+title Mandatum
+description A prison where some of the recaptured forces of the MLU have been sent
+author by MikeeUSA (LICENSE: GNU GPL v2)
+cdtrack thru-the-mirror
+has weapons
+gametype ctf
+gametype dm
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip

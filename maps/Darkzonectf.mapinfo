@@ -1,0 +1,12 @@
+title Darkzone CTF
+description Famous DM map, now for CTF
+author Cortez
+has weapons
+cdtrack 4
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype vip
+gametype kh
+gametype inf

@@ -1,0 +1,6 @@
+title ^0Evil^1Space ^0Deep^1Sky
+description EvilSpaceCTF with larger Skybox	
+cdtrack thru-the-mirror
+gametype ctf
+
+settemp_for_type all _nexuiz_mode 1

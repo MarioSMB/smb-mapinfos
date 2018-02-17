@@ -1,0 +1,9 @@
+title Six Sided Figure
+description Small FFA map
+author Ben "Krash" Ackland
+has weapons
+cdtrack 9
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

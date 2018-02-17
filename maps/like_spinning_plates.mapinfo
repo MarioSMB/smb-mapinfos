@@ -1,0 +1,9 @@
+title Like spinning plates
+description A mostly gray CTF map with multiple base entrances and a center area with a bridge and a strength powerup to fight over.
+author mIKE
+cdtrack 3
+_diameter 9694.643555
+_spawnpoints 43
+has weapons
+gametype ctf
+gametye kh

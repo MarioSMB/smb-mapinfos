@@ -1,0 +1,17 @@
+title lichtwaerts
+description A cel-shaded space floater
+author cha0s
+has weapons
+cdtrack 4
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf
+
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

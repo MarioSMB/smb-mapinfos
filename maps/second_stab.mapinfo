@@ -1,0 +1,7 @@
+title Second Stab
+description Opposing Castle Q3A CTF level
+author Rich "swelt" Jacques
+cdtrack 6
+has weapons
+gametype ctf
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

@@ -1,0 +1,10 @@
+title Astralcity
+description Large industrial arena
+author kuniu the frogg
+cdtrack 14
+has weapons
+gametype ctf
+gametype ons
+gametype vip
+gametype kh
+gametype inf

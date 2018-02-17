@@ -1,0 +1,15 @@
+title Fragcity
+description Forgotten town where population change every minute
+author Morphed
+has weapons
+cdtrack 6
+gametype dm
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype dom

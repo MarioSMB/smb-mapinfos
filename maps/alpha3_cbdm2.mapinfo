@@ -1,0 +1,9 @@
+title Alpha3 CB-DM2
+description Small DM map
+author Unknown
+has weapons
+cdtrack 8
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

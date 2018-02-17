@@ -1,0 +1,9 @@
+title Time Prism
+description 2048x2048x2048 Mapping challenge entry
+author Allister 'Ihsan' Brizan
+has weapons
+cdtrack 14
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

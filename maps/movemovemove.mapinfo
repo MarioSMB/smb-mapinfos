@@ -1,0 +1,8 @@
+title Move Move Move
+description Hook the boxes
+author Rick Roll
+cdtrack sound/noes/ride
+has weapons
+gametype ctf
+gametype vip
+hidden

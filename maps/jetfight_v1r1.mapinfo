@@ -1,0 +1,10 @@
+title Jetfight!
+description Jetpack-only fighting map!
+author divVerent
+cdtrack 4
+has weapons
+gametype dm
+gametype lms
+settemp_for_type all g_weaponarena most
+settemp_for_type all g_jetpack 1
+settemp_for_type all g_jetpack_fuel 0

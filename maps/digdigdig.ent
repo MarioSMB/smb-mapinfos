@@ -1,0 +1,2458 @@
+{
+"classname" "worldspawn"
+"message" "DigDigDig - by Abaddon"
+}
+{
+"origin" "-256 -896 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "-256 -832 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "-256 -768 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "-256 -960 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "-256 -1024 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "180"
+"origin" "0 -896 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "180"
+"origin" "0 -960 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "180"
+"origin" "0 -1024 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "180"
+"origin" "0 -832 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "180"
+"origin" "0 -768 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "-320 -768 -1000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-320 -832 -1000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-320 -896 -1000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-320 -960 -1000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-320 -1024 -1000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-320 -1088 -1000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-256 -1088 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "180"
+"origin" "0 -1088 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "180"
+"origin" "64 -1088 -1000"
+"classname" "info_player_team1"
+}
+{
+"angle" "180"
+"origin" "64 -1024 -1000"
+"classname" "info_player_team1"
+}
+{
+"angle" "180"
+"origin" "64 -960 -1000"
+"classname" "info_player_team1"
+}
+{
+"angle" "180"
+"origin" "64 -896 -1000"
+"classname" "info_player_team1"
+}
+{
+"angle" "180"
+"origin" "64 -832 -1000"
+"classname" "info_player_team1"
+}
+{
+"angle" "180"
+"origin" "64 -768 -1000"
+"classname" "info_player_team1"
+}
+{
+"angle" "90"
+"origin" "-128 -960 -992"
+"classname" "item_flag_team1"
+}
+{
+"angle" "180"
+"origin" "0 1152 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "180"
+"origin" "0 1088 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "180"
+"origin" "0 1024 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "180"
+"origin" "0 1216 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "180"
+"origin" "0 1280 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "-3.50835e-015"
+"origin" "-256 1152 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "-3.50835e-015"
+"origin" "-256 1216 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "-3.50835e-015"
+"origin" "-256 1280 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "-3.50835e-015"
+"origin" "-256 1088 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "-3.50835e-015"
+"origin" "-256 1024 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "180"
+"origin" "0 1344 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "-3.50835e-015"
+"origin" "-256 1344 -1000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "-90"
+"origin" "-128 1216 -992"
+"classname" "item_flag_team2"
+}
+{
+"origin" "-320 1024 -1000"
+"classname" "info_player_team2"
+}
+{
+"origin" "-320 1088 -1000"
+"classname" "info_player_team2"
+}
+{
+"origin" "-320 1152 -1000"
+"classname" "info_player_team2"
+}
+{
+"origin" "-320 1216 -1000"
+"classname" "info_player_team2"
+}
+{
+"origin" "-320 1280 -1000"
+"classname" "info_player_team2"
+}
+{
+"origin" "-320 1344 -1000"
+"classname" "info_player_team2"
+}
+{
+"angle" "180"
+"origin" "64 1024 -1000"
+"classname" "info_player_team2"
+}
+{
+"angle" "180"
+"origin" "64 1088 -1000"
+"classname" "info_player_team2"
+}
+{
+"angle" "180"
+"origin" "64 1152 -1000"
+"classname" "info_player_team2"
+}
+{
+"angle" "180"
+"origin" "64 1216 -1000"
+"classname" "info_player_team2"
+}
+{
+"angle" "180"
+"origin" "64 1280 -1000"
+"classname" "info_player_team2"
+}
+{
+"angle" "180"
+"origin" "64 1344 -1000"
+"classname" "info_player_team2"
+}
+{
+"model" "*1"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*2"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*3"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*4"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*5"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*6"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*7"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*8"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*9"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*10"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*11"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*12"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*13"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*14"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*15"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*16"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*17"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*18"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*19"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*20"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*21"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*22"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*23"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*24"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*25"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*26"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*27"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*28"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*29"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*30"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*31"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*32"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*33"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*34"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*35"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*36"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*37"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*38"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*39"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*40"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*41"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*42"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*43"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*44"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*45"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*46"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*47"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*48"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*49"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*50"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*51"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*52"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*53"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*54"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*55"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*56"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*57"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*58"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*59"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*60"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*61"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*62"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*63"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*64"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*65"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*66"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*67"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*68"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*69"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*70"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*71"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*72"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*73"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*74"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*75"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*76"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*77"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*78"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*79"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*80"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*81"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*82"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*83"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*84"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*85"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*86"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*87"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*88"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*89"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*90"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*91"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*92"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*93"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*94"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*95"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*96"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*97"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*98"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*99"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*100"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*101"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*102"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*103"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*104"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*105"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*106"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*107"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*108"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*109"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*110"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*111"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*112"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*113"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*114"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*115"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*116"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*117"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*118"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*119"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*120"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*121"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*122"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*123"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*124"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*125"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*126"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*127"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*128"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*129"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*130"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*131"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*132"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*133"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*134"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*135"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*136"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*137"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*138"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*139"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*140"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*141"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*142"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*143"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*144"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*145"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*146"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*147"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*148"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*149"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*150"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*151"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*152"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*153"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*154"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*155"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*156"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*157"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*158"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*159"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*160"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*161"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*162"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*163"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*164"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*165"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*166"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*167"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*168"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*169"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*170"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*171"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*172"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*173"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*174"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*175"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*176"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*177"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*178"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*179"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*180"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*181"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*182"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*183"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*184"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*185"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*186"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*187"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*188"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*189"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*190"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*191"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*192"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*193"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*194"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*195"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*196"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*197"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*198"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*199"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*200"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*201"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*202"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*203"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*204"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*205"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*206"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*207"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"model" "*208"
+"dmg" "25"
+"angle" "-2"
+"health" "25"
+"wait" "5"
+"speed" "500"
+"spawnflags" "2"
+"classname" "func_door"
+}
+{
+"origin" "-192 -1088 -1008"
+"classname" "item_shells"
+}
+{
+"origin" "-128 -1088 -1008"
+"classname" "item_shells"
+}
+{
+"origin" "-64 -1088 -1008"
+"classname" "item_shells"
+}
+{
+"origin" "-64 -832 -1008"
+"classname" "item_shells"
+}
+{
+"origin" "-128 -832 -1008"
+"classname" "item_shells"
+}
+{
+"origin" "-192 -832 -1008"
+"classname" "item_shells"
+}
+{
+"angle" "180"
+"origin" "448 1344 -1008"
+"classname" "item_bullets"
+}
+{
+"angle" "180"
+"origin" "576 1216 -1008"
+"classname" "item_bullets"
+}
+{
+"angle" "180"
+"origin" "576 1344 -1008"
+"classname" "weapon_machinegun"
+}
+{
+"origin" "-704 -1088 -1008"
+"classname" "item_bullets"
+}
+{
+"origin" "-832 -960 -1008"
+"classname" "item_bullets"
+}
+{
+"origin" "-832 -1088 -1008"
+"classname" "weapon_machinegun"
+}
+{
+"origin" "-192 1088 -1008"
+"classname" "item_shells"
+}
+{
+"origin" "-128 1088 -1008"
+"classname" "item_shells"
+}
+{
+"origin" "-64 1088 -1008"
+"classname" "item_shells"
+}
+{
+"origin" "-64 1344 -1008"
+"classname" "item_shells"
+}
+{
+"origin" "-128 1344 -1008"
+"classname" "item_shells"
+}
+{
+"origin" "-192 1344 -1008"
+"classname" "item_shells"
+}
+{
+"origin" "-832 1216 -1008"
+"classname" "item_cells"
+}
+{
+"origin" "-832 1344 -1008"
+"classname" "weapon_crylink"
+}
+{
+"origin" "-704 1344 -1008"
+"classname" "item_cells"
+}
+{
+"angle" "180"
+"origin" "576 -960 -1008"
+"classname" "item_cells"
+}
+{
+"angle" "180"
+"origin" "576 -1088 -1008"
+"classname" "weapon_crylink"
+}
+{
+"angle" "180"
+"origin" "448 -1088 -1008"
+"classname" "item_cells"
+}
+{
+"origin" "-832 192 -1008"
+"classname" "weapon_rocketlauncher"
+}
+{
+"origin" "-832 320 -1008"
+"classname" "item_rockets"
+}
+{
+"origin" "-832 64 -1008"
+"classname" "item_rockets"
+}
+{
+"origin" "576 320 -1008"
+"classname" "item_rockets"
+}
+{
+"origin" "576 64 -1008"
+"classname" "item_rockets"
+}
+{
+"origin" "576 192 -1008"
+"classname" "weapon_grenadelauncher"
+}
+{
+"origin" "-448 -192 -1008"
+"classname" "item_health100"
+}
+{
+"origin" "192 448 -1008"
+"classname" "item_health100"
+}
+{
+"origin" "192 -192 -1008"
+"classname" "item_armor25"
+}
+{
+"origin" "-448 448 -1008"
+"classname" "item_armor25"
+}

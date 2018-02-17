@@ -1,0 +1,7 @@
+title The Smelter
+description Remake of the Quake 2 CTF map for Nexuiz
+author Sepelio
+has weapons
+cdtrack 6
+gametype ctf
+gametype kh

@@ -1,0 +1,7 @@
+title Deeper Underground
+description Simple map to increase options for this mode
+author forseti
+cdtrack 2
+has weapons
+has turrets
+gametype as

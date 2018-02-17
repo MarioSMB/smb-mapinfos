@@ -1,0 +1,9 @@
+title Passages
+description A small 1v1 map, have fun!
+author Moo
+cdtrack 14
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

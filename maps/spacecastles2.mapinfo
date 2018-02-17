@@ -1,0 +1,8 @@
+title Spacecastles2
+description Don´t go alone to capture the flag from your enemys and have fun!
+author Sven
+_diameter 9120.407227
+_spawnpoints 36
+has weapons
+gametype ctf
+gametype kh

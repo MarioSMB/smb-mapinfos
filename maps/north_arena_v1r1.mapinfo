@@ -1,0 +1,9 @@
+title Northern Arena
+description A small Arena-style map with a nordic feeling
+author Kruntt
+cdtrack darksun3
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

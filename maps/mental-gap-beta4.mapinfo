@@ -1,0 +1,13 @@
+title Mental Gap Beta4
+description Two facing open space stations with void below
+author Nodenum
+cdtrack 8
+has weapons
+gametype ctf
+gametype tdm
+gametype dom
+gametype ft
+gametype dm
+gametype ca
+gametype vip
+gametype kh

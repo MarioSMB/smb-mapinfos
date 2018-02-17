@@ -1,0 +1,7 @@
+title LOLCTF
+description I am still thinking of what to call this map....Any ideas are helpful.
+author Moo
+cdtrack 16
+has weapons
+gametype ctf
+fog 0.005

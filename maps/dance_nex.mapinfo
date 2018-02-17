@@ -1,0 +1,19 @@
+title Dance Nexuiz
+description Nexuiz dance, with better music
+author dublpaws
+has weapons
+cdtrack dance
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype kh
+gametype inf
+
+_diameter 2978.063721
+_spawnpoints 5

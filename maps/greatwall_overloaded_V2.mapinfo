@@ -1,0 +1,10 @@
+title Greatwall Overloaded V2
+description The newest Concept!!
+author tZork and Cortez
+_diameter 11268.433594
+_spawnpoints 2
+has weapons
+has turrets
+gametype ctf
+gametype kh
+gametype vip

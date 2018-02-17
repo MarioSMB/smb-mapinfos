@@ -1,0 +1,12 @@
+title Adrenaline CTF BETA
+description Indoor map, symetrical
+author Cuinn (cuinnton) Herrick
+has weapons
+cdtrack 2
+gametype ctf
+gametype tdm
+gametype ca
+gametype ft
+gametype vip
+gametype kh
+gametype inf

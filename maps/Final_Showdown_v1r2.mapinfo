@@ -1,0 +1,9 @@
+title Final Showdown
+description Blue team has more Spiderbots and Jetpacks and Red Team more turrets and the bigger fortress
+author Sven
+has weapons
+cdtrack INNER_PEACEFINAL
+gametype ctf
+gametype kh
+gametype vip
+gametype ons

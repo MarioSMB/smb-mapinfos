@@ -1,0 +1,10 @@
+title Arena Capture the Flag
+description A medium outdoors map for CTF
+author Cuinn (cuinnton) Herrick
+has weapons
+cdtrack "rumble drum"
+gametype ctf
+gametype ft
+gametype vip
+gametype kh
+gametype inf

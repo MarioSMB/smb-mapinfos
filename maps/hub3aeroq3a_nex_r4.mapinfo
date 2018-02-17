@@ -1,0 +1,9 @@
+title Aerowalk
+description First created for the original Quake, Aerowalk became an instant hit upon it`s release in 1997. It's popularity has spawned numerous remakes for later versions of Quake, and has made frequent appearances in tournaments. This recreation of Aerowalk derives from a Quake 3 mod named Challenge Pro Mode Arena under the map name of "CPM22". Aerowalk favors a fast, rushed strategical and technical approach, has a lot of control points, and favors utilization of teleporters for shot placement.
+author Preacher (Hubsters Remix II)
+cdtrack 3
+has weapons
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

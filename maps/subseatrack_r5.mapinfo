@@ -1,0 +1,10 @@
+title sub-sea race track
+description Track taken from SuperTuxKart
+author divVerent
+_diameter 8702.458008
+_spawnpoints 60
+cdtrack tk2
+has weapons
+gametype ctf
+gametype kh
+gametype rc

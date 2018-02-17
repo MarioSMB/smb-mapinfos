@@ -1,0 +1,20 @@
+title One Loove, Two Loofs! Regular edition
+description 20090401
+author divVerent (original by Strahlemann)
+cdtrack jobe_-_subway_groping_theme
+has weapons
+gametype ctf
+gametype rc
+settemp_for_type all g_start_weapon_laser 0
+settemp_for_type ctf g_start_weapon_shotgun 1
+settemp_for_type ctf g_start_weapon_uzi 1
+settemp_for_type ctf g_start_weapon_campingrifle 1
+settemp_for_type race g_start_weapon_shotgun 0
+settemp_for_type race g_start_weapon_uzi 0
+settemp_for_type race g_start_weapon_campingrifle 0
+settemp_for_type all g_start_ammo_shells 40
+settemp_for_type all g_start_ammo_nails 160
+settemp_for_type all g_antilag_bullets 0
+settemp_for_type race g_weaponreplace_hook porto
+settemp_for_type all g_balance_grapplehook_speed_fly 7200
+hidden

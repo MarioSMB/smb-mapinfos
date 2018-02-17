@@ -1,0 +1,13 @@
+title UnfinishedTower
+description New structural materials allow previously impossibly tall towers to be built
+author MikeeUSA (LICENSE: GNU GPL v2)
+_diameter 32912.980469
+_spawnpoints 37
+cdtrack Trapped
+has weapons
+gametype dm
+gametype dom
+gametype ctf
+gametype ft
+gametype ca
+gametype kh

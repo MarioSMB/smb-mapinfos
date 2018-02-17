@@ -1,0 +1,17 @@
+title Capture City
+description City map for CTF
+author Rudolf Polzer
+cdtrack 8
+has weapons
+gametype ctf
+gametype dm
+gametype tdm
+gametype ft
+gametype lms
+gametype ka
+gametype tdm
+gametype ca
+gametype arena
+gametype vip
+gametype kh
+gametype inf

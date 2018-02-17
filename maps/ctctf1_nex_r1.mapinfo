@@ -1,0 +1,7 @@
+title crosstown traffic
+description City CTF
+author Ferrao
+cdtrack 4
+has weapons
+gametype ctf
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

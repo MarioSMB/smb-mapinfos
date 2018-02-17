@@ -1,0 +1,16 @@
+title FrankishTower 2
+description A frankish donjon
+author MikeeUSA (modified by Kid)
+cdtrack 14
+has weapons
+gametype ctf
+gametype dm
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype dom

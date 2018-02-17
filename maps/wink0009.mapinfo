@@ -1,0 +1,9 @@
+title Wink Wink 
+description Medium sized CTF map
+author hutty
+cdtrack 9
+has weapons
+has turrets
+gametype ctf
+gametype vip
+gametype kh

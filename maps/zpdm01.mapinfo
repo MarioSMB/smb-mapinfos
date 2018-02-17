@@ -1,0 +1,9 @@
+title Choluk
+description Medium-sized Space Floater using cell-shade-technology
+author ZEphYR
+has weapons
+cdtrack 6
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

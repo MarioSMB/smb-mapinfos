@@ -1,0 +1,9 @@
+title Iron Wood
+description Simple map, brutal action
+author Unknown
+cdtrack subcities
+has weapons
+gametype ctf
+gametype kh
+
+settemp_for_type all _nexuiz_mode 1

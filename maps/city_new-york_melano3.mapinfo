@@ -1,0 +1,18 @@
+title City New-York
+description Large city map, designed for singleplayer
+author Mircea Kitsune, modified by Melanosuchus
+has weapons
+has vehicles
+cdtrack 6
+gametype ctf
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype arena
+gametype lms
+gametype vip
+gametype kh
+gametype inf

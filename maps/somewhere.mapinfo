@@ -1,0 +1,9 @@
+title Somewhere
+description Somewhere in the middle of nowhere
+author Banshee
+has weapons
+cdtrack somewhere
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

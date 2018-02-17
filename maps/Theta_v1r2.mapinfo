@@ -1,0 +1,9 @@
+title Theta
+description CTF map
+author Clueless Newbie / C Lund
+has weapons
+gametype ctf
+gametype vip
+gametype kh
+gametype ft
+gametype dom

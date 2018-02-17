@@ -1,0 +1,29 @@
+title Rainbow Road
+description From Mario Kart 64
+author Mario
+cdtrack rainbowroad
+has weapons
+gametype rc qualifying_timelimit=0 laplimit=3
+gametype cts
+settemp_for_type all g_grappling_hook 0
+settemp_for_type all g_jetpack 0
+settemp_for_type all g_start_weapon_hook 0
+settemp_for_type all sv_gravity 600
+settemp_for_type all sv_jumpvelocity 180
+settemp_for_type all sv_stepheight 15
+settemp_for_type all g_bugrigs 1
+settemp_for_type all g_bugrigs_planar_movement 0
+settemp_for_type all g_bugrigs_planar_movement_car_jumping 0
+settemp_for_type all g_bugrigs_accel 800
+settemp_for_type all g_bugrigs_reverse_spinning 0
+settemp_for_type all g_bugrigs_reverse_speeding 0
+settemp_for_type all g_bugrigs_reverse_stopping 0
+settemp_for_type all g_touchexplode 1
+clientsettemp_for_type all chase_back 192
+clientsettemp_for_type all chase_up 24
+clientsettemp_for_type all cl_movement_track_canjump 1
+settemp_for_type all sv_defaultcharacter 1
+settemp_for_type all sv_allow_customplayermodels 0
+settemp_for_type all sv_defaultplayermodel models/player_race/kart.zym
+settemp_for_type all sv_defaultplayerskin 0
+settemp_for_type all g_balance_falldamage_maxdamage 0

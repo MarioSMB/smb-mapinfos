@@ -1,0 +1,7 @@
+title my iron lung
+description mIKE CTF 3
+author mIKE
+cdtrack 10
+has weapons
+gametype ctf
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

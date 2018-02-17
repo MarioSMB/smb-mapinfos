@@ -1,0 +1,10 @@
+title Ganesh
+description open arena type map with a big pyramid thing in the middle.
+author fabzor
+cdtrack 2
+has weapons
+_spawnpoints 8
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

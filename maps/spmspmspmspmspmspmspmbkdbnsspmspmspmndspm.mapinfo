@@ -1,0 +1,12 @@
+title Egg & Bacon
+description Overly simple arena with all weapons
+author Rudolf Polzer
+_diameter 4020.364258
+_spawnpoints 18
+cdtrack 8
+has weapons
+gametype ctf
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

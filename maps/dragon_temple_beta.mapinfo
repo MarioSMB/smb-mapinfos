@@ -1,0 +1,9 @@
+title Dragon Temple
+description Beware the laggy fires of doom!
+author BlackDragon-131
+has weapons
+cdtrack 13
+gametype ctf
+gametype vip
+gametype kh
+gametype inf

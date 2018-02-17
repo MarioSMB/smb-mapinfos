@@ -1,0 +1,11 @@
+title vectorwars - jailbreak
+description vectorwars by fabzor3, cuinnton, Hanzo
+author fabzor3, cuinnton, Hanzo
+cdtrack 0
+has weapons
+gametype jb
+gametype kh
+gametype dom
+gametype ctf
+gametype ft
+gametype ca

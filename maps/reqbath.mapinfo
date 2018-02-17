@@ -1,0 +1,11 @@
+title Miniman Bathroom
+description From Quake 3
+author Requiem
+cdloop 4
+has weapons
+gametype ctf
+gametype dm
+gametype lms
+gametype ft
+gametype tdm
+gametype kh

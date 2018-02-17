@@ -1,0 +1,16 @@
+title DSI
+description Sci-Fi Arena
+author Yves Allaire
+has weapons
+cdtrack 4
+gametype dm
+gametype tdm
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype dom
+gametype vip
+gametype kh
+gametype inf

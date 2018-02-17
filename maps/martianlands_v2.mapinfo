@@ -1,0 +1,7 @@
+title Martian Lands V2
+description Remake of an old map
+author Mario
+cdtrack DockingProcedures
+has weapons
+has vehicles
+gametype ctf

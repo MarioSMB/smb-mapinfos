@@ -1,0 +1,17 @@
+title Gasoline Powered 2
+description Gassy
+author FruitieX (modified by Kid)
+cdtrack moar_ghosts_n_stuff
+has weapons
+gametype dm
+gametype tdm
+gametype dom
+gametype ctf
+gametype vip
+gametype lms
+gametype kh
+gametype ft
+gametype ca
+gametype ka
+
+settemp_for_type all _nexuiz_mode 1

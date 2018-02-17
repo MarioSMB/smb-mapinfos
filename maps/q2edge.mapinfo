@@ -1,0 +1,9 @@
+title The Edge
+description Maybe you know it
+author Chod
+has weapons
+cdtrack 2
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

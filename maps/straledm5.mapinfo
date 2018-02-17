@@ -1,0 +1,9 @@
+title Shake your body
+description This Level was made for the Burial-Grounds Map Contest
+author Paul "Strahlemann" Evers
+has weapons
+cdtrack mistdei
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

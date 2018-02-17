@@ -1,0 +1,10 @@
+title Bonus Round
+description A small fragfest map, inspired by the old Sonic 3 bonus rounds, to play for a short time in-between largermaps
+author MikeeUSA
+has weapons
+cdtrack battle3electro
+gametype dm
+gametype ka
+gametype tdm
+gametype arena
+gametype lms

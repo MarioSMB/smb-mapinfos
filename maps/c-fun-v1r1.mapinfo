@@ -1,0 +1,11 @@
+title Color Fun
+description The Color Changing Super Happy Fun Box
+author Paul Evers (edited: div0)
+has weapons
+cdtrack 8
+gametype dm
+gametype ka
+gametype tdm
+gametype arena
+gametype dom
+gametype lms

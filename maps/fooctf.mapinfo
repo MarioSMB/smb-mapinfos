@@ -1,0 +1,8 @@
+title Foo CTF
+description Don't go to Sea World
+author Charmosaurus
+cdtrack 6
+has weapons
+gametype ctf
+gametype kh
+gametype vip

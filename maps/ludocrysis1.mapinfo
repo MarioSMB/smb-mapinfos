@@ -1,0 +1,14 @@
+title Ludocrysis
+description Teleportation Academy
+author MikeeUSA (LICENSE: GNU GPL v2)
+cdtrack northern-lights
+has weapons
+gametype dm
+gametype tdm
+gametype lms
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype inf
+gametype vip

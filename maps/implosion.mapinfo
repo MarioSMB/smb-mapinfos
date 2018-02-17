@@ -1,0 +1,11 @@
+title implosion
+description Space Style CTF Level
+author MintOX
+cdtrack 5
+has weapons
+gametype ctf
+gametype kh
+gametype ft
+gametype vip
+
+// Thanks to my daughter Alysa, I love you boo!

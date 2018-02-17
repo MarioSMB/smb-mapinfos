@@ -1,0 +1,20 @@
+title Into the vixen
+description A map where players fight in the belly of a giant vixen. Large map with many jump pads.
+author Mircea Kitsune
+cdtrack kidneythieves_zerospace
+has weapons
+gametype ctf
+gametype dm
+gametype tdm
+gametype kh
+gametype ca
+gametype ft
+gametype ka
+gametype tdm
+gametype lms
+gametype vip
+gametype rc
+gametype ons
+gametype inf
+gametype dom
+gametype cq

@@ -1,0 +1,10 @@
+title Spaceplates
+description Worse than Eyecancer
+author divVer/tez/ork
+has weapons
+cdtrack sb-nonfree-software-song
+gametype ctf
+gametype kh
+gametype vip
+
+settemp_for_type all sv_gravity 1

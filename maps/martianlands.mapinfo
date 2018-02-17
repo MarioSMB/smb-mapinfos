@@ -1,0 +1,9 @@
+title Martian Lands
+description Vehicles on the rough terrain make combat difficult
+author Mario
+has weapons
+has vehicles
+cdtrack DockingProcedures
+gametype ctf
+gametype kh
+gametype vip

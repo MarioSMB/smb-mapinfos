@@ -1,0 +1,9 @@
+title Iceworld for Nexuiz
+description Reprise for old good fy_iceworld
+author Lord Canistra
+cdtrack 18
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

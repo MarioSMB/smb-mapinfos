@@ -1,0 +1,9 @@
+title Docs Gothic Rush
+description Gothic rush!
+author Doc-Pyton
+has weapons
+cdtrack DK_ChurchOfGod
+gametype dm
+gametype ka
+gametype tdm
+gametype lms

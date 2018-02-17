@@ -1,0 +1,10 @@
+title NoPeaceFan
+description An arena in which one is advised not to fall into a fan
+author MikeeUSA (LICENSE: GNU GPL v2)
+//cdtrack peace5
+cdtrack peace5_p
+has weapons
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

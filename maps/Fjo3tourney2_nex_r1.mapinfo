@@ -1,0 +1,11 @@
+title Fjogg's tourney 2
+description Everything Else Is Green
+author Fjogg
+has weapons
+cdtrack 8
+gametype dm
+gametype ka
+gametype tdm
+gametype lms
+
+settemp_for_type all sv_q3acompat_machineshotgunswap 1

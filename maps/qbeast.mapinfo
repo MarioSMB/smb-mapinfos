@@ -1,0 +1,9 @@
+title Qbeast
+description This level has been thought to take part to the Nunuk's geometry competition 2002 edition 
+author Quint (Marco Quintavalle)
+has weapons
+cdtrack qbeast
+gametype dm
+gametype lms
+gametype ka
+gametype tdm

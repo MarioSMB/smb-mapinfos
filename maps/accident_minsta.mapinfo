@@ -1,0 +1,9 @@
+title Accident - Simplified
+description Symetrical CTF map modified for minsta+hook
+author forseti
+has weapons
+cdtrack 5
+gametype ctf
+gametype vip
+gametype kh
+gametype inf
