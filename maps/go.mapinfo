@@ -1,8 +1,10 @@
 title Go
-description Go!
-author Unknown
+description Space CTF map with a futuristic theme
+author dublpaws, Debugger
+cdtrack 11
 has weapons
-cdtrack 12
 gametype ctf
 gametype kh
 gametype vip
+
+clientsettemp_for_type all r_hdr_scenebrightness 0.75
