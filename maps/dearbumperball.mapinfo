@@ -4,20 +4,22 @@ author Soelen, music by rorychally, models and arena by craeno
 //  http://www.newgrounds.com/audio/listen/392317
 //  http://www.blendswap.com/3D-models/misc-objects/craneo/
 
-gametype nb
+gametype nb pointlimit=5
 cdtrack cdtracks/funkdancednb.ogg
 
-settemp_for_type nb fraglimit 10
+settemp_for_type nb g_physics_clientselect 0
 
-settemp_for_type nb g_nb_delay_start 2
-settemp_for_type nb g_nb_football_bouncestop 0.0069
-settemp_for_type nb g_nb_football_trail 1
-settemp_for_type nb g_nb_trail_color 0xFB
+settemp_for_type nb g_touchexplode 1
+
+settemp_for_type nb g_nexball_delay_start 2
+settemp_for_type nb g_nexball_football_bouncestop 0.0069
+settemp_for_type nb g_nexball_football_trail 1
+settemp_for_type nb g_nexball_trail_color 0xFB
 
 
-settemp_for_type nb g_nb_delay_idle 20
-settemp_for_type nb g_nb_football_boost_up 200
-settemp_for_type nb g_nb_football_bouncefactor 0.35
+settemp_for_type nb g_nexball_delay_idle 20
+settemp_for_type nb g_nexball_football_boost_up 200
+settemp_for_type nb g_nexball_football_bouncefactor 0.35
 
 settemp_for_type nb sv_defaultcharacter 1
 
@@ -35,18 +37,18 @@ clientsettemp_for_type nb sv_defaultplayermodel_yellow models/player/pokedouche.
 
 settemp_for_type nb g_footsteps 0
 
-settemp_for_type nb g_balance_grenadelauncher_bouncefactor 0
-settemp_for_type nb g_balance_grenadelauncher_bouncestop 1
-settemp_for_type nb g_balance_grenadelauncher_primary_ammo 200
-settemp_for_type nb g_balance_grenadelauncher_secondary_ammo 0
-settemp_for_type nb g_balance_grenadelauncher_secondary_damage 200
-settemp_for_type nb g_balance_grenadelauncher_secondary_lifetime_bounce 1
-settemp_for_type nb g_balance_grenadelauncher_secondary_health 200
-settemp_for_type nb g_balance_grenadelauncher_secondary_radius 240 // 60
-settemp_for_type nb g_balance_grenadelauncher_secondary_refire 3
-//settemp_for_type nb g_balance_grenadelauncher_secondary_remote_detonateprimary 1
-settemp_for_type nb g_balance_grenadelauncher_secondary_speed 0
-settemp_for_type nb g_balance_grenadelauncher_secondary_speed_up 0
+settemp_for_type nb g_balance_mortar_bouncefactor 0
+settemp_for_type nb g_balance_mortar_bouncestop 1
+settemp_for_type nb g_balance_mortar_primary_ammo 200
+settemp_for_type nb g_balance_mortar_secondary_ammo 0
+settemp_for_type nb g_balance_mortar_secondary_damage 200
+settemp_for_type nb g_balance_mortar_secondary_lifetime_bounce 1
+settemp_for_type nb g_balance_mortar_secondary_health 200
+settemp_for_type nb g_balance_mortar_secondary_radius 240 // 60
+settemp_for_type nb g_balance_mortar_secondary_refire 3
+//settemp_for_type nb g_balance_mortar_secondary_remote_detonateprimary 1
+settemp_for_type nb g_balance_mortar_secondary_speed 0
+settemp_for_type nb g_balance_mortar_secondary_speed_up 0
 
 //sv_servermodelsonly 0
 
@@ -67,7 +69,6 @@ clientsettemp_for_type nb crosshair_alpha 0
 
 //settemp_for_type nb g_running_guns 1
 
-clientsettemp_for_type nb cl_movement_jumpvelocity 0
 settemp_for_type nb sv_jumpvelocity 0
 
 settemp_for_type nb sv_maxspeed 1200
