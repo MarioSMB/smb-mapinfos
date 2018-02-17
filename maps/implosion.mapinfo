@@ -7,5 +7,7 @@ gametype ctf
 gametype kh
 gametype ft
 gametype vip
+hidden
+noautomaplist
 
 // Thanks to my daughter Alysa, I love you boo!
