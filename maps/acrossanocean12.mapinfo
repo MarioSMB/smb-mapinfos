@@ -1,23 +1,16 @@
-title AcrossAnOcean
-description Desolate isles far apart
-author MikeeUSA
-has weapons
+title Acrossanocean12
+description Desolate isles far apart. Vehicle support by Jeff
+author MikeeUSA (LICENSE: GNU GPL v2) 
 cdtrack new_patriarchy_forever_v1
+has weapons
+has vehicles
 gametype ctf
-gametype dm
-gametype tdm
-gametype ca
-gametype ft
-gametype ka
-gametype tdm
-gametype arena
-gametype lms
-gametype vip
-gametype kh
-gametype inf
 
-settemp_for_type all g_balance_seeker_missile_lifetime 120
-settemp_for_type all g_balance_rocketlauncher_lifetime 120
-settemp_for_type all g_balance_hagar_primary_lifetime 120
-settemp_for_type all g_balance_hagar_secondary_lifetime 120
-settemp_for_type all g_balance_electro_primary_lifetime 120
+//settemp_for_type all g_jetpack 1
+
+settemp_for_type all g_balance_superweapons_time 120
+settemp_for_type all g_balance_porto_primary_lifetime 60
+settemp_for_type all g_balance_porto_secondary_lifetime 60
+settemp_for_type all g_balance_porto_secondary_speed 10000
+settemp_for_type all g_balance_porto_primary_speed 10000
+settemp_for_type all g_balance_portal_lifetime 60
