@@ -1,0 +1,30 @@
+title Flappy
+description Oh god, another clone
+author Mario
+cdtrack flappy
+has weapons
+gametype dm
+//hidden // singleplayer
+
+settemp_for_type all g_physics_clientselect 0
+
+settemp_for_type all _independent_players 1
+
+settemp_for_type all g_multijump -1
+settemp_for_type all g_multijump_maxspeed 0
+settemp_for_type all g_multijump_dodging 0
+clientsettemp_for_type all cl_multijump 1
+
+settemp_for_type all g_jetpack 0
+settemp_for_type all g_grappling_hook 0
+
+settemp_for_type all sv_gravity 800
+settemp_for_type all sv_jumpvelocity 350
+settemp_for_type all sv_maxspeed 0
+settemp_for_type all sv_maxairspeed 0
+settemp_for_type all sv_accelerate 0
+settemp_for_type all sv_airaccelerate 0
+settemp_for_type all sv_airstrafeaccelerate 0
+settemp_for_type all sv_airstrafespeed 0
+settemp_for_type all sv_aircontrol 0
+

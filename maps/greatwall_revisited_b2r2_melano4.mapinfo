@@ -1,0 +1,23 @@
+title Greatwall Revisited Melanified
+description Good old Greatwall, revisited.
+author FruitieX, Melanosuchus, Mario
+has weapons
+has vehicles
+has turrets
+gametype dm
+gametype lms
+gametype ka
+gametype kh
+gametype ca
+gametype tdm
+gametype ft
+gametype ctf
+gametype vip
+cdtrack sc0rp-thewall
+fog 0
+
+
+
+
+
+

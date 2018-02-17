@@ -1,0 +1,521 @@
+{
+"gridsize" "160 160 224"
+"_q3map2_version" "2.5.17n-git-ac4581f"
+"_q3map2_cmdline" "-meta -v; -vis -fast -saveprt; -light -lomem -cheapgrid -faster"
+"license" "GNU GPL version 2 or any later version"
+"author" "Pow!"
+"_blocksize" "0 0 0"
+"_floodlight" "255 239 223 1024 64"
+"classname" "worldspawn"
+}
+{
+"origin" "0.000000 0.000000 5888.000000"
+"strength" "1024"
+"target" "impulse_target"
+"classname" "trigger_impulse"
+}
+{
+"targetname" "impulse_target"
+"origin" "0.000000 0.000000 5120.000000"
+"classname" "target_position"
+}
+{
+"angle" "180.000000"
+"turret_scale_health" "1.5"
+"team" "14"
+"origin" "8192.000000 832.000000 576.000000"
+"classname" "turret_mlrs"
+}
+{
+"angle" "180.000000"
+"turret_scale_health" "1.5"
+"team" "14"
+"origin" "8192.000000 -832.000000 576.000000"
+"classname" "turret_mlrs"
+}
+{
+"turret_scale_aim" "1.5"
+"team" "14"
+"turret_scale_health" "2"
+"turret_scale_ammo" "2"
+"turret_scale_refire" "2"
+"turret_scale_damage" "2"
+"origin" "5632.000000 0.000000 512.000000"
+"classname" "turret_walker"
+}
+{
+"angle" "180.000000"
+"turret_scale_health" "1.25"
+"team" "14"
+"turret_scale_range" "1.5"
+"turret_scale_ammo" "2"
+"turret_scale_refire" "0.75"
+"origin" "11296.000000 0.000000 864.000000"
+"classname" "turret_machinegun"
+}
+{
+"turret_scale_health" "1.5"
+"team" "5"
+"origin" "-8192.000000 832.000000 640.000000"
+"classname" "turret_mlrs"
+}
+{
+"turret_scale_health" "1.5"
+"team" "5"
+"origin" "-8192.000000 -832.000000 640.000000"
+"classname" "turret_mlrs"
+}
+{
+"turret_scale_aim" "1.5"
+"team" "5"
+"angle" "180.000000"
+"turret_scale_health" "2"
+"turret_scale_ammo" "2"
+"turret_scale_refire" "2"
+"turret_scale_damage" "2"
+"origin" "-5632.000000 0.000000 576.000000"
+"classname" "turret_walker"
+}
+{
+"origin" "0.000000 -864.000000 2336.000000"
+"classname" "weapon_vortex"
+}
+{
+"origin" "0.000000 896.000000 2336.000000"
+"classname" "weapon_devastator"
+}
+{
+"angle" "-179.999985"
+"origin" "-864.000000 -64.000000 2336.000000"
+"classname" "item_cells"
+}
+{
+"origin" "0.000000 -994.000000 2336.000000"
+"classname" "item_bullets"
+}
+{
+"origin" "0.000000 80.000000 5336.000000"
+"classname" "item_strength"
+}
+{
+"angle" "-179.999985"
+"origin" "-864.000000 64.000000 2336.000000"
+"classname" "item_rockets"
+}
+{
+"origin" "832.000000 64.000000 2336.000000"
+"classname" "item_cells"
+}
+{
+"origin" "832.000000 -64.000000 2336.000000"
+"classname" "item_rockets"
+}
+{
+"origin" "9408.000000 -288.000000 864.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "9408.000000 288.000000 864.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "10832.000000 240.000000 688.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "10832.000000 -240.000000 688.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "10832.000000 -144.000000 688.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "10832.000000 -48.000000 688.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "10832.000000 48.000000 688.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "10832.000000 144.000000 688.000000"
+"classname" "item_health_small"
+}
+{
+"volume" "1"
+"atten" "-1"
+"noise" "sound/map_sandstorm/windoutside_loop_amplified.ogg"
+"origin" "0.000000 0.000000 6016.000000"
+"classname" "target_speaker"
+}
+{
+"origin" "11072.000000 128.000000 864.000000"
+"classname" "weapon_hlac"
+}
+{
+"origin" "11072.000000 -128.000000 864.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"origin" "10560.000000 256.000000 864.000000"
+"classname" "weapon_crylink"
+}
+{
+"origin" "10560.000000 -256.000000 864.000000"
+"classname" "weapon_hagar"
+}
+{
+"origin" "10144.000000 256.000000 864.000000"
+"classname" "weapon_seeker"
+}
+{
+"origin" "10144.000000 -256.000000 864.000000"
+"classname" "weapon_electro"
+}
+{
+"origin" "5888.000000 6400.000000 640.000000"
+"classname" "item_armor_big"
+}
+{
+"origin" "6400.000000 5888.000000 640.000000"
+"classname" "item_health_large"
+}
+{
+"origin" "6400.000000 -5888.000000 640.000000"
+"classname" "item_armor_big"
+}
+{
+"origin" "5888.000000 -6400.000000 640.000000"
+"classname" "item_health_large"
+}
+{
+"origin" "-9728.000000 -320.000000 864.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-10880.000000 -416.000000 864.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "45"
+"origin" "-6208.000000 -6208.000000 640.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-10240.000000 0.000000 576.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-180.000000"
+"origin" "-9664.000000 0.000000 864.000000"
+"classname" "item_flag_team1"
+}
+{
+"origin" "-9728.000000 320.000000 864.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-10880.000000 416.000000 864.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-45.000008"
+"origin" "-6208.000000 6208.000000 640.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-9408.000000 -288.000000 864.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "-9408.000000 288.000000 864.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "-10832.000000 240.000000 688.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "-10832.000000 -240.000000 688.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "-10832.000000 -144.000000 688.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "-10832.000000 -48.000000 688.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "-10832.000000 48.000000 688.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "-10832.000000 144.000000 688.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "-11072.000000 -128.000000 864.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"angle" "-90.000000"
+"origin" "-5888.000000 6400.000000 640.000000"
+"classname" "item_armor_big"
+}
+{
+"origin" "-11072.000000 128.000000 864.000000"
+"classname" "weapon_hlac"
+}
+{
+"origin" "-10560.000000 -256.000000 864.000000"
+"classname" "weapon_hagar"
+}
+{
+"origin" "-10560.000000 256.000000 864.000000"
+"classname" "weapon_crylink"
+}
+{
+"origin" "-10144.000000 -256.000000 864.000000"
+"classname" "weapon_electro"
+}
+{
+"origin" "-10144.000000 256.000000 864.000000"
+"classname" "weapon_seeker"
+}
+{
+"angle" "-90.000000"
+"origin" "-6400.000000 5888.000000 640.000000"
+"classname" "item_health_large"
+}
+{
+"origin" "-6400.000000 -5888.000000 640.000000"
+"classname" "item_armor_big"
+}
+{
+"origin" "-5888.000000 -6400.000000 640.000000"
+"classname" "item_health_large"
+}
+{
+"angle" "180"
+"origin" "9728.000000 -320.000000 864.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "180"
+"origin" "10880.000000 -416.000000 864.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "180"
+"origin" "10240.000000 0.000000 576.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "180"
+"origin" "9728.000000 320.000000 864.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "180"
+"origin" "10880.000000 416.000000 864.000000"
+"classname" "info_player_team2"
+}
+{
+"origin" "9664.000000 0.000000 864.000000"
+"classname" "item_flag_team2"
+}
+{
+"angle" "135"
+"origin" "6208.000000 -6208.000000 640.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-135"
+"origin" "6208.000000 6208.000000 640.000000"
+"classname" "info_player_team2"
+}
+{
+"origin" "9432.000000 32.000000 544.000000"
+"classname" "weapon_uzi"
+}
+{
+"origin" "9464.000000 -32.000000 544.000000"
+"classname" "item_bullets"
+}
+{
+"origin" "-9296.000000 32.000000 544.000000"
+"classname" "weapon_uzi"
+}
+{
+"origin" "-9264.000000 -32.000000 544.000000"
+"classname" "item_bullets"
+}
+{
+"turret_scale_health" "1.25"
+"team" "5"
+"turret_scale_range" "1.5"
+"turret_scale_ammo" "2"
+"turret_scale_refire" "0.75"
+"origin" "-11296.000000 0.000000 864.000000"
+"classname" "turret_machinegun"
+}
+{
+"origin" "10048.000000 -1600.000000 864.000000"
+"classname" "item_armor_big"
+}
+{
+"origin" "10048.000000 1600.000000 864.000000"
+"classname" "item_armor_big"
+}
+{
+"origin" "-10048.000000 -1600.000000 864.000000"
+"classname" "item_armor_big"
+}
+{
+"origin" "-10048.000000 1600.000000 864.000000"
+"classname" "item_armor_big"
+}
+{
+"angle" "-179.999985"
+"team" "14"
+"origin" "10752.000000 -2056.000000 1456.000000"
+"classname" "vehicle_raptor"
+}
+{
+"angle" "-179.999985"
+"team" "14"
+"origin" "10752.000000 2040.000000 1456.000000"
+"classname" "vehicle_raptor"
+}
+{
+"angle" "-179.999985"
+"team" "14"
+"origin" "10752.000000 2696.000000 1456.000000"
+"classname" "vehicle_r22heli"
+}
+{
+"angle" "-179.999985"
+"team" "14"
+"origin" "10752.000000 -2696.000000 1456.000000"
+"classname" "vehicle_r22heli"
+}
+{
+"team" "5"
+"origin" "-10752.000000 2048.000000 1456.000000"
+"classname" "vehicle_raptor"
+}
+{
+"team" "5"
+"origin" "-10752.000000 -2048.000000 1456.000000"
+"classname" "vehicle_r22heli"
+}
+{
+"team" "5"
+"origin" "-10752.000000 -2704.000000 1456.000000"
+"classname" "vehicle_raptor"
+}
+{
+"team" "5"
+"origin" "-10752.000000 2688.000000 1456.000000"
+"classname" "vehicle_r22heli"
+}
+{
+"angle" "-180.000000"
+"team" "14"
+"origin" "9744.000000 0.000000 544.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"angle" "180.000000"
+"team" "14"
+"origin" "7192.000000 832.000000 576.000000"
+"classname" "vehicle_tankll48"
+}
+{
+"angle" "355"
+"team" "5"
+"origin" "-7192.000000 832.000000 640.000000"
+"classname" "vehicle_tankll48"
+}
+{
+"angle" "180.000000"
+"team" "14"
+"origin" "7192.000000 3800.000000 576.000000"
+"classname" "vehicle_tankll48"
+}
+{
+"angle" "355"
+"team" "5"
+"origin" "-7192.000000 3800.000000 640.000000"
+"classname" "vehicle_tankll48"
+}
+{
+"angle" "-180.000000"
+"team" "14"
+"origin" "11496.000000 0.000000 1240.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"angle" "0.000003"
+"team" "5"
+"origin" "-9544.000000 0.000000 544.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"team" "5"
+"origin" "-11400.000000 0.000000 1256.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"team" "14"
+"angle" "135"
+"origin" "6448.000000 -6464.000000 656.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"team" "5"
+"angle" "45"
+"origin" "-6464.000000 -6448.000000 656.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"team" "5"
+"angle" "-45.000000"
+"origin" "-6448.000000 6464.000000 656.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"team" "14"
+"angle" "-135"
+"origin" "6464.000000 6448.000000 656.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"team" "14"
+"angle" "89.999992"
+"origin" "10048.000000 848.000000 880.000000"
+"classname" "vehicle_racer"
+}
+{
+"team" "14"
+"angle" "-90.000000"
+"origin" "10048.000000 -848.000000 880.000000"
+"classname" "vehicle_racer"
+}
+{
+"team" "5"
+"angle" "89.999992"
+"origin" "-10048.000000 848.000000 880.000000"
+"classname" "vehicle_racer"
+}
+{
+"team" "5"
+"angle" "-90.000000"
+"origin" "-10048.000000 -848.000000 880.000000"
+"classname" "vehicle_racer"
+}
+
+

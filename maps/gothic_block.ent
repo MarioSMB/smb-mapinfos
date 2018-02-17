@@ -1,0 +1,831 @@
+{
+"gridsize" "96.000000 96.000000 192.000000"
+"target" "blue button"
+"_color" "0.321569 0.552941 1.000000"
+"light" "200"
+"classname" "worldspawn"
+"message" "Gothic_Block! CPM Edition by www.ninemil.com"
+}
+{
+"classname" "team_CTF_redflag"
+"origin" "96.000000 -192.000000 48.000000"
+"angle" "135"
+"gametype" "ctf, oneflag"
+}
+{
+"classname" "target_push"
+"origin" "-756.000000 2256.000000 96.000000"
+"targetname" "t4"
+}
+{
+"classname" "item_armor_combat"
+"origin" "2160.000000 1104.000000 -168.000000"
+"angle" "180"
+}
+{
+"classname" "weapon_lightning"
+"origin" "1536.000000 1248.000000 25.500000"
+"angle" "225"
+}
+{
+"classname" "item_armor_shard"
+"origin" "1104.000000 1392.000000 24.000000"
+"angle" "270"
+}
+{
+"origin" "1104.000000 1200.000000 24.000000"
+"classname" "item_armor_shard"
+"angle" "225"
+}
+{
+"classname" "item_health_small"
+"origin" "1104.000000 1296.000000 24.000000"
+"angle" "270"
+}
+{
+"origin" "1188.000000 1116.000000 24.000000"
+"classname" "item_health_small"
+"angle" "225"
+}
+{
+"classname" "item_armor_shard"
+"origin" "1296.000000 1116.000000 24.000000"
+"angle" "225"
+}
+{
+"classname" "weapon_rocketlauncher"
+"origin" "612.000000 324.000000 -166.500000"
+"angle" "45"
+}
+{
+"classname" "weapon_railgun"
+"origin" "1656.000000 2148.000000 -418.500000"
+"angle" "90"
+}
+{
+"angle" "90"
+"classname" "item_armor_shard"
+"origin" "432.000000 2004.000000 -420.000000"
+}
+{
+"origin" "624.000000 2004.000000 -420.000000"
+"classname" "item_armor_shard"
+"angle" "270"
+}
+{
+"angle" "90"
+"classname" "item_health"
+"origin" "528.000000 2004.000000 -420.000000"
+}
+{
+"origin" "1008.000000 2004.000000 -420.000000"
+"classname" "item_health_small"
+"angle" "180"
+}
+{
+"classname" "item_armor_shard"
+"origin" "1008.000000 2100.000000 -420.000000"
+"angle" "180"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "-288.000000 -900.000000 36.000000"
+"angle" "90"
+}
+{
+"angle" "90"
+"origin" "0.000000 -96.000000 60.000000"
+"classname" "team_CTF_redplayer"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "336.000000 -912.000000 36.000000"
+"angle" "90"
+}
+{
+"angle" "90"
+"origin" "864.000000 -276.000000 36.000000"
+"classname" "team_CTF_redplayer"
+}
+{
+"angle" "135"
+"origin" "912.000000 1680.000000 24.000000"
+"classname" "item_armor_jacket"
+}
+{
+"model" "*1"
+"target" "t4"
+"classname" "trigger_push"
+}
+{
+"targetname" "t5"
+"origin" "1104.000000 -1080.000000 480.000000"
+"classname" "target_push"
+}
+{
+"model" "*2"
+"classname" "trigger_push"
+"target" "t5"
+}
+{
+"angle" "180"
+"classname" "info_player_start"
+"origin" "864.000000 2928.000000 -156.000000"
+}
+{
+"team" "pups"
+"spawnflags" "1"
+"origin" "576.000000 2928.000000 -144.000000"
+"classname" "item_quad"
+"_color" "0.321569 0.552941 1.000000"
+}
+{
+"angle" "315"
+"origin" "1056.000000 6060.000000 48.000000"
+"classname" "team_CTF_blueflag"
+"gametype" "ctf, oneflag"
+}
+{
+"targetname" "t6"
+"origin" "1908.000000 3612.000000 96.000000"
+"classname" "target_push"
+}
+{
+"angle" "360"
+"origin" "-1008.000000 4764.000000 -168.000000"
+"classname" "item_armor_combat"
+}
+{
+"angle" "45"
+"origin" "-384.000000 4620.000000 25.500000"
+"classname" "weapon_lightning"
+}
+{
+"angle" "90"
+"origin" "48.000000 4476.000000 24.000000"
+"classname" "item_armor_shard"
+}
+{
+"angle" "45"
+"classname" "item_armor_shard"
+"origin" "48.000000 4668.000000 24.000000"
+}
+{
+"angle" "90"
+"origin" "48.000000 4572.000000 24.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "45"
+"classname" "item_health_small"
+"origin" "-36.000000 4752.000000 24.000000"
+}
+{
+"angle" "45"
+"origin" "-144.000000 4752.000000 24.000000"
+"classname" "item_armor_shard"
+}
+{
+"angle" "225"
+"origin" "540.000000 5544.000000 -166.500000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"origin" "720.000000 3864.000000 -420.000000"
+"classname" "item_armor_shard"
+"angle" "90"
+}
+{
+"angle" "270"
+"classname" "item_armor_shard"
+"origin" "528.000000 3864.000000 -420.000000"
+}
+{
+"origin" "624.000000 3864.000000 -420.000000"
+"classname" "item_health"
+"angle" "90"
+}
+{
+"angle" "180"
+"classname" "item_health_small"
+"origin" "144.000000 3864.000000 -420.000000"
+}
+{
+"angle" "180"
+"origin" "144.000000 3768.000000 -420.000000"
+"classname" "item_armor_shard"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "1152.000000 5964.000000 60.000000"
+"angle" "270"
+}
+{
+"angle" "270"
+"origin" "816.000000 6780.000000 36.000000"
+"classname" "team_CTF_blueplayer"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "288.000000 6144.000000 36.000000"
+"angle" "270"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "-336.000000 5616.000000 -156.000000"
+"angle" "270"
+}
+{
+"classname" "item_armor_jacket"
+"origin" "240.000000 4176.000000 24.000000"
+"angle" "315"
+}
+{
+"model" "*3"
+"classname" "trigger_push"
+"target" "t6"
+}
+{
+"classname" "target_push"
+"origin" "48.000000 6948.000000 480.000000"
+"targetname" "t7"
+}
+{
+"model" "*4"
+"target" "t7"
+"classname" "trigger_push"
+}
+{
+"angle" "270"
+"origin" "-504.000000 3720.000000 -418.500000"
+"classname" "weapon_railgun"
+}
+{
+"angle" "360"
+"origin" "-192.000000 6732.000000 409.500000"
+"classname" "weapon_shotgun"
+}
+{
+"classname" "weapon_shotgun"
+"origin" "1344.000000 -864.000000 409.500000"
+"angle" "180"
+}
+{
+"angle" "360"
+"origin" "-432.000000 2880.000000 73.500000"
+"classname" "weapon_plasmagun"
+}
+{
+"angle" "180"
+"classname" "weapon_plasmagun"
+"origin" "1584.000000 2976.000000 73.500000"
+}
+{
+"gametype" "ffa,tournament,single,team,ctf"
+"origin" "576.000000 2928.000000 -408.000000"
+"classname" "item_health_mega"
+}
+{
+"angle" "270"
+"origin" "-192.000000 6432.000000 36.000000"
+"classname" "team_CTF_blueplayer"
+}
+{
+"angle" "270"
+"origin" "816.000000 6780.000000 36.000000"
+"classname" "team_CTF_bluespawn"
+}
+{
+"angle" "270"
+"origin" "1440.000000 6768.000000 36.000000"
+"classname" "team_CTF_bluespawn"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "1440.000000 6768.000000 36.000000"
+"angle" "270"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "960.000000 6936.000000 420.000000"
+"angle" "270"
+}
+{
+"angle" "270"
+"origin" "672.000000 6936.000000 420.000000"
+"classname" "team_CTF_bluespawn"
+}
+{
+"angle" "90"
+"origin" "1488.000000 240.000000 -156.000000"
+"classname" "team_CTF_redplayer"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "1344.000000 -576.000000 36.000000"
+"angle" "90"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "336.000000 -912.000000 36.000000"
+"angle" "90"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-288.000000 -900.000000 36.000000"
+"angle" "90"
+}
+{
+"angle" "90"
+"origin" "192.000000 -1068.000000 420.000000"
+"classname" "team_CTF_redplayer"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "480.000000 -1068.000000 420.000000"
+"angle" "90"
+}
+{
+"classname" "item_armor_shard"
+"origin" "1392.000000 -720.000000 408.000000"
+"angle" "180"
+}
+{
+"classname" "item_health_small"
+"origin" "1332.000000 -660.000000 408.000000"
+"angle" "180"
+}
+{
+"angle" "180"
+"origin" "1332.000000 -1068.000000 408.000000"
+"classname" "item_armor_shard"
+}
+{
+"angle" "180"
+"origin" "1392.000000 -1008.000000 408.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "360"
+"origin" "-240.000000 6588.000000 408.000000"
+"classname" "item_armor_shard"
+}
+{
+"classname" "item_health_small"
+"origin" "-240.000000 6876.000000 408.000000"
+"angle" "360"
+}
+{
+"angle" "270"
+"origin" "288.000000 6144.000000 36.000000"
+"classname" "team_CTF_bluespawn"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "-336.000000 5616.000000 -156.000000"
+"angle" "270"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "2160.000000 2016.000000 36.000000"
+"angle" "135"
+}
+{
+"angle" "90"
+"origin" "-192.000000 2688.000000 -408.000000"
+"classname" "team_CTF_redspawn"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "864.000000 -276.000000 36.000000"
+"angle" "90"
+}
+{
+"angle" "90"
+"origin" "1488.000000 240.000000 -156.000000"
+"classname" "team_CTF_redspawn"
+}
+{
+"angle" "315"
+"origin" "-1008.000000 3852.000000 36.000000"
+"classname" "team_CTF_bluespawn"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "1344.000000 3180.000000 -408.000000"
+"angle" "270"
+}
+{
+"angle" "360"
+"origin" "-180.000000 6528.000000 408.000000"
+"classname" "item_health_small"
+}
+{
+"classname" "item_armor_shard"
+"origin" "-180.000000 6936.000000 408.000000"
+"angle" "360"
+}
+{
+"classname" "ammo_rockets"
+"origin" "1632.000000 -192.000000 36.000000"
+"angle" "180"
+}
+{
+"classname" "ammo_shells"
+"origin" "1632.000000 -96.000000 36.000000"
+"angle" "180"
+}
+{
+"classname" "ammo_slugs"
+"origin" "384.000000 -1056.000000 408.000000"
+"angle" "90"
+}
+{
+"classname" "ammo_cells"
+"origin" "288.000000 -1056.000000 408.000000"
+"angle" "90"
+}
+{
+"classname" "item_armor_shard"
+"origin" "-312.000000 120.000000 420.000000"
+"angle" "180"
+}
+{
+"classname" "item_armor_shard"
+"origin" "-312.000000 -72.000000 420.000000"
+"angle" "180"
+}
+{
+"classname" "item_health"
+"origin" "-312.000000 24.000000 420.000000"
+"angle" "180"
+}
+{
+"classname" "item_health_large"
+"origin" "540.000000 -324.000000 24.000000"
+"angle" "180"
+}
+{
+"classname" "item_health"
+"origin" "-912.000000 1536.000000 24.000000"
+"angle" "360"
+}
+{
+"classname" "ammo_rockets"
+"origin" "540.000000 -396.000000 24.000000"
+"angle" "180"
+}
+{
+"classname" "ammo_lightning"
+"origin" "-216.000000 2880.000000 -420.000000"
+"angle" "360"
+}
+{
+"classname" "ammo_bullets"
+"origin" "-72.000000 2184.000000 -168.000000"
+"angle" "135"
+}
+{
+"angle" "360"
+"origin" "-480.000000 6060.000000 36.000000"
+"classname" "ammo_rockets"
+}
+{
+"angle" "360"
+"origin" "-480.000000 5964.000000 36.000000"
+"classname" "ammo_shells"
+}
+{
+"angle" "270"
+"origin" "768.000000 6924.000000 408.000000"
+"classname" "ammo_slugs"
+}
+{
+"angle" "270"
+"origin" "864.000000 6924.000000 408.000000"
+"classname" "ammo_cells"
+}
+{
+"angle" "360"
+"origin" "1464.000000 5748.000000 420.000000"
+"classname" "item_armor_shard"
+}
+{
+"angle" "360"
+"origin" "1464.000000 5940.000000 420.000000"
+"classname" "item_armor_shard"
+}
+{
+"angle" "360"
+"origin" "1464.000000 5844.000000 420.000000"
+"classname" "item_health"
+}
+{
+"angle" "360"
+"origin" "612.000000 6192.000000 24.000000"
+"classname" "item_health_large"
+}
+{
+"angle" "360"
+"origin" "612.000000 6264.000000 24.000000"
+"classname" "ammo_rockets"
+}
+{
+"angle" "180"
+"origin" "1368.000000 2988.000000 -420.000000"
+"classname" "ammo_lightning"
+}
+{
+"angle" "360"
+"origin" "144.000000 2448.000000 -420.000000"
+"classname" "ammo_cells"
+}
+{
+"angle" "315"
+"origin" "1224.000000 3684.000000 -168.000000"
+"classname" "ammo_bullets"
+}
+{
+"classname" "item_armor_jacket"
+"origin" "-132.000000 6672.000000 24.000000"
+"angle" "315"
+}
+{
+"classname" "item_armor_jacket"
+"origin" "1284.000000 -804.000000 24.000000"
+"angle" "135"
+}
+{
+"classname" "item_armor_green"
+"origin" "912.000000 1680.000000 24.000000"
+"angle" "135"
+}
+{
+"angle" "315"
+"origin" "240.000000 4176.000000 24.000000"
+"classname" "item_armor_green"
+}
+{
+"angle" "315"
+"origin" "-132.000000 6672.000000 24.000000"
+"classname" "item_armor_green"
+}
+{
+"angle" "135"
+"origin" "1284.000000 -804.000000 24.000000"
+"classname" "item_armor_green"
+}
+{
+"classname" "target_location"
+"origin" "480.000000 96.000000 108.000000"
+"message" "^1Red Base^7"
+}
+{
+"classname" "target_location"
+"origin" "576.000000 2928.000000 12.000000"
+"message" "^7Upper Midfield^7"
+}
+{
+"message" "^7Lower Midfield^7"
+"origin" "576.000000 2928.000000 -360.000000"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "-384.000000 -864.000000 588.000000"
+"message" "^1Upper Red Base^7"
+}
+{
+"message" "^4Blue Base^7"
+"origin" "672.000000 5772.000000 108.000000"
+"classname" "target_location"
+}
+{
+"message" "^4Upper Blue Base^7"
+"origin" "1536.000000 6732.000000 588.000000"
+"classname" "target_location"
+}
+{
+"origin" "-432.000000 2880.000000 61.500000"
+"classname" "info_camp"
+}
+{
+"origin" "1584.000000 2976.000000 61.500000"
+"classname" "info_camp"
+}
+{
+"message" "^1Red Flag^7"
+"origin" "96.000000 -192.000000 36.000000"
+"classname" "target_location"
+}
+{
+"message" "^4Blue Flag^7"
+"origin" "1056.000000 6060.000000 36.000000"
+"classname" "target_location"
+}
+{
+"classname" "target_location"
+"origin" "1680.000000 5760.000000 300.000000"
+"message" "^4Blue Upper Stairs^7"
+}
+{
+"message" "^1Red Upper Stairs^7"
+"origin" "-516.000000 180.000000 300.000000"
+"classname" "target_location"
+}
+{
+"team" "pups"
+"_color" "0.321569 0.552941 1.000000"
+"classname" "item_quad"
+"origin" "576.000000 2928.000000 -144.000000"
+"spawnflags" "1"
+}
+{
+"team" "pups"
+"spawnflags" "1"
+"origin" "576.000000 2928.000000 -144.000000"
+"classname" "item_haste"
+"_color" "0.321569 0.552941 1.000000"
+}
+{
+"angle" "360"
+"origin" "-744.000000 120.000000 420.000000"
+"classname" "item_armor_shard"
+}
+{
+"angle" "360"
+"origin" "-744.000000 -72.000000 420.000000"
+"classname" "item_armor_shard"
+}
+{
+"angle" "360"
+"origin" "-744.000000 24.000000 420.000000"
+"classname" "item_health"
+}
+{
+"model" "*5"
+"sound_end" "sound\ninemil-ctf2\door2.wav"
+"sound_start" "sound\ninemil-ctf2\door1.wav"
+"classname" "func_door"
+"spawnflags" "4"
+"angle" "180"
+"team" "red door"
+"targetname" "red door"
+}
+{
+"model" "*6"
+"sound_end" "sound\ninemil-ctf2\door2.wav"
+"sound_start" "sound\ninemil-ctf2\door1.wav"
+"classname" "func_door"
+"angle" "360"
+"spawnflags" "4"
+"team" "red door"
+"targetname" "red door"
+}
+{
+"model" "*7"
+"classname" "func_button"
+"angle" "90"
+"target" "red door"
+"targetname" "red button"
+}
+{
+"model" "*8"
+"targetname" "blue button"
+"target" "blue door"
+"angle" "270"
+"classname" "func_button"
+}
+{
+"classname" "item_armor_shard"
+"origin" "1896.000000 5748.000000 420.000000"
+"angle" "189"
+}
+{
+"classname" "item_armor_shard"
+"origin" "1896.000000 5940.000000 420.000000"
+"angle" "189"
+}
+{
+"classname" "item_health"
+"origin" "1896.000000 5844.000000 420.000000"
+"angle" "189"
+}
+{
+"angle" "180"
+"origin" "1008.000000 3408.000000 -420.000000"
+"classname" "ammo_cells"
+}
+{
+"model" "*9"
+"wait" "-2"
+"sound_end" "sound\ninemil-ctf2\plat2.wav"
+"sound_start" "sound\ninemil-ctf2\plat1.wav"
+"lip" "24.000000"
+"classname" "func_plat"
+}
+{
+"model" "*10"
+"wait" "-2"
+"sound_end" "sound\ninemil-ctf2\plat2.wav"
+"sound_start" "sound\ninemil-ctf2\plat1.wav"
+"lip" "24.000000"
+"classname" "func_plat"
+}
+{
+"angle" "90"
+"origin" "480.000000 2160.000000 -166.500000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"classname" "weapon_rocketlauncher"
+"origin" "672.000000 3708.000000 -166.500000"
+"angle" "270"
+}
+{
+"angle" "360"
+"origin" "2064.000000 4320.000000 24.000000"
+"classname" "item_health"
+}
+{
+"angle" "270"
+"origin" "1536.000000 6768.000000 24.000000"
+"classname" "item_health"
+}
+{
+"angle" "90"
+"origin" "-372.000000 -900.000000 36.000000"
+"classname" "item_health"
+}
+{
+"angle" "135"
+"origin" "1116.000000 2160.000000 -168.000000"
+"classname" "item_health_large"
+}
+{
+"angle" "315"
+"origin" "36.000000 3708.000000 -168.000000"
+"classname" "item_health_large"
+}
+{
+"angle" "270"
+"origin" "1152.000000 3648.000000 -168.000000"
+"classname" "ammo_lightning"
+}
+{
+"angle" "90"
+"origin" "0.000000 2220.000000 -168.000000"
+"classname" "ammo_lightning"
+}
+{
+"classname" "ammo_rockets"
+"origin" "144.000000 2352.000000 -420.000000"
+"angle" "360"
+}
+{
+"classname" "ammo_rockets"
+"origin" "1008.000000 3504.000000 -420.000000"
+"angle" "180"
+}
+{
+"classname" "target_location"
+"origin" "2484.000000 5280.000000 12.000000"
+"message" "^4Blue Door^7"
+}
+{
+"classname" "target_location"
+"origin" "-1332.000000 588.000000 12.000000"
+"message" "^1Red Door^7"
+}
+{
+"model" "*11"
+"classname" "trigger_multiple"
+"target" "red button"
+}
+{
+"model" "*12"
+"target" "blue button"
+"classname" "trigger_multiple"
+}
+{
+"model" "*13"
+"targetname" "blue door"
+"team" "blue door"
+"angle" "360"
+"spawnflags" "4"
+"classname" "func_door"
+}
+{
+"origin" "576.000000 2928.000000 -417.000000"
+"angle" "45"
+"gametype" "oneflag"
+"classname" "team_CTF_neutralflag"
+}
+{
+"model" "*14"
+"classname" "func_door"
+"angle" "180"
+"spawnflags" "4"
+"team" "blue door"
+"targetname" "blue door"
+}

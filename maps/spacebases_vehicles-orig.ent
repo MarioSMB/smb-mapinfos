@@ -1,0 +1,617 @@
+{
+"gridsize" "192 176 240"
+"_q3map2_version" "2.5.17n-git-e995cc8"
+"_q3map2_cmdline" "-meta -keepLights -v; -vis -fast -saveprt; -light -cheapgrid -faster"
+"classname" "worldspawn"
+}
+{
+"team" "5"
+"origin" "-16608.000000 -8416.000000 0.000000"
+"classname" "vehicle_racer"
+}
+{
+"origin" "-16736.000000 -8544.000000 0.000000"
+"classname" "info_player_team1"
+}
+{
+"model" "*1"
+"alpha" "0.5"
+"classname" "func_wall"
+}
+{
+"origin" "-16384.000000 -8192.000000 224.000000"
+"classname" "item_health_mega"
+}
+{
+"model" "*2"
+"alpha" "0.5"
+"classname" "func_wall"
+}
+{
+"origin" "-16384.000000 -8192.000000 480.000000"
+"classname" "item_armor_big"
+}
+{
+"angle" "-179.999985"
+"team" "5"
+"origin" "-17664.000000 -8192.000000 -32.000000"
+"classname" "vehicle_raptor"
+}
+{
+"model" "*3"
+"target" "target_position1"
+"classname" "trigger_push"
+}
+{
+"targetname" "target_position1"
+"origin" "-16624.000000 -7952.000000 512.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"model" "*4"
+"target" "target_position2"
+"classname" "trigger_push"
+}
+{
+"targetname" "target_position2"
+"origin" "-16144.000000 -7952.000000 512.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"targetname" "target_position3"
+"origin" "-16144.000000 -8432.000000 512.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"targetname" "target_position4"
+"origin" "-16624.000000 -8432.000000 512.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"model" "*5"
+"target" "target_position3"
+"classname" "trigger_push"
+}
+{
+"model" "*6"
+"target" "target_position4"
+"classname" "trigger_push"
+}
+{
+"origin" "-15104.000000 -6912.000000 -32.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"angle" "-90.000000"
+"team" "5"
+"origin" "-16384.000000 -9472.000000 -32.000000"
+"classname" "vehicle_r22heli"
+}
+{
+"angle" "90.000000"
+"team" "5"
+"origin" "-16384.000000 -6912.000000 -32.000000"
+"classname" "vehicle_r22heli"
+}
+{
+"targetname" "target_position9"
+"origin" "7952.000000 -7872.000000 56.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"model" "*7"
+"target" "target_position9"
+"classname" "trigger_teleport"
+}
+{
+"team" "5"
+"origin" "7816.000000 -8104.000000 8.000000"
+"classname" "vehicle_racer"
+}
+{
+"origin" "7840.000000 -7936.000000 8.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "7904.000000 -7872.000000 8.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "-16032.000000 -8544.000000 0.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-16736.000000 -7840.000000 0.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-16032.000000 -7840.000000 0.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-15104.000000 -9472.000000 -32.000000"
+"classname" "weapon_crylink"
+}
+{
+"origin" "-17664.000000 -9472.000000 -32.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"origin" "-17664.000000 -6912.000000 -32.000000"
+"classname" "weapon_crylink"
+}
+{
+"origin" "-15424.000000 -8192.000000 -32.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "-15808.000000 -8192.000000 -32.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "-15616.000000 -8192.000000 -32.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "-15712.000000 -8192.000000 -32.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "-15520.000000 -8192.000000 -32.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "-16384.000000 -7520.000000 -32.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "-16384.000000 -7328.000000 -32.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "-16384.000000 -7232.000000 -32.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "-16384.000000 -7424.000000 -32.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "-16384.000000 -7616.000000 -32.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"team" "5"
+"origin" "-15536.000000 -7344.000000 112.000000"
+"classname" "turret_plasma"
+}
+{
+"origin" "0.000000 -64.000000 912.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "0.000000 64.000000 912.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "-16960.000000 -8192.000000 -32.000000"
+"classname" "item_cells"
+}
+{
+"origin" "-16384.000000 -9056.000000 -32.000000"
+"classname" "item_cells"
+}
+{
+"origin" "-17152.000000 -8192.000000 -32.000000"
+"classname" "item_cells"
+}
+{
+"origin" "-16384.000000 -8864.000000 -32.000000"
+"classname" "item_cells"
+}
+{
+"origin" "-17344.000000 -8192.000000 -32.000000"
+"classname" "item_cells"
+}
+{
+"origin" "-16384.000000 -8768.000000 -32.000000"
+"classname" "item_shells"
+}
+{
+"origin" "-16384.000000 -8960.000000 -32.000000"
+"classname" "item_shells"
+}
+{
+"origin" "-16384.000000 -9152.000000 -32.000000"
+"classname" "item_shells"
+}
+{
+"origin" "-17248.000000 -8192.000000 -32.000000"
+"classname" "item_shells"
+}
+{
+"origin" "-17056.000000 -8192.000000 -32.000000"
+"classname" "item_shells"
+}
+{
+"origin" "-16192.000000 -8192.000000 224.000000"
+"classname" "item_bullets"
+}
+{
+"origin" "8032.000000 -7872.000000 0.000000"
+"classname" "item_rockets"
+}
+{
+"origin" "8096.000000 -7968.000000 0.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"angle" "0.000016"
+"team" "5"
+"origin" "-17232.000000 -9040.000000 112.000000"
+"classname" "turret_plasma"
+}
+{
+"spawnflags" "1"
+"origin" "-16384.000000 -8192.000000 976.000000"
+"classname" "weapon_nex"
+}
+{
+"angle" "-179.999985"
+"origin" "-16576.000000 -8192.000000 224.000000"
+"classname" "item_bullets"
+}
+{
+"origin" "-16384.000000 -8384.000000 224.000000"
+"classname" "item_rockets"
+}
+{
+"origin" "-16384.000000 -8000.000000 224.000000"
+"classname" "item_rockets"
+}
+{
+"angle" "-179.999985"
+"team" "14"
+"origin" "16608.000000 8416.000000 0.000000"
+"classname" "vehicle_racer"
+}
+{
+"model" "*8"
+"alpha" "0.5"
+"classname" "func_wall"
+}
+{
+"angle" "-179.999985"
+"origin" "16384.000000 8192.000000 224.000000"
+"classname" "item_health_mega"
+}
+{
+"model" "*9"
+"alpha" "0.5"
+"classname" "func_wall"
+}
+{
+"angle" "-179.999985"
+"origin" "16384.000000 8192.000000 480.000000"
+"classname" "item_armor_big"
+}
+{
+"angle" "0.000016"
+"team" "14"
+"origin" "17664.000000 8192.000000 -32.000000"
+"classname" "vehicle_raptor"
+}
+{
+"model" "*10"
+"target" "target_position5"
+"classname" "trigger_push"
+}
+{
+"angle" "-179.999985"
+"targetname" "target_position5"
+"origin" "16624.000000 7952.000000 512.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"model" "*11"
+"target" "target_position6"
+"classname" "trigger_push"
+}
+{
+"angle" "-179.999985"
+"targetname" "target_position6"
+"origin" "16144.000000 7952.000000 512.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"angle" "-179.999985"
+"targetname" "target_position7"
+"origin" "16144.000000 8432.000000 512.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"angle" "-179.999985"
+"targetname" "target_position8"
+"origin" "16624.000000 8432.000000 512.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"model" "*12"
+"target" "target_position7"
+"classname" "trigger_push"
+}
+{
+"model" "*13"
+"target" "target_position8"
+"classname" "trigger_push"
+}
+{
+"angle" "-179.999985"
+"origin" "15104.000000 6912.000000 -32.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"angle" "90.000000"
+"team" "14"
+"origin" "16384.000000 9472.000000 -32.000000"
+"classname" "vehicle_r22heli"
+}
+{
+"angle" "-90.000000"
+"team" "14"
+"origin" "16384.000000 6912.000000 -32.000000"
+"classname" "vehicle_r22heli"
+}
+{
+"angle" "-179.999985"
+"targetname" "target_position10"
+"origin" "-7952.000000 7872.000000 56.000000"
+"classname" "misc_teleporter_dest"
+}
+{
+"model" "*14"
+"target" "target_position10"
+"classname" "trigger_teleport"
+}
+{
+"angle" "-179.999985"
+"team" "14"
+"origin" "-7816.000000 8104.000000 8.000000"
+"classname" "vehicle_racer"
+}
+{
+"angle" "-179.999985"
+"origin" "-7840.000000 7936.000000 8.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "-7904.000000 7872.000000 8.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "15104.000000 9472.000000 -32.000000"
+"classname" "weapon_crylink"
+}
+{
+"angle" "-179.999985"
+"origin" "17664.000000 9472.000000 -32.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"angle" "-179.999985"
+"origin" "17664.000000 6912.000000 -32.000000"
+"classname" "weapon_crylink"
+}
+{
+"angle" "-179.999985"
+"origin" "15424.000000 8192.000000 -32.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "15808.000000 8192.000000 -32.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "15616.000000 8192.000000 -32.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "15712.000000 8192.000000 -32.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "15520.000000 8192.000000 -32.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "90.000000"
+"origin" "16384.000000 7520.000000 -32.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "90.000000"
+"origin" "16384.000000 7328.000000 -32.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "90.000000"
+"origin" "16384.000000 7232.000000 -32.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "90.000000"
+"origin" "16384.000000 7424.000000 -32.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "90.000000"
+"origin" "16384.000000 7616.000000 -32.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "0.000016"
+"team" "14"
+"origin" "15536.000000 7344.000000 112.000000"
+"classname" "turret_plasma"
+}
+{
+"angle" "-179.999985"
+"origin" "16960.000000 8192.000000 -32.000000"
+"classname" "item_cells"
+}
+{
+"angle" "-179.999985"
+"origin" "16384.000000 9056.000000 -32.000000"
+"classname" "item_cells"
+}
+{
+"angle" "-179.999985"
+"origin" "17152.000000 8192.000000 -32.000000"
+"classname" "item_cells"
+}
+{
+"angle" "-179.999985"
+"origin" "16384.000000 8864.000000 -32.000000"
+"classname" "item_cells"
+}
+{
+"angle" "-179.999985"
+"origin" "17344.000000 8192.000000 -32.000000"
+"classname" "item_cells"
+}
+{
+"angle" "-179.999985"
+"origin" "16384.000000 8768.000000 -32.000000"
+"classname" "item_shells"
+}
+{
+"angle" "-179.999985"
+"origin" "16384.000000 8960.000000 -32.000000"
+"classname" "item_shells"
+}
+{
+"angle" "-179.999985"
+"origin" "16384.000000 9152.000000 -32.000000"
+"classname" "item_shells"
+}
+{
+"angle" "-179.999985"
+"origin" "17248.000000 8192.000000 -32.000000"
+"classname" "item_shells"
+}
+{
+"angle" "-179.999985"
+"origin" "17056.000000 8192.000000 -32.000000"
+"classname" "item_shells"
+}
+{
+"angle" "-179.999985"
+"origin" "16192.000000 8192.000000 224.000000"
+"classname" "item_bullets"
+}
+{
+"angle" "-179.999985"
+"origin" "-8032.000000 7872.000000 0.000000"
+"classname" "item_rockets"
+}
+{
+"angle" "-179.999985"
+"origin" "-8096.000000 7968.000000 0.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"angle" "-179.999985"
+"team" "14"
+"origin" "17232.000000 9040.000000 112.000000"
+"classname" "turret_plasma"
+}
+{
+"angle" "-179.999985"
+"spawnflags" "1"
+"origin" "16384.000000 8192.000000 976.000000"
+"classname" "weapon_nex"
+}
+{
+"angle" "0.000016"
+"origin" "16576.000000 8192.000000 224.000000"
+"classname" "item_bullets"
+}
+{
+"angle" "-179.999985"
+"origin" "16384.000000 8384.000000 224.000000"
+"classname" "item_rockets"
+}
+{
+"angle" "-179.999985"
+"origin" "16384.000000 8000.000000 224.000000"
+"classname" "item_rockets"
+}
+{
+"angle" "-179.999985"
+"origin" "16736.000000 8544.000000 0.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "16032.000000 8544.000000 0.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "16736.000000 7840.000000 0.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "16032.000000 7840.000000 0.000000"
+"classname" "info_player_team2"
+}
+{
+"team" "14"
+"origin" "17232.000000 7344.000000 112.000000"
+"classname" "turret_mlrs"
+}
+{
+"team" "14"
+"origin" "15536.000000 9040.000000 112.000000"
+"classname" "turret_mlrs"
+}
+{
+"team" "5"
+"origin" "-15536.000000 -9040.000000 112.000000"
+"classname" "turret_mlrs"
+}
+{
+"team" "5"
+"origin" "-17232.000000 -7344.000000 112.000000"
+"classname" "turret_mlrs"
+}
+{
+"origin" "-16384.000000 -8192.000000 16.000000"
+"classname" "item_flag_team1"
+}
+{
+"angle" "-179.999985"
+"origin" "16384.000000 8192.000000 16.000000"
+"classname" "item_flag_team2"
+}
+{
+"origin" "0.000000 0.000000 912.000000"
+"classname" "weapon_nex"
+}
+{
+"model" "*15"
+"classname" "trigger_hurt"
+}

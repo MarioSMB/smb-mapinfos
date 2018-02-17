@@ -1,0 +1,10 @@
+title Furious
+description Egyption themed medium CTF map
+author Geit
+cdtrack 16
+has weapons
+gametype ctf
+gametype dom
+gametype ca
+gametype ft
+gametype tdm

@@ -1,0 +1,7 @@
+title SNB: world 1-1
+description Super Nexuiz Brotherz: A new school take on an old school classic, first in a series
+author Tyler "-z-" Mulligan
+cdtrack sxb-1-js.ogg
+has weapons
+gametype dm
+clientsettemp_for_type all cl_hidewaypoints 1

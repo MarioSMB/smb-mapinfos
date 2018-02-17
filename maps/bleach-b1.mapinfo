@@ -1,0 +1,9 @@
+title Bleach
+description hahaha Good one!
+author Somebody (Cortez)
+cdtrack 11
+has weapons
+gametype dm
+gametype tdm
+
+clientsettemp_for_type all snd_staticvolume 0

@@ -1,0 +1,1506 @@
+{
+"_q3map2_version" "2.5.17n-git-fc9841e"
+"_q3map2_cmdline" "-bsp -meta -maxarea -samplesize 8 -mv 1000000 -mi 6000000 -samplesize 4; -vis; -light -lightmapsearchpower 3 -deluxe -patchshadows -randomsamples -samples 4 -lightmapsize 512 -fast -fastbounce -dirty -bouncegrid -fill -bounce 8 -dirtscale 2"
+"license" "gpl"
+"angle" "0"
+"fog" "0.2 .7 .3 .1 .4"
+"_floodlight" "240 240 255 1024 32"
+"classname" "worldspawn"
+}
+{
+"angle" "90.000000"
+"origin" "608.000000 -840.000000 160.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-376.000000 656.000000 160.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "90.000000"
+"origin" "544.000000 -840.000000 160.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-440.000000 656.000000 160.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "90.000000"
+"origin" "-64.000000 -896.000000 48.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "270"
+"origin" "112.000000 112.000000 48.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "270"
+"origin" "176.000000 112.000000 48.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "90.000000"
+"origin" "0.000000 -896.000000 48.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-440.000000 600.000000 160.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "90.000000"
+"origin" "544.000000 -896.000000 160.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "90.000000"
+"origin" "608.000000 -896.000000 160.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "-376.000000 600.000000 160.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-90.000000"
+"origin" "2336.000000 7136.000000 288.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-90.000000"
+"origin" "1320.000000 6368.000000 288.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-90.000000"
+"origin" "1384.000000 6368.000000 288.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "179.817032"
+"origin" "3184.102295 5720.102051 168.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "179.817032"
+"origin" "3183.897949 5656.102539 168.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-90.000000"
+"origin" "3144.000000 6824.000000 168.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-90.000000"
+"origin" "3208.000000 6824.000000 168.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-90.000000"
+"origin" "2272.000000 7136.000000 288.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-90.000000"
+"origin" "3144.000000 6888.000000 168.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-90.000000"
+"origin" "2272.000000 7200.000000 288.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "179.817032"
+"origin" "3248.102051 5719.897461 168.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-90.000000"
+"origin" "1320.000000 6432.000000 288.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-90.000000"
+"origin" "1384.000000 6432.000000 288.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "179.817032"
+"origin" "3247.897705 5655.897949 168.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-90.000000"
+"origin" "2336.000000 7200.000000 288.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-90.000000"
+"origin" "3208.000000 6888.000000 168.000000"
+"classname" "info_player_team2"
+}
+{
+"model" "models/containers/crate01.md3"
+"origin" "2120.000000 2896.000000 192.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "138.181839"
+"model" "models/containers/crate01.md3"
+"origin" "1588.000000 2844.000000 192.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "52.932762"
+"model" "models/containers/crate01.md3"
+"origin" "1534.000122 2112.000244 192.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-24.517418"
+"model" "models/containers/crate01.md3"
+"origin" "1682.000244 2110.000244 192.000015"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "134.097290"
+"model" "models/containers/crate01.md3"
+"origin" "1063.692383 2366.023682 192.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-45.560520"
+"model" "models/containers/crate01.md3"
+"origin" "1727.999512 2408.000244 191.999985"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-32.863609"
+"model" "models/containers/crate01.md3"
+"origin" "2880.000244 2952.000488 192.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-120.408760"
+"model" "models/containers/crate01.md3"
+"origin" "2880.000977 2767.999512 192.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-32.975086"
+"model" "models/containers/crate01.md3"
+"origin" "3648.000000 2016.000122 -320.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "29.902506"
+"model" "models/containers/crate01.md3"
+"origin" "4000.000000 1735.999878 -320.000031"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-29.142130"
+"model" "models/containers/crate01.md3"
+"origin" "3984.000000 2064.000000 -320.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "46.158340"
+"model" "models/containers/crate01.md3"
+"origin" "1296.000000 5064.000000 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-47.213100"
+"model" "models/containers/crate01.md3"
+"origin" "2200.000244 5216.000000 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-47.213100"
+"model" "models/containers/crate01.md3"
+"origin" "-1415.999756 3888.000000 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "25.263880"
+"model" "models/containers/crate01.md3"
+"origin" "-1168.000000 3928.000732 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-125.037842"
+"model" "models/containers/crate01.md3"
+"origin" "-1343.999512 3472.000000 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-136.208755"
+"model" "models/containers/crate01.md3"
+"origin" "-440.000183 3279.999268 152.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "127.182182"
+"model" "models/containers/crate01.md3"
+"origin" "119.999664 3959.999756 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-136.982925"
+"model" "models/containers/crate01.md3"
+"origin" "-32.000187 3960.000000 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-165.072968"
+"model" "models/containers/crate01.md3"
+"origin" "120.000282 3823.999756 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-49.902527"
+"model" "models/containers/crate01.md3"
+"origin" "-351.998962 3079.999268 192.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-129.675446"
+"model" "models/containers/crate01.md3"
+"origin" "-360.000244 2719.999023 192.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-116.637764"
+"model" "models/containers/crate01.md3"
+"origin" "-1216.000366 3119.999268 192.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "50.292267"
+"model" "models/containers/crate01.md3"
+"origin" "1336.000000 5911.999512 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "46.158340"
+"model" "models/containers/crate01.md3"
+"origin" "3432.000000 2160.000000 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"angle" "90"
+"origin" "1792.000000 6912.000000 320.000000"
+"classname" "item_flag_team2"
+}
+{
+"angle" "180"
+"origin" "-216.000000 -96.000000 48.000000"
+"classname" "item_flag_team1"
+}
+{
+"_cs" "1"
+"angle" "-37.471119"
+"model" "models/containers/crate01.md3"
+"origin" "3968.000000 3760.000000 -128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-37.471119"
+"model" "models/containers/crate01.md3"
+"origin" "1256.000000 1592.000000 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-37.471119"
+"model" "models/containers/crate01.md3"
+"origin" "1512.000000 -680.000000 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-120.542610"
+"model" "models/containers/crate01.md3"
+"origin" "-360.000000 -720.000061 0.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "127.196877"
+"model" "models/containers/crate01.md3"
+"origin" "855.999817 640.000122 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-143.157288"
+"model" "models/containers/crate01.md3"
+"origin" "743.999939 640.000122 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "48.688435"
+"model" "models/containers/crate01.md3"
+"origin" "2743.999268 2848.000488 192.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-26.377634"
+"model" "models/containers/crate01.md3"
+"origin" "1439.999390 6999.999512 256.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "48.600426"
+"model" "models/containers/crate01.md3"
+"origin" "1599.999023 7039.999023 256.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "141.958252"
+"model" "models/containers/crate01.md3"
+"origin" "2128.001953 6151.998535 256.000000"
+"classname" "misc_gamemodel"
+}
+{
+"respawntime" "1"
+"angle" "-178.831207"
+"origin" "352.000000 -352.000000 8.000000"
+"classname" "weapon_uzi"
+}
+{
+"origin" "352.000000 -416.000000 8.000000"
+"classname" "item_health_small"
+}
+{
+"respawntime" "1"
+"angle" "179.975601"
+"origin" "352.000000 96.000000 8.000000"
+"classname" "weapon_rifle"
+}
+{
+"origin" "352.000000 160.000000 8.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"respawntime" "1"
+"origin" "-160.000000 160.000000 8.000000"
+"classname" "weapon_electro"
+}
+{
+"origin" "-96.000000 160.000000 8.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "-416.000000 -544.000000 8.000000"
+"classname" "item_health_small"
+}
+{
+"respawntime" "1"
+"angle" "-178.831207"
+"origin" "2528.000000 6176.000000 280.000000"
+"classname" "weapon_uzi"
+}
+{
+"origin" "2528.000000 6112.000000 280.000000"
+"classname" "item_health_small"
+}
+{
+"respawntime" "1"
+"angle" "179.975601"
+"origin" "2528.000000 6432.000000 280.000000"
+"classname" "weapon_rifle"
+}
+{
+"origin" "2528.000000 6496.000000 280.000000"
+"classname" "item_health_small"
+}
+{
+"respawntime" "1"
+"origin" "1312.000000 6624.000000 280.000000"
+"classname" "weapon_electro"
+}
+{
+"origin" "1312.000000 6688.000000 280.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "1312.000000 6112.000000 280.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3552.000000 5696.000000 256.000000"
+"classname" "item_armor25"
+}
+{
+"origin" "2048.000000 -128.000000 256.000000"
+"classname" "item_armor25"
+}
+{
+"targetname" "info_null1"
+"origin" "1584.000000 608.000000 256.000000"
+"classname" "info_null"
+}
+{
+"angle" "-90.000000"
+"targetname" "info_null2"
+"origin" "3232.000000 -432.000000 256.000000"
+"classname" "info_null"
+}
+{
+"targetname" "info_null3"
+"origin" "1392.000000 960.000000 256.000000"
+"classname" "info_null"
+}
+{
+"angle" "-179.999985"
+"targetname" "info_null5"
+"origin" "1040.000000 960.000000 256.000000"
+"classname" "info_null"
+}
+{
+"angle" "90.000015"
+"targetname" "info_null7"
+"origin" "1984.000000 1648.000000 256.000000"
+"classname" "info_null"
+}
+{
+"angle" "-90.000000"
+"targetname" "info_null8"
+"origin" "1984.000000 1232.000000 256.000000"
+"classname" "info_null"
+}
+{
+"angle" "-90.000000"
+"targetname" "info_null9"
+"origin" "2624.000000 1232.000000 256.000000"
+"classname" "info_null"
+}
+{
+"angle" "90.000000"
+"targetname" "info_null10"
+"origin" "2624.000000 1648.000000 256.000000"
+"classname" "info_null"
+}
+{
+"_cs" "1"
+"angle" "59.372177"
+"model" "models/containers/crate01.md3"
+"origin" "1773.232666 3829.760254 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-28.172949"
+"model" "models/containers/crate01.md3"
+"origin" "1893.455200 3826.448975 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "140.924225"
+"model" "models/containers/crate01.md3"
+"origin" "1818.820435 3687.429443 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"angle" "-90.000000"
+"targetname" "info_null4"
+"origin" "928.000000 -944.000000 256.000000"
+"classname" "info_null"
+}
+{
+"angle" "89.999992"
+"targetname" "info_null6"
+"origin" "736.000000 4144.000000 256.000000"
+"classname" "info_null"
+}
+{
+"_cs" "1"
+"angle" "39.369617"
+"model" "models/containers/crate01.md3"
+"origin" "2279.999268 5751.998535 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "24.987968"
+"model" "models/containers/crate01.md3"
+"origin" "2376.000244 5903.999512 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-38.635967"
+"model" "models/containers/crate01.md3"
+"origin" "2479.999023 5800.000488 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-89.880089"
+"model" "models/containers/crate01.md3"
+"origin" "3215.999512 5544.001465 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-136.309799"
+"model" "models/containers/crate01.md3"
+"origin" "3656.000977 5832.000977 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"angle" "89.999992"
+"targetname" "info_null11"
+"origin" "3232.000000 6960.000000 192.000000"
+"classname" "info_null"
+}
+{
+"angle" "-90.000000"
+"targetname" "info_null12"
+"origin" "3872.000000 2064.000000 192.000000"
+"classname" "info_null"
+}
+{
+"angle" "90.000000"
+"origin" "-64.000000 -832.000000 48.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "270"
+"origin" "112.000000 176.000000 48.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "270"
+"origin" "176.000000 176.000000 48.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "90.000000"
+"origin" "0.000000 -832.000000 48.000000"
+"classname" "info_player_team1"
+}
+{
+"_cs" "1"
+"angle" "133.170654"
+"model" "models/containers/crate01.md3"
+"origin" "4039.999756 4008.000244 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"angle" "-116.637764"
+"model" "models/containers/crate01.md3"
+"origin" "-536.000366 2271.999268 192.000000"
+"classname" "misc_gamemodel"
+}
+{
+"angle" "0.000010"
+"targetname" "info_null13"
+"origin" "4080.000000 2592.000000 -128.000000"
+"classname" "info_null"
+}
+{
+"origin" "-416.000000 -480.000000 8.000000"
+"classname" "weapon_crylink"
+}
+{
+"origin" "1312.000000 6184.000000 280.000000"
+"classname" "weapon_crylink"
+}
+{
+"_cs" "1"
+"modelscale" "0.650000"
+"spawnflags" "2"
+"angle" "138.181839"
+"model" "models/map/forklift.md3"
+"origin" "1056.039429 3669.800293 128.000137"
+"classname" "misc_gamemodel"
+}
+{
+"_cs" "1"
+"modelscale" "0.650000"
+"spawnflags" "2"
+"angle" "360"
+"model" "models/map/forklift.md3"
+"origin" "2888.000000 1512.000000 128.000000"
+"classname" "misc_gamemodel"
+}
+{
+"skin" "2"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "125"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "-421.998962 3079.999268 192.000000"
+}
+{
+"skin" "1"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "1882.000244 2110.000244 192.000015"
+}
+{
+"skin" "2"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "1263.692383 2366.023682 192.000000"
+}
+{
+"skin" "1"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "189.999664 3959.999756 128.000000"
+}
+{
+"skin" "2"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "800"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "2300.000244 5216.000000 128.000000"
+}
+{
+"skin" "1"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "1817.999512 2408.000244 191.999985"
+}
+{
+"skin" "2"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "800"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "3968.000000 2156.000122 -320.000000"
+}
+{
+"skin" "1"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "2090.000000 2996.000000 192.000000"
+}
+{
+"skin" "2"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "800"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "2843.999268 2848.000488 192.000000"
+}
+{
+"skin" "1"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "125"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "2228.001953 6151.998535 256.000000"
+}
+{
+"skin" "2"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "1412.000000 -680.000000 128.000000"
+}
+{
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"skin" "1"
+"origin" "803.999939 570.000122 128.000000"
+}
+{
+"skin" "2"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "-280.000000 -720.000061 0.000000"
+}
+{
+"skin" "1"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "1356.000000 1592.000000 128.000000"
+}
+{
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"skin" "2"
+"origin" "1834.039429 3910.800293 128.000137"
+}
+{
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "1834.039429 3610.800293 128.000137"
+}
+{
+"classname" "misc_breakablemodel"
+"skin" "1"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "1434.039429 4650.800293 128.000137"
+}
+{
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "1764.039429 3740.800293 128.000137"
+}
+{
+"skin" "1"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "1520.999023 7029.999023 256.000000"
+}
+{
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"origin" "1874.039429 3750.800293 128.000137"
+}
+{
+"classname" "misc_breakablemodel"
+"origin" "3192.000000 5829.000000 126.000000"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "125"
+"dmg_edge" "25"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"skin" "2"
+}
+{
+"origin" "3208.000000 58.000000 156.000000"
+"classname" "misc_breakablemodel"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "125"
+"dmg_edge" "25"
+"dmg_force" "800"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"skin" "1"
+}
+{
+"classname" "misc_breakablemodel"
+"origin" "3778.000000 1358.000000 126.000000"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "125"
+"dmg_edge" "25"
+"dmg_force" "800"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"skin" "2"
+}
+{
+"classname" "misc_breakablemodel"
+"origin" "-854.039429 3330.800293 126.000137"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"skin" "1"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "125"
+"dmg_edge" "25"
+"dmg_force" "800"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+}
+{
+"classname" "misc_breakablemodel"
+"origin" "-1400.000000 2300.000000 195.000000"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "800"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"skin" "2"
+}
+{
+"classname" "misc_breakablemodel"
+"origin" "3332.000000 6896.000000 126.000000"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "25"
+"dmg_force" "800"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"skin" "2"
+}
+{
+"classname" "misc_breakablemodel"
+"origin" "-114.039429 3370.800293 126.000137"
+"model" "models/warehouse-beta18/barrel01.md3"
+"modelscale" "1.200000"
+"count" "1"
+"napalm_count" "3"
+"napalm_color" "3"
+"debris" "models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3 models/onslaught/gen_gib1.md3 models/onslaught/gen_gib2.md3 models/onslaught/gen_gib3.md3"
+"debrisdamageforcescale" "2"
+"debrisfadetime" "1"
+"debrissolid" "0"
+"debristime" "5"
+"debristimejitter" "2"
+"dmg" "25"
+"dmg_edge" "125"
+"dmg_force" "600"
+"dmg_radius" "250"
+"health" "25"
+"mdl" "TE_TEI_BIGEXPLOSION"
+"message" "was killed by an explosive barrel"
+"message2" "was killed with an explosive barrel by"
+"noise" "sound/Explosion.ogg"
+"respawntime" "35"
+"respawntimejitter" "10"
+"skin" "1"
+}
+{
+"origin" "3840.000000 1920.000000 -272.000000"
+"classname" "item_health_mega"
+}
+{
+"origin" "1888.000000 2760.000000 224.000000"
+"classname" "weapon_devastator"
+}
+{
+"origin" "3840.000000 2990.000000 -272.000000"
+"classname" "weapon_hagar"
+}
+{
+"origin" "1124.039429 3610.800293 150.000137"
+"classname" "weapon_fireball"
+"spawnflags" "1"
+}
+{
+"origin" "2788.000000 1512.000000 148.000000"
+"classname" "item_strength"
+"spawnflags" "1"
+}
+{
+"origin" "2100.000000 2760.000000 224.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"origin" "1636.000000 2192.000000 224.000000"
+"classname" "item_health_mega"
+}
+{
+"origin" "1706.000000 2192.000000 224.000000"
+"classname" "item_armor25"
+}
+{
+"origin" "-400.000000 2209.000000 204.000000"
+"classname" "item_armor25"
+}
+{
+"origin" "2264.000000 2896.000000 224.000000"
+"classname" "item_armor_shard"
+}
+{
+"origin" "1952.000000 2080.000000 224.000000"
+"classname" "item_armor_shard"
+}
+{
+"_cs" "1"
+"angle" "118.323685"
+"model" "models/containers/crate01.md3"
+"origin" "2295.999756 2447.999756 192.000000"
+"classname" "misc_gamemodel"
+}
+{
+"target" "info_notnull1"
+"origin" "2880.000000 3336.000000 336.000000"
+"classname" "info_autoscreenshot"
+}
+{
+"targetname" "info_notnull1"
+"origin" "1584.000000 3688.000000 296.000000"
+"classname" "info_notnull"
+}
+{
+"target" "info_notnull2"
+"origin" "-80.000000 -704.000000 288.000000"
+"classname" "info_autoscreenshot"
+}
+{
+"targetname" "info_notnull2"
+"origin" "2256.000000 80.000000 288.000000"
+"classname" "info_notnull"
+}
+{
+"angle" "-90"
+"team" "14"
+"origin" "1456.000000 5480.000000 160.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"angle" "-90"
+"team" "14"
+"origin" "2228.000000 6496.000000 280.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"angle" "355"
+"team" "14"
+"origin" "-1248.000000 3680.000000 160.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"angle" "355"
+"team" "5"
+"origin" "-1120.000000 2528.000000 224.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"angle" "355"
+"team" "5"
+"origin" "760.000000 -544.000000 160.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"angle" "355"
+"team" "5"
+"origin" "760.000000 244.000000 160.000000"
+"classname" "vehicle_spiderbot"
+}
+
+
+
+
+
+

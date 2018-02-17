@@ -1,0 +1,15 @@
+title Across The Sea
+description Desolate isles far apart
+author MikeeUSA, Mario
+cdtrack new_patriarchy_forever_v1
+has weapons
+gametype ctf
+
+fog 0.4 0.2 0.2 0.5 1 0 99999 -1000 30000
+
+settemp_for_type all g_balance_superweapons_time 120
+settemp_for_type all g_balance_porto_primary_lifetime 60
+settemp_for_type all g_balance_porto_secondary_lifetime 60
+settemp_for_type all g_balance_porto_secondary_speed 10000
+settemp_for_type all g_balance_porto_primary_speed 10000
+settemp_for_type all g_balance_portal_lifetime 60
