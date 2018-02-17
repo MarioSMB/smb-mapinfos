@@ -1,13 +1,8 @@
 title Ancient
-description Ancient large CTF map
+description Open CTF map with lots of stairs
 author Sepelio
-has weapons
 cdtrack 14
+has weapons
 gametype ctf
-gametype tdm
-gametype ca
-gametype ft
-gametype vip
 gametype kh
-gametype inf
 gametype ons
