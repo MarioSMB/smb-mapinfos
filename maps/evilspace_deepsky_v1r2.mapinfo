@@ -3,4 +3,3 @@ description EvilSpaceCTF with larger Skybox
 cdtrack thru-the-mirror
 gametype ctf
 
-settemp_for_type all _nexuiz_mode 1
