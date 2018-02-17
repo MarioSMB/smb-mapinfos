@@ -2,7 +2,7 @@ title Egyptstream
 description Fast CTF map
 author FruitieX
 has weapons
-cdtrack 8
+cdtrack thru-the-mirror
 gametype ctf
 gametype vip
 gametype kh

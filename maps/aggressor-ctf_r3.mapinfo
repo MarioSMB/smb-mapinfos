@@ -1,7 +1,7 @@
 title Aggressor - CTF
 description A capture the flag version of this famous map
 author Tyrann -- CTFified by -z-
-cdtrack 6
+cdtrack neuronal-diving
 has weapons
 gametype ctf
 gametype kh

@@ -2,7 +2,7 @@ title Destructive
 description A spacestation floater
 author Cortez
 has weapons
-cdtrack 4
+cdtrack chaos-fog
 gametype ctf
 gametype vip
 gametype kh

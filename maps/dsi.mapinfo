@@ -2,7 +2,7 @@ title DSI
 description Sci-Fi Arena
 author Yves Allaire
 has weapons
-cdtrack 4
+cdtrack chaos-fog
 gametype dm
 gametype tdm
 gametype ca

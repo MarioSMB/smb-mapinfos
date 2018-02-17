@@ -1,7 +1,7 @@
 title MICRO
 description Fun map for onslaught
 author Morphed
-cdtrack 8
+cdtrack thru-the-mirror
 has weapons
 gametype ons
 settemp_for_type all g_respawn_waves 6

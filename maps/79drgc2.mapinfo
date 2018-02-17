@@ -2,7 +2,7 @@ title Concrete Salvation
 description Spacious Tourney/small DM map 
 author Kevin "79DieselRabbit" Worrel
 has weapons
-cdtrack 7
+cdtrack subcities
 gametype dm
 gametype tdm
 gametype kh

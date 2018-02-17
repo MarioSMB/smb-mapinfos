@@ -2,7 +2,7 @@ title Flip Zone
 description Dark Zone returns twice
 author Maik Merten, Rudolf "div0" Polzer
 has weapons
-cdtrack 5
+cdtrack infight
 gametype dm
 gametype tdm
 gametype ft

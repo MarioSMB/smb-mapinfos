@@ -2,7 +2,7 @@ title Ripper's Play Ground
 description A small DM Arena
 author dONKEY
 has weapons
-cdtrack 7
+cdtrack subcities
 gametype dm
 gametype ka
 gametype tdm

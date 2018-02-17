@@ -1,7 +1,7 @@
 title Iron Yard
 description An Industrial Deathmatch Map
 author Friction
-cdtrack 4
+cdtrack chaos-fog
 has weapons
 gametype dm
 gametype tdm

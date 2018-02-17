@@ -2,7 +2,7 @@ title DSI:4.7
 description Hopefully fun for Tourney play and also for 4-6 FFA's
 author Yves "evil lair" Allaire
 has weapons
-cdtrack 2
+cdtrack breakdown-easy
 gametype dm
 gametype tdm
 gametype ca

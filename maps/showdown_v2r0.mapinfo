@@ -2,7 +2,7 @@ title Showdown
 description inspired by CoD4 map Showdown
 author Siwo a.k.a Fluffy
 has weapons
-cdtrack 7
+cdtrack subcities
 _spawnpoints 20
 gametype dm
 gametype ctf

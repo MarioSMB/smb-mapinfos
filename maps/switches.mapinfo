@@ -1,7 +1,7 @@
 title Switches
 description Draw your path with the switches!
 author FruitieX
-cdtrack 7
+cdtrack subcities
 has weapons
 gametype ctf
 gametype kh

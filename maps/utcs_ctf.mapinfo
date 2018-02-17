@@ -2,5 +2,5 @@ title :U.T.C.S:
 description Port of the popular Tremulous map, "UTCS."
 author Chompers(original), Odin(Port)
 has weapons
-cdtrack 8
+cdtrack thru-the-mirror
 gametype ctf

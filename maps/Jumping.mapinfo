@@ -2,6 +2,6 @@ title Jumping
 description Jumping
 author Master
 has weapons
-cdtrack 5
+cdtrack infight
 gametype dm
 gametype tdm

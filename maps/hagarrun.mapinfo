@@ -1,7 +1,7 @@
 title Hagar Run
 description A difficult hagar run
 author Dib
-cdtrack 7
+cdtrack subcities
 gametype rc
 settemp_for_type all g_start_weapon_shotgun 0
 settemp_for_type all g_start_weapon_laser 0

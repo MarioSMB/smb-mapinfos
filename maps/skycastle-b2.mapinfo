@@ -2,7 +2,7 @@ title Skycastle
 description Medium CTF map in the sky
 author Cortez
 has weapons
-cdtrack 4
+cdtrack chaos-fog
 gametype ctf
 gametype kh
 gametype vip

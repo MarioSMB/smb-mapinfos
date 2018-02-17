@@ -2,6 +2,6 @@ title Rocket Arena
 description Small arena with lots of rockets
 author C.Brutail
 has weapons
-cdtrack 4
+cdtrack chaos-fog
 gametype dm
 gametype lms

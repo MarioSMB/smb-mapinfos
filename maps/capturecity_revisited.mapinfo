@@ -2,7 +2,7 @@ title Capturecity Revisited
 description Remake of the classic city map
 author Sven
 has weapons
-cdtrack 8
+cdtrack thru-the-mirror
 gametype ctf
 gametype vip
 gametype kh

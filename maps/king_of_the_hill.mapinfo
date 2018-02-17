@@ -2,5 +2,5 @@ title King of the hill!
 description Open space map where your objective is staying on the flag platform longer than your opponent
 author FruitieX
 has weapons
-cdtrack 5
+cdtrack infight
 gametype ctf

@@ -2,7 +2,7 @@ title Bases
 description Big map with lots of small corridors
 author Black-Dragon131
 has weapons
-cdtrack 5
+cdtrack infight
 gametype ctf
 gametype vip
 gametype kh

@@ -1,7 +1,7 @@
 title Duodecuple
 description Insane nexball map (now with jetpack!)
 author FruitieX
-cdtrack 4
+cdtrack chaos-fog
 gametype nb
 settemp_for_type all g_nexball_delay_idle 60
 settemp_for_type all g_jetpack 1

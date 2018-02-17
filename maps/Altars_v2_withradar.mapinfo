@@ -2,7 +2,7 @@ title Altars v2
 description Symmetrical map designed for CTF
 author Clueless Newbie / C Lund
 has weapons
-cdtrack 5
+cdtrack infight
 gametype ctf
 gametype dm
 gametype tdm

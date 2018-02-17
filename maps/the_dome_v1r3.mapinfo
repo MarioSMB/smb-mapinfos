@@ -1,7 +1,7 @@
 title The Dome
 description The Dome
 author PinkRobot
-cdtrack 8
+cdtrack thru-the-mirror
 gametype nb
 // optional: fog density red green blue alpha mindist maxdist
 // optional: settemp_for_type (all|gametypename) cvarname value

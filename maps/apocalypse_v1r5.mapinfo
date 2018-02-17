@@ -2,7 +2,7 @@ title Apocalypse
 description Initial release, bugfixing and gameplay testing 
 author Pink Robot
 has weapons
-cdtrack 7
+cdtrack subcities
 gametype dm
 gametype ka
 gametype tdm

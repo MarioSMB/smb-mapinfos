@@ -2,6 +2,6 @@ title Sierpinski
 description Large CTF map roughly based on the Sierpinski triangle
 author Rudolf "div0" Polzer
 has weapons
-cdtrack 7
+cdtrack subcities
 gametype ctf
 gametype kh

@@ -1,7 +1,7 @@
 title Big Bertha
 description big bertha likes to be big
 author <AUTHOR>
-cdtrack 7
+cdtrack subcities
 // uncomment this if you added weapon pickups: has weapons
 // uncomment this if you added turrets: has turrets
 // uncomment this if you added vehicles: has vehicles

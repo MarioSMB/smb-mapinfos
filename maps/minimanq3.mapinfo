@@ -1,7 +1,7 @@
 title MinimanQ3
 description You're a miniature man in a nicely sized room. Have fun
 author Ths
-cdtrack 7
+cdtrack subcities
 has weapons
 gametype ctf
 gametype kh

@@ -1,7 +1,7 @@
 title Rocky Hills
 description An outdoors map for CTF & ONS
 author Clueless Newbie / C Lund
-cdtrack 4
+cdtrack chaos-fog
 has weapons
 has turrets
 settemp_for_type all g_turrets 0 

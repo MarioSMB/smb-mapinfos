@@ -2,7 +2,7 @@ title Blue Amuse
 description Small, blue, and fast DM map 
 author Cortez
 has weapons
-cdtrack 5
+cdtrack infight
 gametype dm
 gametype ka
 gametype tdm

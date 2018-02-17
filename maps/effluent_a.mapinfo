@@ -2,7 +2,7 @@ title Effluent
 description TDM map
 author Sepelio
 has weapons
-cdtrack 5
+cdtrack infight
 gametype dm
 gametype tdm
 gametype ca

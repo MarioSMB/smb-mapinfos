@@ -1,7 +1,7 @@
 title stone castle
 description updated dm_castle
 author Grasshopper
-cdtrack 7
+cdtrack subcities
 has weapons
 gametype ctf
 gametype kh

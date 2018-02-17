@@ -2,7 +2,7 @@ title 100 Miles
 description Large CTF map
 author Master
 has weapons
-cdtrack 2
+cdtrack breakdown-easy
 gametype ctf
 gametype tdm
 gametype kh

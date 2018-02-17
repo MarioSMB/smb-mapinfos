@@ -2,7 +2,7 @@ title Box Gardens
 description In case of low fps, turn off reflections
 author Clueless Newbie / C Lund
 has weapons
-cdtrack 4
+cdtrack chaos-fog
 gametype ctf
 gametype dm
 gametype tdm

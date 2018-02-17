@@ -2,7 +2,7 @@ title The Dungeon
 description A large asymetric map with l33t gameplay
 author lcatlnx
 has weapons
-cdtrack 8
+cdtrack thru-the-mirror
 gametype dm
 gametype lms
 gametype ka

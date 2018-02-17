@@ -2,7 +2,7 @@ title Hook Race
 description CTF race map - Use the hook!
 author Clueless Newbie / C Lund
 settemp_for_type all g_grappling_hook 1
-cdtrack 4
+cdtrack chaos-fog
 has weapons
 gametype ctf
 gametype rc

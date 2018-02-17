@@ -2,7 +2,7 @@ title Castle V2
 description its new
 author Cortez
 has weapons
-cdtrack 4
+cdtrack chaos-fog
 gametype ctf
 gametype dm
 gametype tdm

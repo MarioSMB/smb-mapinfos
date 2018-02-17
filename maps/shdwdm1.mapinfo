@@ -2,7 +2,7 @@ title Phenomenon
 description Decent 1v1 map
 author Andrew "shdw" Brabec
 has weapons
-cdtrack 8
+cdtrack thru-the-mirror
 gametype dm
 gametype lms
 gametype ka

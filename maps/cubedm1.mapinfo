@@ -2,7 +2,7 @@ title Chutes & Ladders
 description A claustrophobic DM map inspired by the movie 'Cube'
 author drastik
 has weapons
-cdtrack 7
+cdtrack subcities
 gametype dm
 gametype ka
 gametype tdm

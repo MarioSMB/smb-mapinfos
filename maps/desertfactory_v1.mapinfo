@@ -2,7 +2,7 @@ title Desert Factory
 description An abandoned factory in the desert
 author sev
 has weapons
-cdtrack 8
+cdtrack thru-the-mirror
 gametype dm
 gametype tdm
 gametype ca

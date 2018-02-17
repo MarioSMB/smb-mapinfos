@@ -2,7 +2,7 @@ title Killout Base
 description Medium sized map intented for teamplay oriented games
 author ./killit &
 has weapons
-cdtrack 5
+cdtrack infight
 gametype ctf
 gametype dm
 gametype tdm

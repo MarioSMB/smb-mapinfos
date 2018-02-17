@@ -1,7 +1,7 @@
 title VirtualEarth
 description CTF map with a the blue base in a forest and the red base in a cave
 author Moo and PCLizard
-cdtrack 8
+cdtrack thru-the-mirror
 has weapons
 gametype ctf
 gametype kh

@@ -2,7 +2,7 @@ title Ptolemy's Wrath
 description CPM pack map 25
 author Rich "swelt" Jacques
 has weapons
-cdtrack 7
+cdtrack subcities
 gametype dm
 gametype tdm
 gametype ca

@@ -2,7 +2,7 @@ title Crossover
 description Small CTF map
 author Edward Holness
 has weapons
-cdtrack 8
+cdtrack thru-the-mirror
 gametype ctf
 gametype dm
 gametype tdm

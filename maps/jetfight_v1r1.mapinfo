@@ -1,7 +1,7 @@
 title Jetfight!
 description Jetpack-only fighting map!
 author divVerent
-cdtrack 4
+cdtrack chaos-fog
 has weapons
 gametype dm
 gametype lms

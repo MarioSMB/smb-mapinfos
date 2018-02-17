@@ -1,7 +1,7 @@
 title Bold as love
 description Small CTF map
 author Ferrao
-cdtrack 7
+cdtrack subcities
 has weapons
 gametype ctf
 settemp_for_type all sv_q3acompat_machineshotgunswap 1

@@ -1,7 +1,7 @@
 title Spyglass v2
 description The classic STV Elite Force map ported to Nexuiz
 author Ronan
-cdtrack 5
+cdtrack infight
 has weapons
 gametype ctf
 gametype kh

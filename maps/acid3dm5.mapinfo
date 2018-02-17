@@ -2,7 +2,7 @@ title unbalanced
 description ffa map designed for warsow
 author [acid]
 has weapons
-cdtrack 7
+cdtrack subcities
 gametype dm
 gametype tdm
 gametype ca

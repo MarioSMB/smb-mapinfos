@@ -1,7 +1,7 @@
 title Footballbacon!
 description Eggandbacon nexball conversion
 author FruitieX
-cdtrack 8
+cdtrack thru-the-mirror
 gametype nb
 settemp_for_type all g_start_weapon_laser 1
 settemp_for_type all g_start_weapon_shotgun 1

@@ -1,7 +1,7 @@
 title Reservoir Remastered
 description Remade the r4 version of Reservoir to v5. Wanted to see if I could make it have a bit more nicer gameplay.
 author Ronan: Remastered by ai
-cdtrack 2
+cdtrack breakdown-easy
 has weapons
 gametype ctf
 gametype kh

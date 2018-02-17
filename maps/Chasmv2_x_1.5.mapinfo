@@ -2,7 +2,7 @@ title Chasm V2
 description Medium-sized CTF map with a deep chasm
 author -z-
 has weapons
-cdtrack 6
+cdtrack neuronal-diving
 gametype ctf
 gametype tdm
 gametype ca

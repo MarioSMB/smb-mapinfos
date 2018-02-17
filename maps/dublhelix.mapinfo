@@ -2,7 +2,7 @@ title Dublhelix
 description Medium-sized tech map with lava
 author Unknown (2 copies of the GPL license, but no name?!)
 has weapons
-cdtrack 5
+cdtrack infight
 gametype ctf
 gametype vip
 gametype kh

@@ -2,7 +2,7 @@ title Dismal
 description Space floater
 author h,reaper
 has weapons
-cdtrack 7
+cdtrack subcities
 gametype dm
 gametype ka
 gametype tdm

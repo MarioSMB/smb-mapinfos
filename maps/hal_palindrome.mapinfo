@@ -2,7 +2,7 @@ title Palindrome
 description Quake3 CTF Level
 author John "Hal9000" Schuch
 has weapons
-cdtrack 5
+cdtrack infight
 gametype ctf
 gametype kh
 gametype ft

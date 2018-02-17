@@ -1,7 +1,7 @@
 title BlockScape
 description Blocky CTF/ONS map
 author Clueless Newbie / C Lund
-cdtrack 4
+cdtrack chaos-fog
 settemp_for_type all g_turrets 0 
 settemp_for_type ons g_turrets 1 
 has weapons

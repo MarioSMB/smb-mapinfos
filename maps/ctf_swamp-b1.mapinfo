@@ -2,7 +2,7 @@ title Swamp
 description A medium sized map
 author shaggy, thanks to TK471
 has weapons
-cdtrack 4
+cdtrack chaos-fog
 gametype ctf
 gametype vip
 gametype kh

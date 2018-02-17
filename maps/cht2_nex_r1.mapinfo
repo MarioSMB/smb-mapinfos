@@ -2,7 +2,7 @@ title lichtwaerts
 description A cel-shaded space floater
 author cha0s
 has weapons
-cdtrack 4
+cdtrack chaos-fog
 gametype dm
 gametype tdm
 gametype ca

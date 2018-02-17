@@ -1,7 +1,7 @@
 title Q3JDM9a
 description Simple duel map
 author Jude [Hubster's Remix]
-cdtrack 4
+cdtrack chaos-fog
 has weapons
 gametype dm
 settemp_for_type all sv_q3acompat_machineshotgunswap 1

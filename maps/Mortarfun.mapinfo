@@ -2,7 +2,7 @@ title Mortarfun
 description One room to frag 'em all
 author Cortez, Rudolf "div0" Polzer
 has weapons
-cdtrack 8
+cdtrack thru-the-mirror
 gametype dm
 gametype lms
 gametype ka

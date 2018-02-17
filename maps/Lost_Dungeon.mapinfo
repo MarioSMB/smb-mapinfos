@@ -1,7 +1,7 @@
 title <TITLE>
 description <DESCRIPTION>
 author <AUTHOR>
-cdtrack 6
+cdtrack neuronal-diving
 has weapons
 // uncomment this if you added turrets: has turrets
 // uncomment this if you added vehicles: has vehicles

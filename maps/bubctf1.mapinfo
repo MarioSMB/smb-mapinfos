@@ -2,6 +2,6 @@ title The Vast and Furious
 description Space floater CTF map
 author ButterB
 has weapons
-cdtrack 4
+cdtrack chaos-fog
 gametype ctf
 gametype vip

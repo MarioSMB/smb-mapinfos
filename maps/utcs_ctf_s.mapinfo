@@ -1,7 +1,7 @@
 title :U.T.C.S:
 description Port of the popular Tremulous map, "UTCS."
 author Chompers(original), ^2Odin(Port) Morphed (fixes for nexuiz)
-cdtrack 4
+cdtrack chaos-fog
 has weapons
 gametype ctf
 gametype kh
