@@ -14,4 +14,3 @@ gametype ft
 gametype ca
 gametype ka
 
-settemp_for_type all _nexuiz_mode 1
