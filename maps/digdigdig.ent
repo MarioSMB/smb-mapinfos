@@ -241,7 +241,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -251,7 +251,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -261,7 +261,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -271,7 +271,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -281,7 +281,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -291,7 +291,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -301,7 +301,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -311,7 +311,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -321,7 +321,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -331,7 +331,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -341,7 +341,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -351,7 +351,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -361,7 +361,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -371,7 +371,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -381,7 +381,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -391,7 +391,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -401,7 +401,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -411,7 +411,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -421,7 +421,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -431,7 +431,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -441,7 +441,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -451,7 +451,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -461,7 +461,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -471,7 +471,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -481,7 +481,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -491,7 +491,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -501,7 +501,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -511,7 +511,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -521,7 +521,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -531,7 +531,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -541,7 +541,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -551,7 +551,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -561,7 +561,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -571,7 +571,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -581,7 +581,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -591,7 +591,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -601,7 +601,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -611,7 +611,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -621,7 +621,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -631,7 +631,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -641,7 +641,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -651,7 +651,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -661,7 +661,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -671,7 +671,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -681,7 +681,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -691,7 +691,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -701,7 +701,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -711,7 +711,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -721,7 +721,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -731,7 +731,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -741,7 +741,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -751,7 +751,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -761,7 +761,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -771,7 +771,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -781,7 +781,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -791,7 +791,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -801,7 +801,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -811,7 +811,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -821,7 +821,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -831,7 +831,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -841,7 +841,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -851,7 +851,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -861,7 +861,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -871,7 +871,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -881,7 +881,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -891,7 +891,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -901,7 +901,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -911,7 +911,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -921,7 +921,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -931,7 +931,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -941,7 +941,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -951,7 +951,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -961,7 +961,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -971,7 +971,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -981,7 +981,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -991,7 +991,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1001,7 +1001,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1011,7 +1011,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1021,7 +1021,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1031,7 +1031,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1041,7 +1041,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1051,7 +1051,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1061,7 +1061,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1071,7 +1071,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1081,7 +1081,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1091,7 +1091,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1101,7 +1101,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1111,7 +1111,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1121,7 +1121,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1131,7 +1131,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1141,7 +1141,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1151,7 +1151,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1161,7 +1161,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1171,7 +1171,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1181,7 +1181,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1191,7 +1191,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1201,7 +1201,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1211,7 +1211,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1221,7 +1221,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1231,7 +1231,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1241,7 +1241,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1251,7 +1251,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1261,7 +1261,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1271,7 +1271,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1281,7 +1281,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1291,7 +1291,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1301,7 +1301,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1311,7 +1311,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1321,7 +1321,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1331,7 +1331,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1341,7 +1341,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1351,7 +1351,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1361,7 +1361,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1371,7 +1371,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1381,7 +1381,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1391,7 +1391,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1401,7 +1401,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1411,7 +1411,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1421,7 +1421,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1431,7 +1431,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1441,7 +1441,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1451,7 +1451,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1461,7 +1461,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1471,7 +1471,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1481,7 +1481,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1491,7 +1491,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1501,7 +1501,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1511,7 +1511,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1521,7 +1521,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1531,7 +1531,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1541,7 +1541,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1551,7 +1551,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1561,7 +1561,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1571,7 +1571,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1581,7 +1581,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1591,7 +1591,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1601,7 +1601,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1611,7 +1611,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1621,7 +1621,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1631,7 +1631,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1641,7 +1641,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1651,7 +1651,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1661,7 +1661,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1671,7 +1671,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1681,7 +1681,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1691,7 +1691,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1701,7 +1701,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1711,7 +1711,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1721,7 +1721,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1731,7 +1731,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1741,7 +1741,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1751,7 +1751,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1761,7 +1761,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1771,7 +1771,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1781,7 +1781,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1791,7 +1791,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1801,7 +1801,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1811,7 +1811,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1821,7 +1821,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1831,7 +1831,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1841,7 +1841,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1851,7 +1851,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1861,7 +1861,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1871,7 +1871,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1881,7 +1881,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1891,7 +1891,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1901,7 +1901,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1911,7 +1911,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1921,7 +1921,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1931,7 +1931,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1941,7 +1941,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1951,7 +1951,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1961,7 +1961,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1971,7 +1971,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1981,7 +1981,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -1991,7 +1991,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2001,7 +2001,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2011,7 +2011,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2021,7 +2021,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2031,7 +2031,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2041,7 +2041,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2051,7 +2051,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2061,7 +2061,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2071,7 +2071,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2081,7 +2081,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2091,7 +2091,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2101,7 +2101,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2111,7 +2111,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2121,7 +2121,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2131,7 +2131,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2141,7 +2141,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2151,7 +2151,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2161,7 +2161,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2171,7 +2171,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2181,7 +2181,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2191,7 +2191,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2201,7 +2201,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2211,7 +2211,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2221,7 +2221,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2231,7 +2231,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2241,7 +2241,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2251,7 +2251,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2261,7 +2261,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2271,7 +2271,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2281,7 +2281,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2291,7 +2291,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2301,7 +2301,7 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
@@ -2311,148 +2311,182 @@
 "health" "25"
 "wait" "5"
 "speed" "500"
-"spawnflags" "2"
+"spawnflags" "4"
 "classname" "func_door"
 }
 {
 "origin" "-192 -1088 -1008"
+"spawnflags" "1"
 "classname" "item_shells"
 }
 {
 "origin" "-128 -1088 -1008"
+"spawnflags" "1"
 "classname" "item_shells"
 }
 {
 "origin" "-64 -1088 -1008"
+"spawnflags" "1"
 "classname" "item_shells"
 }
 {
 "origin" "-64 -832 -1008"
+"spawnflags" "1"
 "classname" "item_shells"
 }
 {
 "origin" "-128 -832 -1008"
+"spawnflags" "1"
 "classname" "item_shells"
 }
 {
 "origin" "-192 -832 -1008"
+"spawnflags" "1"
 "classname" "item_shells"
 }
 {
 "angle" "180"
 "origin" "448 1344 -1008"
+"spawnflags" "1"
 "classname" "item_bullets"
 }
 {
 "angle" "180"
 "origin" "576 1216 -1008"
+"spawnflags" "1"
 "classname" "item_bullets"
 }
 {
 "angle" "180"
 "origin" "576 1344 -1008"
+"spawnflags" "1"
 "classname" "weapon_machinegun"
 }
 {
 "origin" "-704 -1088 -1008"
+"spawnflags" "1"
 "classname" "item_bullets"
 }
 {
 "origin" "-832 -960 -1008"
+"spawnflags" "1"
 "classname" "item_bullets"
 }
 {
 "origin" "-832 -1088 -1008"
+"spawnflags" "1"
 "classname" "weapon_machinegun"
 }
 {
 "origin" "-192 1088 -1008"
+"spawnflags" "1"
 "classname" "item_shells"
 }
 {
 "origin" "-128 1088 -1008"
+"spawnflags" "1"
 "classname" "item_shells"
 }
 {
 "origin" "-64 1088 -1008"
+"spawnflags" "1"
 "classname" "item_shells"
 }
 {
 "origin" "-64 1344 -1008"
+"spawnflags" "1"
 "classname" "item_shells"
 }
 {
 "origin" "-128 1344 -1008"
+"spawnflags" "1"
 "classname" "item_shells"
 }
 {
 "origin" "-192 1344 -1008"
+"spawnflags" "1"
 "classname" "item_shells"
 }
 {
 "origin" "-832 1216 -1008"
+"spawnflags" "1"
 "classname" "item_cells"
 }
 {
 "origin" "-832 1344 -1008"
+"spawnflags" "1"
 "classname" "weapon_crylink"
 }
 {
 "origin" "-704 1344 -1008"
+"spawnflags" "1"
 "classname" "item_cells"
 }
 {
 "angle" "180"
 "origin" "576 -960 -1008"
+"spawnflags" "1"
 "classname" "item_cells"
 }
 {
 "angle" "180"
 "origin" "576 -1088 -1008"
+"spawnflags" "1"
 "classname" "weapon_crylink"
 }
 {
 "angle" "180"
 "origin" "448 -1088 -1008"
+"spawnflags" "1"
 "classname" "item_cells"
 }
 {
 "origin" "-832 192 -1008"
+"spawnflags" "1"
 "classname" "weapon_rocketlauncher"
 }
 {
 "origin" "-832 320 -1008"
+"spawnflags" "1"
 "classname" "item_rockets"
 }
 {
 "origin" "-832 64 -1008"
+"spawnflags" "1"
 "classname" "item_rockets"
 }
 {
 "origin" "576 320 -1008"
+"spawnflags" "1"
 "classname" "item_rockets"
 }
 {
 "origin" "576 64 -1008"
+"spawnflags" "1"
 "classname" "item_rockets"
 }
 {
 "origin" "576 192 -1008"
+"spawnflags" "1"
 "classname" "weapon_grenadelauncher"
 }
 {
 "origin" "-448 -192 -1008"
+"spawnflags" "1"
 "classname" "item_health100"
 }
 {
 "origin" "192 448 -1008"
+"spawnflags" "1"
 "classname" "item_health100"
 }
 {
 "origin" "192 -192 -1008"
+"spawnflags" "1"
 "classname" "item_armor25"
 }
 {
 "origin" "-448 448 -1008"
+"spawnflags" "1"
 "classname" "item_armor25"
 }
