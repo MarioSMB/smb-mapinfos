@@ -1,0 +1,1054 @@
+{
+"_q3map2_version" "2.5.17n-git-aa9e315"
+"_q3map2_cmdline" "-meta -v; -vis -fast -saveprt; -light -dark -cheapgrid -faster"
+"gridsize" "128 128 256"
+"blocksize" "2048 2048 2048"
+"classname" "worldspawn"
+}
+{
+"angle" "-90.000000"
+"origin" "16960.000000 -17248.000000 424.000000"
+"classname" "item_flag_team2"
+}
+{
+"angle" "89.999992"
+"origin" "3552.000000 -2184.000000 672.000000"
+"classname" "item_flag_team1"
+}
+{
+"origin" "3744.000000 -1288.000000 824.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "2256.000000 -2440.000000 768.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-90.000000"
+"origin" "6048.000000 -2080.000000 160.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-90.000000"
+"origin" "8216.000000 -1616.000000 200.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "2536.000000 -4584.000000 584.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-90.000000"
+"origin" "2496.000000 -7488.000000 544.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "90.000000"
+"origin" "16672.000000 -18280.000000 424.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "18320.000000 -17328.000000 640.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "18624.000000 -15360.000000 568.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "90.000000"
+"origin" "13216.000000 -18856.000000 240.000000"
+"classname" "info_player_team2"
+}
+{
+"spawnflags" "1"
+"origin" "9352.000000 -10320.000000 9688.000000"
+"classname" "item_strength"
+}
+{
+"spawnflags" "1"
+"origin" "8168.000000 -11832.000000 8312.000000"
+"classname" "weapon_minstanex"
+}
+{
+"spawnflags" "1"
+"origin" "8376.000000 -11000.000000 9552.000000"
+"classname" "item_health_mega"
+}
+{
+"spawnflags" "1"
+"origin" "8816.000000 -9616.000000 9456.000000"
+"classname" "item_armor_large"
+}
+{
+"spawnflags" "1"
+"origin" "7608.000000 -10288.000000 9424.000000"
+"classname" "weapon_nex"
+}
+{
+"angle" "90.000000"
+"origin" "8136.000000 -10552.000000 9720.000000"
+"classname" "vehicle_racer"
+}
+{
+"angle" "90.000000"
+"origin" "10072.000000 -10264.000000 9952.000000"
+"classname" "vehicle_racer"
+}
+{
+"team" "5"
+"angle" "-90.000000"
+"origin" "2896.000000 -3928.000000 728.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"team" "5"
+"angle" "-90.000000"
+"origin" "5184.000000 -512.000000 272.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"angle" "-90.000000"
+"origin" "9864.000000 -1224.000000 392.000000"
+"classname" "vehicle_tankll48"
+}
+{
+"team" "5"
+"origin" "4672.000000 -4088.000000 1440.000000"
+"classname" "vehicle_r22heli"
+}
+{
+"angle" "-90.000000"
+"team" "5"
+"origin" "1192.000000 -904.000000 112.000000"
+"classname" "vehicle_raptor"
+}
+{
+"angle" "-90.000000"
+"team" "5"
+"origin" "6960.000000 -5352.000000 440.000000"
+"classname" "vehicle_raptor"
+}
+{
+"angle" "-90.000000"
+"team" "5"
+"origin" "1960.000000 -6448.000000 640.000000"
+"classname" "vehicle_raptor"
+}
+{
+"angle" "-90.000000"
+"origin" "16184.000000 -6288.000000 176.000000"
+"classname" "vehicle_raptor"
+}
+{
+"origin" "7960.000000 -12304.000000 800.000000"
+"classname" "vehicle_raptor"
+}
+{
+"team" "14"
+"angle" "90.000000"
+"origin" "15064.000000 -19312.000000 112.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"team" "14"
+"angle" "-179.999985"
+"origin" "18656.000000 -14824.000000 584.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"team" "14"
+"angle" "-179.999985"
+"origin" "19504.000000 -19240.000000 136.000000"
+"classname" "vehicle_raptor"
+}
+{
+"team" "14"
+"angle" "-179.999985"
+"origin" "15992.000000 -14512.000000 392.000000"
+"classname" "vehicle_raptor"
+}
+{
+"team" "14"
+"angle" "90.000000"
+"origin" "14296.000000 -17232.000000 344.000000"
+"classname" "vehicle_r22heli"
+}
+{
+"team" "14"
+"angle" "-179.999985"
+"origin" "18416.000000 -11392.000000 648.000000"
+"classname" "vehicle_tankll48"
+}
+{
+"spawnflags" "1"
+"origin" "3248.000000 -1968.000000 992.000000"
+"classname" "item_armor_large"
+}
+{
+"origin" "4080.000000 -5360.000000 912.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"origin" "13096.000000 -1648.000000 480.000000"
+"classname" "weapon_flak"
+}
+{
+"angle" "-90.000000"
+"origin" "19200.000000 -640.000000 120.000000"
+"classname" "vehicle_tankll48"
+}
+{
+"origin" "18344.000000 -2720.000000 304.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"origin" "18688.000000 -7304.000000 240.000000"
+"classname" "weapon_uzi"
+}
+{
+"origin" "18440.000000 -13608.000000 760.000000"
+"classname" "weapon_crylink"
+}
+{
+"origin" "16088.000000 -16880.000000 392.000000"
+"classname" "weapon_minelayer"
+}
+{
+"spawnflags" "1"
+"origin" "17136.000000 -17560.000000 744.000000"
+"classname" "item_health_mega"
+}
+{
+"model" "*1"
+"team" "14"
+"target" "thesky_1"
+"noise" "map_mars/jeff.wav"
+"classname" "trigger_push"
+}
+{
+"model" "*2"
+"team" "5"
+"target" "thesky_2"
+"noise" "map_mars/jeff.wav"
+"classname" "trigger_push"
+}
+{
+"classname" "target_speaker"
+"spawnflags" "5"
+"noise" "map_mars/wind.wav"
+"origin" "9352.000000 -10320.000000 10000.000000"
+}	
+{
+"origin" "12280.000000 -16944.000000 568.000000"
+"classname" "item_armor_big"
+}
+{
+"origin" "7120.000000 -18400.000000 1376.000000"
+"classname" "weapon_electro"
+}
+{
+"origin" "1136.000000 -19136.000000 168.000000"
+"classname" "vehicle_tankll48"
+}
+{
+"origin" "552.000000 -16624.000000 152.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"origin" "2152.000000 -13360.000000 1584.000000"
+"classname" "item_jetpack"
+}
+{
+"origin" "12368.000000 -4760.000000 1544.000000"
+"classname" "item_jetpack"
+}
+{
+"origin" "16528.000000 -2112.000000 208.000000"
+"classname" "item_health_large"
+}
+{
+"origin" "10160.000000 -2632.000000 464.000000"
+"classname" "item_armor_big"
+}
+{
+"origin" "9488.000000 -7168.000000 608.000000"
+"classname" "weapon_fireball"
+}
+{
+"origin" "15032.000000 -16096.000000 248.000000"
+"classname" "item_health_medium"
+}
+{
+"model" "*1"
+"team" "14"
+"target" "thesky_1"
+"classname" "trigger_push"
+}
+{
+"targetname" "thesky_1"
+"origin" "10432.000000 -10976.000000 10040.000000"
+"classname" "target_position"
+}
+{
+"model" "*2"
+"team" "5"
+"target" "thesky_2"
+"classname" "trigger_push"
+}
+{
+"angle" "-179.999985"
+"targetname" "thesky_2"
+"origin" "8328.000000 -9632.000000 9640.000000"
+"classname" "target_position"
+}
+{
+"spawnflags" "1"
+"origin" "9600.000000 -11184.000000 9704.000000"
+"classname" "item_fuel_regen"
+}
+{
+"origin" "14384.000000 -5088.000000 480.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"origin" "11944.000000 -10664.000000 168.000000"
+"classname" "weapon_nex"
+}
+{
+"origin" "12640.000000 -15704.000000 736.000000"
+"classname" "weapon_nex"
+}
+{
+"team" "20"
+"cnt" "1"
+"origin" "13224.000000 -18952.000000 216.000000"
+"classname" "weapon_crylink"
+}
+{
+"team" "20"
+"cnt" "1"
+"origin" "13224.000000 -18952.000000 216.000000"
+"classname" "weapon_nex"
+}
+{
+"team" "20"
+"cnt" "1"
+"origin" "13224.000000 -18952.000000 216.000000"
+"classname" "weapon_electro"
+}
+{
+"team" "20"
+"cnt" "1"
+"origin" "13224.000000 -18952.000000 216.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"team" "20"
+"cnt" "1"
+"origin" "13224.000000 -18952.000000 216.000000"
+"classname" "weapon_flak"
+}
+{
+"team" "20"
+"cnt" "1"
+"origin" "13224.000000 -18952.000000 216.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"team" "20"
+"cnt" "1"
+"origin" "13224.000000 -18952.000000 216.000000"
+"classname" "weapon_hook"
+}
+{
+"team" "20"
+"cnt" "1"
+"origin" "13224.000000 -18952.000000 216.000000"
+"classname" "weapon_hagar"
+}
+{
+"team" "20"
+"cnt" "1"
+"origin" "13224.000000 -18952.000000 216.000000"
+"classname" "weapon_rifle"
+}
+{
+"team" "20"
+"cnt" "1"
+"origin" "13224.000000 -18952.000000 216.000000"
+"classname" "weapon_uzi"
+}
+{
+"team" "20"
+"cnt" "1"
+"origin" "13224.000000 -18952.000000 216.000000"
+"classname" "weapon_seeker"
+}
+{
+"team" "21"
+"cnt" "1"
+"origin" "16664.000000 -18384.000000 424.000000"
+"classname" "weapon_crylink"
+}
+{
+"team" "21"
+"cnt" "1"
+"origin" "16664.000000 -18384.000000 424.000000"
+"classname" "weapon_nex"
+}
+{
+"team" "21"
+"cnt" "1"
+"origin" "16664.000000 -18384.000000 424.000000"
+"classname" "weapon_electro"
+}
+{
+"team" "21"
+"cnt" "1"
+"origin" "16664.000000 -18384.000000 424.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"team" "21"
+"cnt" "1"
+"origin" "16664.000000 -18384.000000 424.000000"
+"classname" "weapon_flak"
+}
+{
+"team" "21"
+"cnt" "1"
+"origin" "16664.000000 -18384.000000 424.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"team" "21"
+"cnt" "1"
+"origin" "16664.000000 -18384.000000 424.000000"
+"classname" "weapon_hook"
+}
+{
+"team" "21"
+"cnt" "1"
+"origin" "16664.000000 -18384.000000 424.000000"
+"classname" "weapon_hagar"
+}
+{
+"team" "21"
+"cnt" "1"
+"origin" "16664.000000 -18384.000000 424.000000"
+"classname" "weapon_rifle"
+}
+{
+"team" "21"
+"cnt" "1"
+"origin" "16664.000000 -18384.000000 424.000000"
+"classname" "weapon_uzi"
+}
+{
+"team" "21"
+"cnt" "1"
+"origin" "16664.000000 -18384.000000 424.000000"
+"classname" "weapon_seeker"
+}
+{
+"team" "22"
+"cnt" "1"
+"origin" "18416.000000 -17336.000000 608.000000"
+"classname" "weapon_crylink"
+}
+{
+"team" "22"
+"cnt" "1"
+"origin" "18416.000000 -17336.000000 608.000000"
+"classname" "weapon_nex"
+}
+{
+"team" "22"
+"cnt" "1"
+"origin" "18416.000000 -17336.000000 608.000000"
+"classname" "weapon_electro"
+}
+{
+"team" "22"
+"cnt" "1"
+"origin" "18416.000000 -17336.000000 608.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"team" "22"
+"cnt" "1"
+"origin" "18416.000000 -17336.000000 608.000000"
+"classname" "weapon_flak"
+}
+{
+"team" "22"
+"cnt" "1"
+"origin" "18416.000000 -17336.000000 608.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"team" "22"
+"cnt" "1"
+"origin" "18416.000000 -17336.000000 608.000000"
+"classname" "weapon_hook"
+}
+{
+"team" "22"
+"cnt" "1"
+"origin" "18416.000000 -17336.000000 608.000000"
+"classname" "weapon_hagar"
+}
+{
+"team" "22"
+"cnt" "1"
+"origin" "18416.000000 -17336.000000 608.000000"
+"classname" "weapon_rifle"
+}
+{
+"team" "22"
+"cnt" "1"
+"origin" "18416.000000 -17336.000000 608.000000"
+"classname" "weapon_uzi"
+}
+{
+"team" "22"
+"cnt" "1"
+"origin" "18416.000000 -17336.000000 608.000000"
+"classname" "weapon_seeker"
+}
+{
+"team" "23"
+"cnt" "1"
+"origin" "18760.000000 -15376.000000 544.000000"
+"classname" "weapon_crylink"
+}
+{
+"team" "23"
+"cnt" "1"
+"origin" "18760.000000 -15376.000000 544.000000"
+"classname" "weapon_nex"
+}
+{
+"team" "23"
+"cnt" "1"
+"origin" "18760.000000 -15376.000000 544.000000"
+"classname" "weapon_electro"
+}
+{
+"team" "23"
+"cnt" "1"
+"origin" "18760.000000 -15376.000000 544.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"team" "23"
+"cnt" "1"
+"origin" "18760.000000 -15376.000000 544.000000"
+"classname" "weapon_flak"
+}
+{
+"team" "23"
+"cnt" "1"
+"origin" "18760.000000 -15376.000000 544.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"team" "23"
+"cnt" "1"
+"origin" "18760.000000 -15376.000000 544.000000"
+"classname" "weapon_hook"
+}
+{
+"team" "23"
+"cnt" "1"
+"origin" "18760.000000 -15376.000000 544.000000"
+"classname" "weapon_hagar"
+}
+{
+"team" "23"
+"cnt" "1"
+"origin" "18760.000000 -15376.000000 544.000000"
+"classname" "weapon_rifle"
+}
+{
+"team" "23"
+"cnt" "1"
+"origin" "18760.000000 -15376.000000 544.000000"
+"classname" "weapon_uzi"
+}
+{
+"team" "23"
+"cnt" "1"
+"origin" "18760.000000 -15376.000000 544.000000"
+"classname" "weapon_seeker"
+}
+{
+"team" "24"
+"cnt" "1"
+"origin" "8256.000000 -1504.000000 144.000000"
+"classname" "weapon_crylink"
+}
+{
+"team" "24"
+"cnt" "1"
+"origin" "8256.000000 -1504.000000 144.000000"
+"classname" "weapon_nex"
+}
+{
+"team" "24"
+"cnt" "1"
+"origin" "8256.000000 -1504.000000 144.000000"
+"classname" "weapon_electro"
+}
+{
+"team" "24"
+"cnt" "1"
+"origin" "8256.000000 -1504.000000 144.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"team" "24"
+"cnt" "1"
+"origin" "8256.000000 -1504.000000 144.000000"
+"classname" "weapon_flak"
+}
+{
+"team" "24"
+"cnt" "1"
+"origin" "8256.000000 -1504.000000 144.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"team" "24"
+"cnt" "1"
+"origin" "8256.000000 -1504.000000 144.000000"
+"classname" "weapon_hook"
+}
+{
+"team" "24"
+"cnt" "1"
+"origin" "8256.000000 -1504.000000 144.000000"
+"classname" "weapon_hagar"
+}
+{
+"team" "24"
+"cnt" "1"
+"origin" "8256.000000 -1504.000000 144.000000"
+"classname" "weapon_rifle"
+}
+{
+"team" "24"
+"cnt" "1"
+"origin" "8256.000000 -1504.000000 144.000000"
+"classname" "weapon_uzi"
+}
+{
+"team" "24"
+"cnt" "1"
+"origin" "8256.000000 -1504.000000 144.000000"
+"classname" "weapon_seeker"
+}
+{
+"team" "25"
+"cnt" "1"
+"origin" "6048.000000 -1968.000000 136.000000"
+"classname" "weapon_crylink"
+}
+{
+"team" "25"
+"cnt" "1"
+"origin" "6048.000000 -1968.000000 136.000000"
+"classname" "weapon_nex"
+}
+{
+"team" "25"
+"cnt" "1"
+"origin" "6048.000000 -1968.000000 136.000000"
+"classname" "weapon_electro"
+}
+{
+"team" "25"
+"cnt" "1"
+"origin" "6048.000000 -1968.000000 136.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"team" "25"
+"cnt" "1"
+"origin" "6048.000000 -1968.000000 136.000000"
+"classname" "weapon_flak"
+}
+{
+"team" "25"
+"cnt" "1"
+"origin" "6048.000000 -1968.000000 136.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"team" "25"
+"cnt" "1"
+"origin" "6048.000000 -1968.000000 136.000000"
+"classname" "weapon_hook"
+}
+{
+"team" "25"
+"cnt" "1"
+"origin" "6048.000000 -1968.000000 136.000000"
+"classname" "weapon_hagar"
+}
+{
+"team" "25"
+"cnt" "1"
+"origin" "6048.000000 -1968.000000 136.000000"
+"classname" "weapon_rifle"
+}
+{
+"team" "25"
+"cnt" "1"
+"origin" "6048.000000 -1968.000000 136.000000"
+"classname" "weapon_uzi"
+}
+{
+"team" "25"
+"cnt" "1"
+"origin" "6048.000000 -1968.000000 136.000000"
+"classname" "weapon_seeker"
+}
+{
+"team" "26"
+"cnt" "1"
+"origin" "3648.000000 -1288.000000 808.000000"
+"classname" "weapon_crylink"
+}
+{
+"team" "26"
+"cnt" "1"
+"origin" "3648.000000 -1288.000000 808.000000"
+"classname" "weapon_nex"
+}
+{
+"team" "26"
+"cnt" "1"
+"origin" "3648.000000 -1288.000000 808.000000"
+"classname" "weapon_electro"
+}
+{
+"team" "26"
+"cnt" "1"
+"origin" "3648.000000 -1288.000000 808.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"team" "26"
+"cnt" "1"
+"origin" "3648.000000 -1288.000000 808.000000"
+"classname" "weapon_flak"
+}
+{
+"team" "26"
+"cnt" "1"
+"origin" "3648.000000 -1288.000000 808.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"team" "26"
+"cnt" "1"
+"origin" "3648.000000 -1288.000000 808.000000"
+"classname" "weapon_hook"
+}
+{
+"team" "26"
+"cnt" "1"
+"origin" "3648.000000 -1288.000000 808.000000"
+"classname" "weapon_hagar"
+}
+{
+"team" "26"
+"cnt" "1"
+"origin" "3648.000000 -1288.000000 808.000000"
+"classname" "weapon_rifle"
+}
+{
+"team" "26"
+"cnt" "1"
+"origin" "3648.000000 -1288.000000 808.000000"
+"classname" "weapon_uzi"
+}
+{
+"team" "26"
+"cnt" "1"
+"origin" "3648.000000 -1288.000000 808.000000"
+"classname" "weapon_seeker"
+}
+{
+"spawnflags" "1"
+"team" "27"
+"cnt" "1"
+"origin" "2144.000000 -2456.000000 664.000000"
+"classname" "weapon_crylink"
+}
+{
+"spawnflags" "1"
+"team" "27"
+"cnt" "1"
+"origin" "2144.000000 -2456.000000 664.000000"
+"classname" "weapon_nex"
+}
+{
+"spawnflags" "1"
+"team" "27"
+"cnt" "1"
+"origin" "2144.000000 -2456.000000 664.000000"
+"classname" "weapon_electro"
+}
+{
+"spawnflags" "1"
+"team" "27"
+"cnt" "1"
+"origin" "2144.000000 -2456.000000 664.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"spawnflags" "1"
+"team" "27"
+"cnt" "1"
+"origin" "2144.000000 -2456.000000 664.000000"
+"classname" "weapon_flak"
+}
+{
+"spawnflags" "1"
+"team" "27"
+"cnt" "1"
+"origin" "2144.000000 -2456.000000 664.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"spawnflags" "1"
+"team" "27"
+"cnt" "1"
+"origin" "2144.000000 -2456.000000 664.000000"
+"classname" "weapon_hook"
+}
+{
+"spawnflags" "1"
+"team" "27"
+"cnt" "1"
+"origin" "2144.000000 -2456.000000 664.000000"
+"classname" "weapon_hagar"
+}
+{
+"spawnflags" "1"
+"team" "27"
+"cnt" "1"
+"origin" "2144.000000 -2456.000000 664.000000"
+"classname" "weapon_rifle"
+}
+{
+"spawnflags" "1"
+"team" "27"
+"cnt" "1"
+"origin" "2144.000000 -2456.000000 664.000000"
+"classname" "weapon_uzi"
+}
+{
+"spawnflags" "1"
+"team" "27"
+"cnt" "1"
+"origin" "2144.000000 -2456.000000 664.000000"
+"classname" "weapon_seeker"
+}
+{
+"spawnflags" "1"
+"team" "28"
+"cnt" "1"
+"origin" "2416.000000 -4584.000000 568.000000"
+"classname" "weapon_crylink"
+}
+{
+"spawnflags" "1"
+"team" "28"
+"cnt" "1"
+"origin" "2416.000000 -4584.000000 568.000000"
+"classname" "weapon_nex"
+}
+{
+"spawnflags" "1"
+"team" "28"
+"cnt" "1"
+"origin" "2416.000000 -4584.000000 568.000000"
+"classname" "weapon_electro"
+}
+{
+"spawnflags" "1"
+"team" "28"
+"cnt" "1"
+"origin" "2416.000000 -4584.000000 568.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"spawnflags" "1"
+"team" "28"
+"cnt" "1"
+"origin" "2416.000000 -4584.000000 568.000000"
+"classname" "weapon_flak"
+}
+{
+"spawnflags" "1"
+"team" "28"
+"cnt" "1"
+"origin" "2416.000000 -4584.000000 568.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"spawnflags" "1"
+"team" "28"
+"cnt" "1"
+"origin" "2416.000000 -4584.000000 568.000000"
+"classname" "weapon_hook"
+}
+{
+"spawnflags" "1"
+"team" "28"
+"cnt" "1"
+"origin" "2416.000000 -4584.000000 568.000000"
+"classname" "weapon_hagar"
+}
+{
+"spawnflags" "1"
+"team" "28"
+"cnt" "1"
+"origin" "2416.000000 -4584.000000 568.000000"
+"classname" "weapon_rifle"
+}
+{
+"spawnflags" "1"
+"team" "28"
+"cnt" "1"
+"origin" "2416.000000 -4584.000000 568.000000"
+"classname" "weapon_uzi"
+}
+{
+"spawnflags" "1"
+"team" "28"
+"cnt" "1"
+"origin" "2416.000000 -4584.000000 568.000000"
+"classname" "weapon_seeker"
+}
+{
+"spawnflags" "1"
+"team" "29"
+"cnt" "1"
+"origin" "2488.000000 -7376.000000 496.000000"
+"classname" "weapon_crylink"
+}
+{
+"spawnflags" "1"
+"team" "29"
+"cnt" "1"
+"origin" "2488.000000 -7376.000000 496.000000"
+"classname" "weapon_nex"
+}
+{
+"spawnflags" "1"
+"team" "29"
+"cnt" "1"
+"origin" "2488.000000 -7376.000000 496.000000"
+"classname" "weapon_electro"
+}
+{
+"spawnflags" "1"
+"team" "29"
+"cnt" "1"
+"origin" "2488.000000 -7376.000000 496.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"spawnflags" "1"
+"team" "29"
+"cnt" "1"
+"origin" "2488.000000 -7376.000000 496.000000"
+"classname" "weapon_flak"
+}
+{
+"spawnflags" "1"
+"team" "29"
+"cnt" "1"
+"origin" "2488.000000 -7376.000000 496.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"spawnflags" "1"
+"team" "29"
+"cnt" "1"
+"origin" "2488.000000 -7376.000000 496.000000"
+"classname" "weapon_hook"
+}
+{
+"spawnflags" "1"
+"team" "29"
+"cnt" "1"
+"origin" "2488.000000 -7376.000000 496.000000"
+"classname" "weapon_hagar"
+}
+{
+"spawnflags" "1"
+"team" "29"
+"cnt" "1"
+"origin" "2488.000000 -7376.000000 496.000000"
+"classname" "weapon_rifle"
+}
+{
+"spawnflags" "1"
+"team" "29"
+"cnt" "1"
+"origin" "2488.000000 -7376.000000 496.000000"
+"classname" "weapon_uzi"
+}
+{
+"spawnflags" "1"
+"team" "29"
+"cnt" "1"
+"origin" "2488.000000 -7376.000000 496.000000"
+"classname" "weapon_seeker"
+}
+{
+"angle" "90.000000"
+"origin" "10920.000000 -13240.000000 384.000000"
+"classname" "vehicle_racer"
+}
+{
+"angle" "90.000000"
+"team" "14"
+"turret_scale_health" "0.5"
+"target" "cp11"
+"origin" "16960.000000 -15248.000000 624.000000"
+"classname" "turret_walker"
+}
+{
+"angle" "99.000000"
+"team" "14"
+"turret_scale_health" "0.5"
+"target" "cp11"
+"origin" "15064.000000 -10012.000000 412.000000"
+"classname" "turret_walker"
+}
+{
+"angle" "-89.999992"
+"team" "5"
+"turret_scale_health" "0.5"
+"target" "cp11"
+"origin" "3552.000000 -3184.000000 972.000000"
+"classname" "turret_walker"
+}
+{
+"angle" "-99.999992"
+"team" "5"
+"turret_scale_health" "0.5"
+"target" "cp11"
+"origin" "2896.000000 -8928.000000 728.000000"
+"classname" "turret_walker"
+}
+

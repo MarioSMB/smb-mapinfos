@@ -1,0 +1,21 @@
+title capturecity_xon_r2
+description City map for CTF
+author Rudolf Polzer / Fail mod by Mario
+cdtrack 0
+has vehicles
+has weapons
+gametype ctf
+gametype dm
+gametype tdm
+gametype ft
+gametype lms
+gametype ka
+gametype kh
+gametype ca
+gametype arena
+
+
+
+
+
+

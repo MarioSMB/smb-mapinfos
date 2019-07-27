@@ -5,4 +5,3 @@ cdtrack 14
 has weapons
 gametype ctf
 
-settemp_for_type all _nexuiz_mode 0

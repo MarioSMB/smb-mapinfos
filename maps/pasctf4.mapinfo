@@ -1,0 +1,8 @@
+title Passive CTF 4
+description Who knows
+author some Quake 3 noob
+cdtrack 10
+has weapons
+gametype ctf
+settemp_for_type ctf g_ctf_oneflag 1
+settemp_for_type ctf g_ctf_oneflag_reverse 1

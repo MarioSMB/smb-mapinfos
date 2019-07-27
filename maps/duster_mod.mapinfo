@@ -1,0 +1,14 @@
+title Duster modded
+description Visit an old friend!
+author SavageX, Mario, Jeff
+cdtrack 3
+has weapons
+has vehicles
+gametype ctf 
+
+
+
+
+settemp_for_type all g_monster_spider_attack_bite_damage 5
+
+

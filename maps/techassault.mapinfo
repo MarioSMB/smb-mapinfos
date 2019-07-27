@@ -1,0 +1,9 @@
+title Techassault
+description A medium-sized assault map
+author SavageX, Cortez
+has weapons
+hidden
+gametype as
+cdtrack 13
+size -5800 -3500 -2048 7000 3500 1536
+// optional: hidden

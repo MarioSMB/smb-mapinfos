@@ -1,0 +1,13 @@
+title Battle 4 Mofocity
+description Mofofied by Dead Dred
+author Morphed / Mod: Dead Dred
+_spawnpoints 20
+has weapons
+has vehicles
+gametype ctf
+gametype dm
+gametype tdm
+gametype ft
+gametype kh
+gametype lms
+gametype arena

@@ -1,0 +1,8 @@
+title 4D Nex Driving Stunts
+description A track converted from a well-known racing game
+author conversion by divVerent
+cdtrack stunts-theme
+gametype rc
+settemp_for_type all #include physicsXDF.cfg
+clientsettemp_for_type all cl_teamradar 2
+

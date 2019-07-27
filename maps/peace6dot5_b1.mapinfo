@@ -4,7 +4,6 @@ author Some Peacebrothers
 has weapons
 gametype dm
 hidden
-noautomaplist
 settemp_for_type all mod_collision_bih 0
 settemp_for_type all mod_recalculatenodeboxes 0
 clientsettemp_for_type all mod_collision_bih 0

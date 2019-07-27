@@ -1,0 +1,2202 @@
+{
+"gridsize" "96 80 144"
+"_q3map2_version" "2.5.17n-git-c51c744"
+"_q3map2_cmdline" "-meta -keepLights -v -maxarea -samplesize 8 -mv 1000000 -mi 6000000; -vis -saveprt; -light -lightmapsize 1024 -lightmapsearchpower 4 -deluxe -patchshadows -randomsamples -samples 4 -fast -fastbounce -dirty -bouncegrid -fill"
+"_blocksize" "5120"
+"classname" "worldspawn"
+}
+{
+"angle" "-179.999985"
+"origin" "1664.000000 2432.000000 320.000000"
+"classname" "info_player_deathmatch"
+}
+{
+"model" "*1"
+"targetname" "trigger_warpzone1"
+"classname" "trigger_warpzone"
+}
+{
+"model" "*2"
+"target" "target_position2"
+"classname" "trigger_teleport"
+}
+{
+"model" "*3"
+"target" "target_position1"
+"classname" "trigger_teleport"
+}
+{
+"model" "*4"
+"target" "trigger_warpzone1"
+"classname" "trigger_warpzone"
+}
+{
+"model" "*5"
+"target" "target_position3"
+"classname" "trigger_push"
+}
+{
+"angle" "90.000000"
+"targetname" "target_position3"
+"origin" "1536.000000 6128.000000 1088.000000"
+"classname" "target_position"
+}
+{
+"classname" "func_ladder"
+}
+{
+"model" "*6"
+"classname" "func_ladder"
+}
+{
+"origin" "768.000000 2048.000000 320.000000"
+"classname" "item_health_mega"
+}
+{
+"origin" "1088.000000 2240.000000 -320.000000"
+"classname" "item_armor_large"
+}
+{
+"angle" "89.999992"
+"origin" "2944.000000 1088.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "4032.000000 1152.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "4032.000000 1024.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "89.999992"
+"origin" "3072.000000 1088.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "4096.000000 1088.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "3712.000000 704.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "3648.000000 768.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3776.000000 896.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3712.000000 832.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3776.000000 768.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "3648.000000 640.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "3904.000000 896.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "3840.000000 960.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3968.000000 1088.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3904.000000 1024.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3968.000000 960.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "3840.000000 832.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "4160.000000 1152.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "4096.000000 1216.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "4224.000000 1216.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "89.999992"
+"origin" "3520.000000 1536.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "89.999992"
+"origin" "3520.000000 1664.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "89.999992"
+"origin" "3456.000000 1472.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "89.999992"
+"origin" "3456.000000 1600.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "89.999992"
+"origin" "3392.000000 1408.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "89.999992"
+"origin" "3392.000000 1536.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "89.999992"
+"origin" "3328.000000 1344.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "89.999992"
+"origin" "3328.000000 1472.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "89.999992"
+"origin" "3264.000000 1280.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "89.999992"
+"origin" "3264.000000 1408.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "89.999992"
+"origin" "3200.000000 1216.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "89.999992"
+"origin" "3200.000000 1344.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "89.999992"
+"origin" "3136.000000 1152.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "89.999992"
+"origin" "3136.000000 1280.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "89.999992"
+"origin" "3072.000000 1216.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "89.999992"
+"origin" "3008.000000 1152.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "2560.000000 3072.000000 32.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"origin" "2464.000000 3072.000000 32.000000"
+"classname" "item_rockets"
+}
+{
+"origin" "2656.000000 3072.000000 32.000000"
+"classname" "item_rockets"
+}
+{
+"origin" "384.000000 1344.000000 -256.000000"
+"classname" "weapon_uzi"
+}
+{
+"origin" "384.000000 1408.000000 -256.000000"
+"classname" "item_bullets"
+}
+{
+"origin" "384.000000 1280.000000 -256.000000"
+"classname" "item_bullets"
+}
+{
+"origin" "3104.000000 800.000000 0.000000"
+"classname" "weapon_hagar"
+}
+{
+"origin" "2048.000000 2048.000000 -256.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "768.000000 1536.000000 -256.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "5120.000000 8832.000000 576.000000"
+"classname" "item_armor_big"
+}
+{
+"angle" "-179.999985"
+"origin" "4608.000000 8832.000000 576.000000"
+"classname" "item_health_large"
+}
+{
+"targetname" "target_position10"
+"angle" "-90.000000"
+"origin" "2560.000000 6912.000000 256.000000"
+"classname" "target_position"
+}
+{
+"model" "*7"
+"target" "target_position10"
+"classname" "trigger_push"
+}
+{
+"targetname" "target_position11"
+"angle" "90.000000"
+"origin" "5120.000000 5632.000000 352.000000"
+"classname" "target_position"
+}
+{
+"model" "*8"
+"target" "target_position11"
+"classname" "trigger_push"
+}
+{
+"targetname" "target_position12"
+"origin" "3328.000000 128.000000 704.000000"
+"classname" "target_position"
+}
+{
+"model" "*9"
+"target" "target_position12"
+"classname" "trigger_push"
+}
+{
+"origin" "3136.000000 672.000000 320.000000"
+"classname" "weapon_electro"
+}
+{
+"origin" "3136.000000 576.000000 320.000000"
+"classname" "item_cells"
+}
+{
+"origin" "4128.000000 0.000000 352.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "3808.000000 64.000000 128.000000"
+"classname" "item_armor_medium"
+}
+{
+"origin" "3712.000000 -512.000000 -96.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "2592.000000 -672.000000 -512.000000"
+"classname" "item_armor_big"
+}
+{
+"angle" "-179.999985"
+"origin" "288.000000 1984.000000 -352.000000"
+"classname" "weapon_crylink"
+}
+{
+"origin" "288.000000 2112.000000 -352.000000"
+"classname" "item_cells"
+}
+{
+"origin" "288.000000 1856.000000 -352.000000"
+"classname" "item_cells"
+}
+{
+"origin" "1088.000000 896.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "1152.000000 832.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "1152.000000 896.000000 -384.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-90.000000"
+"origin" "3520.000000 -256.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "3456.000000 -320.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "3520.000000 -320.000000 -384.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "4224.000000 1664.000000 32.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"origin" "4224.000000 1408.000000 32.000000"
+"classname" "item_rockets"
+}
+{
+"origin" "4224.000000 2048.000000 32.000000"
+"classname" "item_rockets"
+}
+{
+"model" "*10"
+"target" "target_position16"
+"classname" "trigger_push"
+}
+{
+"targetname" "target_position16"
+"angle" "90.000000"
+"origin" "896.000000 3488.000000 640.000000"
+"classname" "target_position"
+}
+{
+"origin" "4352.000000 2176.000000 -320.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "4480.000000 1664.000000 -320.000000"
+"classname" "weapon_uzi"
+}
+{
+"origin" "4480.000000 1728.000000 -320.000000"
+"classname" "item_bullets"
+}
+{
+"origin" "4480.000000 1600.000000 -320.000000"
+"classname" "item_bullets"
+}
+{
+"origin" "1792.000000 128.000000 -320.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "2048.000000 128.000000 -320.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "1920.000000 128.000000 -320.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "2176.000000 128.000000 -320.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "2304.000000 128.000000 -320.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "1920.000000 3200.000000 -384.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "1856.000000 3200.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "1920.000000 3264.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "3072.000000 1536.000000 832.000000"
+"classname" "weapon_nex"
+}
+{
+"spawnflags" "1"
+"origin" "2560.000000 4096.000000 992.000000"
+"classname" "item_cells"
+}
+{
+"model" "*11"
+"classname" "func_ladder"
+}
+{
+"origin" "4128.000000 -448.000000 608.000000"
+"classname" "item_armor_medium"
+}
+{
+"origin" "4416.000000 640.000000 608.000000"
+"classname" "weapon_nex"
+}
+{
+"origin" "2432.000000 1536.000000 1120.000000"
+"classname" "item_armor_big"
+}
+{
+"model" "*12"
+"target" "target_position17"
+"classname" "trigger_push"
+}
+{
+"targetname" "target_position17"
+"angle" "90.000000"
+"origin" "2304.000000 2240.000000 1280.000000"
+"classname" "target_position"
+}
+{
+"origin" "3840.000000 1664.000000 0.000000"
+"classname" "item_cells"
+}
+{
+"origin" "2560.000000 2624.000000 192.000000"
+"classname" "weapon_crylink"
+}
+{
+"origin" "1280.000000 7232.000000 160.000000"
+"classname" "item_rockets"
+}
+{
+"origin" "1440.000000 7232.000000 144.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"origin" "1600.000000 7232.000000 160.000000"
+"classname" "item_rockets"
+}
+{
+"origin" "3776.000000 5696.000000 128.000000"
+"classname" "item_rockets"
+}
+{
+"origin" "3456.000000 5696.000000 128.000000"
+"classname" "item_rockets"
+}
+{
+"origin" "3616.000000 5696.000000 96.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"origin" "3616.000000 5952.000000 288.000000"
+"classname" "item_armor_medium"
+}
+{
+"origin" "1440.000000 7488.000000 288.000000"
+"classname" "item_armor_medium"
+}
+{
+"origin" "2560.000000 8832.000000 576.000000"
+"classname" "item_armor_big"
+}
+{
+"origin" "3072.000000 8832.000000 576.000000"
+"classname" "item_health_large"
+}
+{
+"origin" "1056.000000 2592.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "864.000000 1760.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "576.000000 1760.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "672.000000 1760.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "960.000000 1760.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "768.000000 1760.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "1056.000000 1760.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "1056.000000 1888.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "1056.000000 2464.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "1056.000000 2176.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "90.000000"
+"origin" "480.000000 1760.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "1056.000000 2048.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "1056.000000 2304.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "90.000000"
+"origin" "480.000000 2464.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "768.000000 2592.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "960.000000 2592.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "864.000000 2592.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "576.000000 2592.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "90.000000"
+"origin" "480.000000 1888.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "672.000000 2592.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "90.000000"
+"origin" "480.000000 2176.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "480.000000 2592.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "90.000000"
+"origin" "480.000000 2048.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "90.000000"
+"origin" "480.000000 2304.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"model" "*13"
+"dmg" "1000"
+"classname" "trigger_hurt"
+}
+{
+"team" "5"
+"angle" "45.000008"
+"origin" "4064.000000 741.490295 -320.000000"
+"classname" "vehicle_racer"
+}
+{
+"origin" "2432.000000 896.000000 64.000000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "90.000008"
+"origin" "2880.000000 1536.000000 896.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "1920.000000 896.000000 64.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-179.999985"
+"origin" "1408.000000 2432.000000 320.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "0.000009"
+"origin" "768.000000 2944.000000 320.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "0.000003"
+"origin" "2112.000000 2624.000000 256.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "90.000000"
+"origin" "3328.000000 2432.000000 256.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-179.999985"
+"origin" "1536.000000 3328.000000 -128.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-179.999985"
+"origin" "3328.000000 -320.000000 -128.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "-179.999985"
+"origin" "2816.000000 1216.000000 768.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "1440.000000 416.000000 32.000000"
+"classname" "item_flag_team1"
+}
+{
+"origin" "3360.000000 640.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "4128.000000 640.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "4032.000000 640.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3936.000000 640.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3840.000000 640.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3744.000000 640.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3648.000000 640.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3552.000000 640.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3456.000000 640.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"team" "5"
+"angle" "90.000000"
+"origin" "2944.000000 3456.000000 576.000000"
+"classname" "turret_plasma"
+}
+{
+"team" "5"
+"angle" "90.000000"
+"origin" "2144.000000 3456.000000 576.000000"
+"classname" "turret_plasma"
+}
+{
+"origin" "3200.000000 3456.000000 -352.000000"
+"classname" "weapon_hagar"
+}
+{
+"origin" "2112.000000 2368.000000 256.000000"
+"classname" "item_armor_medium"
+}
+{
+"spawnflags" "1"
+"origin" "2560.000000 2368.000000 768.000000"
+"classname" "item_health_small"
+}
+{
+"spawnflags" "1"
+"origin" "2560.000000 2368.000000 320.000000"
+"classname" "item_health_small"
+}
+{
+"spawnflags" "1"
+"origin" "2560.000000 2368.000000 384.000000"
+"classname" "item_health_small"
+}
+{
+"spawnflags" "1"
+"origin" "2560.000000 2368.000000 448.000000"
+"classname" "item_health_small"
+}
+{
+"spawnflags" "1"
+"origin" "2560.000000 2368.000000 512.000000"
+"classname" "item_health_small"
+}
+{
+"spawnflags" "1"
+"origin" "2560.000000 2368.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"spawnflags" "1"
+"origin" "2560.000000 2368.000000 640.000000"
+"classname" "item_health_small"
+}
+{
+"spawnflags" "1"
+"origin" "2560.000000 2368.000000 704.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "4224.000000 2048.000000 320.000000"
+"classname" "item_armor_medium"
+}
+{
+"origin" "3904.000000 -512.000000 352.000000"
+"classname" "item_bullets"
+}
+{
+"origin" "2720.000000 -736.000000 -352.000000"
+"classname" "item_rockets"
+}
+{
+"origin" "2528.000000 -544.000000 -352.000000"
+"classname" "item_cells"
+}
+{
+"origin" "4448.000000 256.000000 -352.000000"
+"classname" "item_health_large"
+}
+{
+"team" "5"
+"angle" "-90.000000"
+"origin" "5632.000000 8704.000000 640.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"angle" "-90.000000"
+"origin" "1440.000000 7040.000000 640.000000"
+"classname" "info_player_team1"
+}
+{
+"origin" "3840.000000 8576.000000 640.000000"
+"classname" "weapon_hlac"
+}
+{
+"angle" "-90.000000"
+"origin" "3904.000000 256.000000 -384.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-90.000000"
+"origin" "3840.000000 256.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "3904.000000 320.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "179.999985"
+"origin" "2208.000000 3680.000000 0.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "179.999985"
+"origin" "2208.000000 3744.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "179.999985"
+"origin" "2144.000000 3680.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "179.999985"
+"origin" "2912.000000 3744.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "179.999985"
+"origin" "2976.000000 3680.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "179.999985"
+"origin" "2912.000000 3680.000000 0.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "3008.000000 3520.000000 128.000000"
+"classname" "item_armor_medium"
+}
+{
+"origin" "2112.000000 3520.000000 128.000000"
+"classname" "item_armor_medium"
+}
+{
+"targetname" "target_position1"
+"origin" "2624.000000 1536.000000 896.000000"
+"classname" "target_position"
+}
+{
+"targetname" "target_position2"
+"angle" "-45.000008"
+"origin" "704.000000 2624.000000 -256.000000"
+"classname" "target_position"
+}
+{
+"angle" "-179.999985"
+"spawnflags" "1"
+"origin" "3840.000000 9216.000000 1120.000000"
+"classname" "item_strength"
+}
+{
+"angle" "-179.999985"
+"spawnflags" "1"
+"origin" "3840.000000 9216.000000 96.000000"
+"classname" "item_invincible"
+}
+{
+"model" "*14"
+"classname" "func_ladder"
+}
+{
+"origin" "2400.000000 -128.000000 -352.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"origin" "3264.000000 640.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "2048.000000 -128.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "2816.000000 -128.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "2720.000000 -128.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "2624.000000 -128.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "2528.000000 -128.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "2432.000000 -128.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "2336.000000 -128.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "2240.000000 -128.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "2144.000000 -128.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"origin" "2432.000000 -128.000000 352.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "2048.000000 256.000000 320.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"origin" "3136.000000 192.000000 320.000000"
+"classname" "item_rockets"
+}
+{
+"origin" "3008.000000 2624.000000 192.000000"
+"classname" "item_cells"
+}
+{
+"origin" "3472.000000 2912.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3536.000000 2848.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3152.000000 3232.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3088.000000 3296.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3216.000000 3168.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3344.000000 3040.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3280.000000 3104.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "3408.000000 2976.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"origin" "2560.000000 3200.000000 192.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "1664.000000 896.000000 192.000000"
+"classname" "item_health_medium"
+}
+{
+"origin" "2432.000000 640.000000 192.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "0.000016"
+"origin" "6016.000000 16000.000000 320.000000"
+"classname" "info_player_deathmatch"
+}
+{
+"model" "*15"
+"targetname" "trigger_warpzone2"
+"classname" "trigger_warpzone"
+}
+{
+"model" "*16"
+"target" "target_position13"
+"classname" "trigger_teleport"
+}
+{
+"model" "*17"
+"target" "target_position4"
+"classname" "trigger_teleport"
+}
+{
+"model" "*18"
+"target" "trigger_warpzone2"
+"classname" "trigger_warpzone"
+}
+{
+"model" "*19"
+"target" "target_position14"
+"classname" "trigger_push"
+}
+{
+"angle" "-90.000000"
+"targetname" "target_position14"
+"origin" "6144.000000 12304.000000 1088.000000"
+"classname" "target_position"
+}
+{
+"model" "*20"
+"classname" "func_ladder"
+}
+{
+"angle" "-179.999985"
+"origin" "6912.000000 16384.000000 320.000000"
+"classname" "item_health_mega"
+}
+{
+"angle" "-179.999985"
+"origin" "6592.000000 16192.000000 -320.000000"
+"classname" "item_armor_large"
+}
+{
+"angle" "-90.000000"
+"origin" "4736.000000 17344.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3648.000000 17280.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3648.000000 17408.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4608.000000 17344.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3584.000000 17344.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3968.000000 17728.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4032.000000 17664.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3904.000000 17536.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3968.000000 17600.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3904.000000 17664.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4032.000000 17792.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3776.000000 17536.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3840.000000 17472.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3712.000000 17344.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3776.000000 17408.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3712.000000 17472.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3840.000000 17600.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3520.000000 17280.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3584.000000 17216.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3456.000000 17216.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4160.000000 16896.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4160.000000 16768.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4224.000000 16960.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4224.000000 16832.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4288.000000 17024.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4288.000000 16896.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4352.000000 17088.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4352.000000 16960.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4416.000000 17152.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4416.000000 17024.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4480.000000 17216.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4480.000000 17088.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4544.000000 17280.000000 0.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4544.000000 17152.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4608.000000 17216.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "4672.000000 17280.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5120.000000 15360.000000 32.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"angle" "-179.999985"
+"origin" "5216.000000 15360.000000 32.000000"
+"classname" "item_rockets"
+}
+{
+"angle" "-179.999985"
+"origin" "5024.000000 15360.000000 32.000000"
+"classname" "item_rockets"
+}
+{
+"angle" "-179.999985"
+"origin" "7296.000000 17088.000000 -256.000000"
+"classname" "weapon_uzi"
+}
+{
+"angle" "-179.999985"
+"origin" "7296.000000 17024.000000 -256.000000"
+"classname" "item_bullets"
+}
+{
+"angle" "-179.999985"
+"origin" "7296.000000 17152.000000 -256.000000"
+"classname" "item_bullets"
+}
+{
+"angle" "-179.999985"
+"origin" "4576.000000 17632.000000 0.000000"
+"classname" "weapon_hagar"
+}
+{
+"angle" "-179.999985"
+"origin" "5632.000000 16384.000000 -256.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "6912.000000 16896.000000 -256.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "0.000016"
+"origin" "2560.000000 9600.000000 576.000000"
+"classname" "item_armor_big"
+}
+{
+"angle" "0.000016"
+"origin" "3072.000000 9600.000000 576.000000"
+"classname" "item_health_large"
+}
+{
+"targetname" "target_position5"
+"angle" "90.000000"
+"origin" "5120.000000 11520.000000 256.000000"
+"classname" "target_position"
+}
+{
+"model" "*21"
+"target" "target_position5"
+"classname" "trigger_push"
+}
+{
+"targetname" "target_position6"
+"angle" "-90.000000"
+"origin" "2560.000000 12800.000000 352.000000"
+"classname" "target_position"
+}
+{
+"model" "*22"
+"target" "target_position6"
+"classname" "trigger_push"
+}
+{
+"angle" "-179.999985"
+"targetname" "target_position7"
+"origin" "4352.000000 18304.000000 704.000000"
+"classname" "target_position"
+}
+{
+"model" "*23"
+"target" "target_position7"
+"classname" "trigger_push"
+}
+{
+"angle" "-179.999985"
+"origin" "4544.000000 17760.000000 320.000000"
+"classname" "weapon_electro"
+}
+{
+"angle" "-179.999985"
+"origin" "4544.000000 17856.000000 320.000000"
+"classname" "item_cells"
+}
+{
+"angle" "-179.999985"
+"origin" "3552.000000 18432.000000 352.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "3872.000000 18368.000000 128.000000"
+"classname" "item_armor_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "3968.000000 18944.000000 -96.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "5088.000000 19104.000000 -512.000000"
+"classname" "item_armor_big"
+}
+{
+"angle" "0.000016"
+"origin" "7392.000000 16448.000000 -352.000000"
+"classname" "weapon_crylink"
+}
+{
+"angle" "-179.999985"
+"origin" "7392.000000 16320.000000 -352.000000"
+"classname" "item_cells"
+}
+{
+"angle" "-179.999985"
+"origin" "7392.000000 16576.000000 -352.000000"
+"classname" "item_cells"
+}
+{
+"angle" "-179.999985"
+"origin" "6592.000000 17536.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "6528.000000 17600.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "6528.000000 17536.000000 -384.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "90.000000"
+"origin" "4160.000000 18688.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "90.000000"
+"origin" "4224.000000 18752.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "90.000000"
+"origin" "4160.000000 18752.000000 -384.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "3456.000000 16768.000000 32.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"angle" "-179.999985"
+"origin" "3456.000000 17024.000000 32.000000"
+"classname" "item_rockets"
+}
+{
+"angle" "-179.999985"
+"origin" "3456.000000 16384.000000 32.000000"
+"classname" "item_rockets"
+}
+{
+"model" "*24"
+"target" "target_position8"
+"classname" "trigger_push"
+}
+{
+"targetname" "target_position8"
+"angle" "-90.000000"
+"origin" "6784.000000 14944.000000 640.000000"
+"classname" "target_position"
+}
+{
+"angle" "-179.999985"
+"origin" "3328.000000 16256.000000 -320.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "3200.000000 16768.000000 -320.000000"
+"classname" "weapon_uzi"
+}
+{
+"angle" "-179.999985"
+"origin" "3200.000000 16704.000000 -320.000000"
+"classname" "item_bullets"
+}
+{
+"angle" "-179.999985"
+"origin" "3200.000000 16832.000000 -320.000000"
+"classname" "item_bullets"
+}
+{
+"angle" "-179.999985"
+"origin" "5888.000000 18304.000000 -320.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5632.000000 18304.000000 -320.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5760.000000 18304.000000 -320.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5504.000000 18304.000000 -320.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5376.000000 18304.000000 -320.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5760.000000 15232.000000 -384.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "5824.000000 15232.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5760.000000 15168.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4608.000000 16896.000000 832.000000"
+"classname" "weapon_nex"
+}
+{
+"angle" "-179.999985"
+"spawnflags" "1"
+"origin" "5120.000000 14336.000000 992.000000"
+"classname" "item_cells"
+}
+{
+"model" "*25"
+"classname" "func_ladder"
+}
+{
+"angle" "-179.999985"
+"origin" "3552.000000 18880.000000 608.000000"
+"classname" "item_armor_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "3264.000000 17792.000000 608.000000"
+"classname" "weapon_nex"
+}
+{
+"angle" "-179.999985"
+"origin" "5248.000000 16896.000000 1120.000000"
+"classname" "item_armor_big"
+}
+{
+"model" "*26"
+"target" "target_position9"
+"classname" "trigger_push"
+}
+{
+"targetname" "target_position9"
+"angle" "-90.000000"
+"origin" "5376.000000 16192.000000 1280.000000"
+"classname" "target_position"
+}
+{
+"angle" "-179.999985"
+"origin" "3840.000000 16768.000000 0.000000"
+"classname" "item_cells"
+}
+{
+"angle" "-179.999985"
+"origin" "5120.000000 15808.000000 192.000000"
+"classname" "weapon_crylink"
+}
+{
+"angle" "-179.999985"
+"origin" "6400.000000 11200.000000 160.000000"
+"classname" "item_rockets"
+}
+{
+"angle" "-179.999985"
+"origin" "6240.000000 11200.000000 144.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"angle" "-179.999985"
+"origin" "6080.000000 11200.000000 160.000000"
+"classname" "item_rockets"
+}
+{
+"angle" "-179.999985"
+"origin" "3904.000000 12736.000000 128.000000"
+"classname" "item_rockets"
+}
+{
+"angle" "-179.999985"
+"origin" "4224.000000 12736.000000 128.000000"
+"classname" "item_rockets"
+}
+{
+"angle" "-179.999985"
+"origin" "4064.000000 12736.000000 96.000000"
+"classname" "weapon_rocketlauncher"
+}
+{
+"angle" "-179.999985"
+"origin" "4064.000000 12480.000000 288.000000"
+"classname" "item_armor_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "6240.000000 10944.000000 288.000000"
+"classname" "item_armor_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "5120.000000 9600.000000 576.000000"
+"classname" "item_armor_big"
+}
+{
+"angle" "-179.999985"
+"origin" "4608.000000 9600.000000 576.000000"
+"classname" "item_health_large"
+}
+{
+"angle" "-179.999985"
+"origin" "6624.000000 15840.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "0.000016"
+"origin" "6816.000000 16672.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "0.000016"
+"origin" "7104.000000 16672.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "0.000016"
+"origin" "7008.000000 16672.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "0.000016"
+"origin" "6720.000000 16672.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "0.000016"
+"origin" "6912.000000 16672.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "0.000016"
+"origin" "6624.000000 16672.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "90.000000"
+"origin" "6624.000000 16544.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "90.000000"
+"origin" "6624.000000 15968.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "90.000000"
+"origin" "6624.000000 16256.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "7200.000000 16672.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "90.000000"
+"origin" "6624.000000 16384.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "90.000000"
+"origin" "6624.000000 16128.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "7200.000000 15968.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "6912.000000 15840.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "6720.000000 15840.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "6816.000000 15840.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "7104.000000 15840.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "7200.000000 16544.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "7008.000000 15840.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "7200.000000 16256.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "7200.000000 15840.000000 672.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-90.000000"
+"origin" "7200.000000 16384.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-90.000000"
+"origin" "7200.000000 16128.000000 672.000000"
+"classname" "item_armor_small"
+}
+{
+"model" "*27"
+"dmg" "1000"
+"classname" "trigger_hurt"
+}
+{
+"angle" "-89.999992"
+"team" "14"
+"origin" "5568.000000 17792.000000 768.000000"
+"classname" "vehicle_raptor"
+}
+{
+"team" "14"
+"angle" "-135.000015"
+"origin" "3616.000000 17690.509766 -320.000000"
+"classname" "vehicle_racer"
+}
+{
+"angle" "-179.999985"
+"origin" "5248.000000 17536.000000 64.000000"
+"classname" "info_player_deathmatch"
+}
+{
+"angle" "-179.999985"
+"origin" "4320.000000 17792.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3552.000000 17792.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3648.000000 17792.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3744.000000 17792.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3840.000000 17792.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3936.000000 17792.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4032.000000 17792.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4128.000000 17792.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4224.000000 17792.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"team" "14"
+"angle" "-90.000000"
+"origin" "4736.000000 14976.000000 576.000000"
+"classname" "turret_plasma"
+}
+{
+"team" "14"
+"angle" "-90.000000"
+"origin" "5536.000000 14976.000000 576.000000"
+"classname" "turret_plasma"
+}
+{
+"angle" "-179.999985"
+"origin" "4480.000000 14976.000000 -352.000000"
+"classname" "weapon_hagar"
+}
+{
+"angle" "-179.999985"
+"origin" "5568.000000 16064.000000 256.000000"
+"classname" "item_armor_medium"
+}
+{
+"angle" "-179.999985"
+"spawnflags" "1"
+"origin" "5120.000000 16064.000000 768.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"spawnflags" "1"
+"origin" "5120.000000 16064.000000 320.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"spawnflags" "1"
+"origin" "5120.000000 16064.000000 384.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"spawnflags" "1"
+"origin" "5120.000000 16064.000000 448.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"spawnflags" "1"
+"origin" "5120.000000 16064.000000 512.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"spawnflags" "1"
+"origin" "5120.000000 16064.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"spawnflags" "1"
+"origin" "5120.000000 16064.000000 640.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"spawnflags" "1"
+"origin" "5120.000000 16064.000000 704.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "3456.000000 16384.000000 320.000000"
+"classname" "item_armor_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "3776.000000 18944.000000 352.000000"
+"classname" "item_bullets"
+}
+{
+"angle" "-179.999985"
+"origin" "4960.000000 19168.000000 -352.000000"
+"classname" "item_rockets"
+}
+{
+"angle" "-179.999985"
+"origin" "5152.000000 18976.000000 -352.000000"
+"classname" "item_cells"
+}
+{
+"angle" "-179.999985"
+"origin" "3232.000000 18176.000000 -352.000000"
+"classname" "item_health_large"
+}
+{
+"team" "14"
+"angle" "90.000000"
+"origin" "2048.000000 9728.000000 640.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"angle" "-179.999985"
+"origin" "3840.000000 9856.000000 640.000000"
+"classname" "weapon_hlac"
+}
+{
+"angle" "90.000000"
+"origin" "3776.000000 18176.000000 -384.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "90.000000"
+"origin" "3840.000000 18176.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "90.000000"
+"origin" "3776.000000 18112.000000 -384.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "0.000010"
+"origin" "5472.000000 14752.000000 0.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "0.000010"
+"origin" "5472.000000 14688.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "0.000010"
+"origin" "5536.000000 14752.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "0.000010"
+"origin" "4768.000000 14688.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "0.000010"
+"origin" "4704.000000 14752.000000 0.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "0.000010"
+"origin" "4768.000000 14752.000000 0.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "4672.000000 14912.000000 128.000000"
+"classname" "item_armor_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "5568.000000 14912.000000 128.000000"
+"classname" "item_armor_medium"
+}
+{
+"angle" "-179.999985"
+"targetname" "target_position4"
+"origin" "5056.000000 16896.000000 896.000000"
+"classname" "target_position"
+}
+{
+"targetname" "target_position13"
+"angle" "134.999985"
+"origin" "6976.000000 15808.000000 -256.000000"
+"classname" "target_position"
+}
+{
+"model" "*28"
+"classname" "func_ladder"
+}
+{
+"angle" "-179.999985"
+"origin" "5280.000000 18560.000000 -352.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"angle" "-179.999985"
+"origin" "4416.000000 17792.000000 576.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5632.000000 18560.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4864.000000 18560.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4960.000000 18560.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5056.000000 18560.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5152.000000 18560.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5248.000000 18560.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5344.000000 18560.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5440.000000 18560.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5536.000000 18560.000000 576.000000"
+"classname" "item_armor_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5248.000000 18560.000000 352.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "5632.000000 18176.000000 320.000000"
+"classname" "weapon_grenadelauncher"
+}
+{
+"angle" "-179.999985"
+"origin" "4544.000000 18240.000000 320.000000"
+"classname" "item_rockets"
+}
+{
+"angle" "-179.999985"
+"origin" "4672.000000 15808.000000 192.000000"
+"classname" "item_cells"
+}
+{
+"angle" "-179.999985"
+"origin" "4208.000000 15520.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4144.000000 15584.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4528.000000 15200.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4592.000000 15136.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4464.000000 15264.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4336.000000 15392.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4400.000000 15328.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "4272.000000 15456.000000 128.000000"
+"classname" "item_health_small"
+}
+{
+"angle" "-179.999985"
+"origin" "5120.000000 15232.000000 192.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "6016.000000 17536.000000 192.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-179.999985"
+"origin" "5248.000000 17792.000000 192.000000"
+"classname" "item_health_medium"
+}
+{
+"angle" "-90.000000"
+"origin" "4800.000000 16896.000000 896.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "5760.000000 17536.000000 64.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "0.000016"
+"origin" "6272.000000 16000.000000 320.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "6912.000000 15488.000000 320.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "5568.000000 15808.000000 256.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-90.000000"
+"origin" "4352.000000 16000.000000 256.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "0.000016"
+"origin" "6144.000000 15104.000000 -128.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "0.000016"
+"origin" "4352.000000 18752.000000 -128.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "0.000016"
+"origin" "4864.000000 17216.000000 768.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "90.000000"
+"origin" "6240.000000 11392.000000 640.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "6240.000000 18016.000000 32.000000"
+"classname" "item_flag_team2"
+}
+{
+"team" "14"
+"angle" "90.000000"
+"origin" "5632.000000 9728.000000 640.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"team" "5"
+"angle" "-90.000000"
+"origin" "2048.000000 8704.000000 640.000000"
+"classname" "vehicle_spiderbot"
+}
+{
+"angle" "-90.000000"
+"origin" "3840.000000 8832.000000 640.000000"
+"classname" "info_player_team1"
+}
+{
+"angle" "90.000000"
+"origin" "3840.000000 9600.000000 640.000000"
+"classname" "info_player_team2"
+}
+{
+"angle" "-179.999985"
+"origin" "6016.000000 15680.000000 80.000000"
+"classname" "item_armor_big"
+}
+{
+"origin" "1664.000000 2752.000000 80.000000"
+"classname" "item_armor_big"
+}
+{
+"angle" "90.000000"
+"team" "5"
+"origin" "2176.000000 640.000000 768.000000"
+"classname" "vehicle_r22heli"
+}
+{
+"angle" "90.000000"
+"team" "5"
+"origin" "1664.000000 640.000000 768.000000"
+"classname" "vehicle_raptor"
+}
+{
+"angle" "-89.999985"
+"team" "14"
+"origin" "6016.000000 17792.000000 768.000000"
+"classname" "vehicle_r22heli"
+}
+{
+"origin" "6528.000000 9216.000000 896.000000"
+"classname" "item_armor_large"
+}
+{
+"origin" "1152.000000 9216.000000 896.000000"
+"classname" "item_armor_large"
+}
+{
+"origin" "1920.000000 9216.000000 896.000000"
+"classname" "weapon_uzi"
+}
+{
+"origin" "5760.000000 9216.000000 896.000000"
+"classname" "weapon_uzi"
+}

@@ -1,0 +1,10 @@
+title Space Runner
+description Medium-sized deathmatch space arena
+author Moo
+cdtrack 15
+has weapons
+gametype dm
+gametype lms
+gametype ka
+
+clientsettemp_for_type all r_hdr_scenebrightness 0.5

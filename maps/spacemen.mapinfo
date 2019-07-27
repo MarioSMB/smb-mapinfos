@@ -1,0 +1,51 @@
+title Space Men
+description Men.. in space!
+author Mario
+cdtrack 4
+has weapons
+gametype tdm pointlimit=10
+
+settemp_for_type all sv_player_mins "-15 -15 -24"
+settemp_for_type all sv_player_maxs "15 15 31"
+settemp_for_type all sv_player_crouch_mins "-15 -15 -24"
+settemp_for_type all sv_player_crouch_maxs "15 15 6"
+
+clientsettemp_for_type all sv_player_mins "-15 -15 -24"
+clientsettemp_for_type all sv_player_maxs "15 15 31"
+clientsettemp_for_type all sv_player_crouch_mins "-15 -15 -24"
+clientsettemp_for_type all sv_player_crouch_maxs "15 15 6"
+
+clientsettemp_for_type all r_water 1
+clientsettemp_for_type all r_water_resolutionmultiplier 1
+
+clientsettemp_for_type all in_pitch_max -90
+clientsettemp_for_type all in_pitch_min -90
+
+settemp_for_type all sv_track_canjump 1
+
+settemp_for_type all g_tdm_team_spawns 1
+
+settemp_for_type all g_physics_clientselect 0
+settemp_for_type all g_start_ammo_shells 0
+
+settemp_for_type all g_balance_blaster_primary_speed 2000
+settemp_for_type all g_balance_blaster_primary_refire 0.15
+settemp_for_type all g_balance_blaster_primary_animtime 0.15
+settemp_for_type all g_balance_blaster_primary_damage 25
+settemp_for_type all g_balance_blaster_primary_edgedamage 0
+settemp_for_type all g_balance_blaster_primary_radius 0
+settemp_for_type all g_balance_blaster_primary_force 0
+settemp_for_type all g_balance_blaster_weaponstart 1
+settemp_for_type all g_balance_shotgun_weaponstart 0
+
+settemp_for_type all g_balance_health_start 100
+settemp_for_type all g_balance_health_regen 0
+settemp_for_type all g_balance_health_regenlinear 20
+
+settemp_for_type all sv_maxspeed 620
+settemp_for_type all sv_stopspeed 100
+settemp_for_type all sv_accelerate 5
+settemp_for_type all sv_friction 4
+settemp_for_type all sv_jumpvelocity 0
+settemp_for_type all g_balance_selfdamagepercent 0
+

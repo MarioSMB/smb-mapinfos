@@ -1,0 +1,9 @@
+title Mars_v3
+description No water to be seen
+author Mario
+cdtrack Interstellar
+has weapons
+has vehicles
+gametype ctf
+
+settemp_for_type all g_use_ammunition 0

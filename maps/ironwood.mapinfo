@@ -6,4 +6,3 @@ has weapons
 gametype ctf
 gametype kh
 
-settemp_for_type all _nexuiz_mode 1
