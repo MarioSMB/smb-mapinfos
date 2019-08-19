@@ -1,0 +1,38 @@
+title Desert Of Ice 2
+description An ice desert. 8.2 miles. 13.2 kilometers
+//scale is 8x .map, scale textures when adding to map, and compile accordingly
+//Compiled with external lightmaps.
+//Then scaled 8x.
+//Note, max tjunctions was increased 2x (to 512) in tjunction.c in q3map2 
+//xonotic compiler
+//~/xonotic/netradiant/install/q3map2.x86 -scale 8 desertofice2.bsp
+//Size:
+//; 32512*2
+//        65024
+//; 65024*8
+//        520192
+//; 520192/12
+//        ~43349.33333333333333333333
+//; 43349.33333333333333333333/5280
+//        ~8.21010101010101010101 (miles)
+//; == 13.2129 (kilometers)
+//Terrain textures usally at 1x, so constructed at 0.25 for this map.
+//Central Bridge scaled down to 0.125 in all directions
+//Other burshes scaled down less, to 0.25 in all directions.
+//So they are 2x what they were in the original map
+//128x128 terrain map.
+//made custom visblockers, takes too long to compile with generated ones
+//icemap.xcf is the height map I made with the gimp image program
+author MikeeUSA - (C) License: GnuGPL v2
+cdtrack hfx-wings
+has weapons
+has vehicles
+gametype ctf caplimit=2 leadlimit=0 timelimit=30
+gametype kh
+gametype tdm
+gametype dm
+fog 0.200000 0.900000 0.800000 1.000000 0.500000 1024.000000 16384.000000 10800.000000 128.000000
+
+settemp_for_type all g_ctf_flag_glowtrails 0
+settemp_for_type all collision_impactnudge 2
+clientsettemp_for_type all collision_impactnudge 2
