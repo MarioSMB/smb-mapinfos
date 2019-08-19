@@ -1,0 +1,14 @@
+title OrganicOasis - 1
+description scale is 8x .map, scale textures when adding to map, and compile accordingly. Map is twice as large X Y as desertofice
+author MikeeUSA - (C) License: GnuGPL v2
+cdtrack 10
+has weapons
+gametype ctf timelimit=30 caplimit=1 leadlimit=0
+gametype kh
+gametype dm
+gametype tdm
+//fog 0.200000 1 .63 0 0.500000 1024.000000 16384.000000 30800.000000 2048.000000
+fog 0.100000 0.5 1 1 0.2500000 0 16384.000000 35800.000000 2048.000000
+
+settemp_for_type all collision_impactnudge 2
+clientsettemp_for_type all collision_impactnudge 2
