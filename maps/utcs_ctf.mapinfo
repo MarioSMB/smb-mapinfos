@@ -4,3 +4,6 @@ author Chompers(original), Odin(Port)
 has weapons
 cdtrack 8
 gametype ctf
+
+hidden
+noautomaplist
