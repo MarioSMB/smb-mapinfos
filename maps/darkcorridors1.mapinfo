@@ -17,3 +17,4 @@ gametype kh
 gametype inf
 
 clientsettemp_for_type all r_ambient 0
+hidden

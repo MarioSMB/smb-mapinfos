@@ -6,3 +6,5 @@ gametype ctf
 gametype vip
 gametype kh
 gametype inf
+
+hidden

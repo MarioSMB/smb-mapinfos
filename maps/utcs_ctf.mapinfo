@@ -4,3 +4,6 @@ author Chompers(original), Odin(Port)
 has weapons
 cdtrack thru-the-mirror
 gametype ctf
+
+hidden
+noautomaplist
