@@ -8,3 +8,5 @@ has weapons
 gametype ctf
 gametype kh
 gametype ft
+
+hidden

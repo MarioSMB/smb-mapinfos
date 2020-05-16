@@ -3,4 +3,4 @@ description Open space map where your objective is staying on the flag platform 
 author FruitieX
 has weapons
 cdtrack 5
-gametype ctf
+gametype ctf caplimit=20

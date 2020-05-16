@@ -5,3 +5,5 @@ cdtrack impossible
 gametype ctf
 has weapons
 settemp_for_type all g_start_weapon_shotgun 0
+
+hidden
