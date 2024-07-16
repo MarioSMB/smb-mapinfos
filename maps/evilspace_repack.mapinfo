@@ -1,0 +1,7 @@
+title [evilspace_repack]
+cdtrack Crash
+has weapons
+gametype dm  // defaults: timelimit=20 pointlimit=30 leadlimit=0
+gametype ft
+gametype lms // defaults: timelimit=20 lives=9 leadlimit=0
+gametype ka  // defaults: timelimit=20 pointlimit=30
