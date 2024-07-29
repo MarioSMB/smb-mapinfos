@@ -1,0 +1,12 @@
+title smg_lago_dm
+title faster than you'll ever live to be. - map by pardner
+cdtrack 3
+has weapons
+gametype dm
+gametype ka
+gametype lms
+timelimit=20
+caplimit=15
+leadlimit=15
+clientsettemp_for_type all r_water 1
+clientsettemp_for_type all r_water_resolutionmultiplier 1
