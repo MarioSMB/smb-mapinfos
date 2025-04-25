@@ -1,0 +1,7 @@
+title Sumo Sumo Sumo
+description Laser Sumo Lava Map
+author PinkRobot
+cdtrack 2
+has weapons
+type arena 20 30
+gametype lms

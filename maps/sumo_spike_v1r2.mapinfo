@@ -1,6 +1,6 @@
-title The Cube
-description Laser Sumo Slime Map
-author FruitieX
+title The Spike
+description Laser Sumo Lava Map
+author PinkRobot
 cdtrack 3
 has weapons
 gametype lms
@@ -8,3 +8,4 @@ gametype lms
 //settemp_for_type lms g_grappling_hook 0
 //settemp_for_type lms g_player_crush 0
 //settemp_for_type lms g_balance_vaporizer_primary_damage 1
+

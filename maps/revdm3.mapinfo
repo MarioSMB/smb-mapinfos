@@ -1,0 +1,23 @@
+title ^3welcome to the drive in!  author:^1r^0e^1v^0e^1n^0a^1n^0t
+message ^3welcome to the drive in!  author:^1r^0e^1v^0e^1n^0a^1n^0t
+has weapons
+// uncomment this if you added turrets: has turrets
+// uncomment this if you added vehicles: has vehicles
+gametype dm  // defaults: timelimit=20 pointlimit=30 leadlimit=0
+// gametype dom
+// gametype ctf
+gametype arena
+gametype kh
+//gametype tdm
+gametype ft
+gametype lms // defaults: timelimit=20 lives=9 leadlimit=0
+// gametype ka  // defaults: timelimit=20 pointlimit=30
+// optional: fog density red green blue alpha mindist maxdist
+// optional: //settemp_for_type (all|gametypename) cvarname value
+// optional: client//settemp_for_type (all|gametypename) cvarname value
+// optional: size mins_x mins_y mins_z maxs_x maxs_y maxs_z
+// optional: hidden
+
+//settemp_for_type lms g_grappling_hook 0
+//settemp_for_type lms g_player_crush 0
+//settemp_for_type lms g_balance_vaporizer_primary_damage 1

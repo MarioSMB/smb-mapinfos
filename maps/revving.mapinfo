@@ -1,0 +1,13 @@
+title ^xf00R^xe31e^xd62v^xf62v^xe93i^xd31n^xc10g ^x000(revdm3 remake)
+description revdm3 remake doubled.
+author SirRanjid
+cdtrack 19
+has weapons
+
+gametype dm // defaults: timelimit=20 pointlimit=30 leadlimit=0
+gametype lms // defaults: timelimit=20 lives=9 leadlimit=0
+gametype ka // defaults: timelimit=20 pointlimit=30
+
+//settemp_for_type lms g_grappling_hook 0
+//settemp_for_type lms g_player_crush 0
+//settemp_for_type lms g_balance_vaporizer_primary_damage 1

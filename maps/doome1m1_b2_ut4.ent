@@ -1,0 +1,1241 @@
+{
+"_q3map2_version" "2.5.17n-git-a7e6001"
+"_q3map2_cmdline" "-scale 1.40"
+"gridsize" "89.599998 89.599998 179.199997"
+"classname" "worldspawn"
+"message" "doom e1m1 - by rooster"
+}
+{
+"classname" "team_cah_capturepoint"
+"origin" "4704.000000 -1971.199951 -156.800003"
+}
+{
+"light" "30"
+"origin" "6546.399902 -22.400000 78.400002"
+"classname" "light"
+}
+{
+"classname" "light"
+"origin" "6546.399902 -89.599998 78.400002"
+"light" "30"
+}
+{
+"model" "*1"
+"classname" "func_wall"
+"gametype" "7"
+}
+{
+"model" "*2"
+"gametype" "7"
+"classname" "func_wall"
+}
+{
+"model" "*3"
+"classname" "func_wall"
+"gametype" "7"
+}
+{
+"model" "*4"
+"gametype" "7"
+"classname" "func_wall"
+}
+{
+"model" "*5"
+"classname" "func_wall"
+"gametype" "0134568"
+}
+{
+"model" "*6"
+"gametype" "0134568"
+"classname" "func_wall"
+}
+{
+"model" "*7"
+"classname" "func_wall"
+"gametype" "0134568"
+}
+{
+"model" "*8"
+"classname" "func_wall"
+"gametype" "0134568"
+}
+{
+"model" "*9"
+"gametype" "0134568"
+"classname" "func_wall"
+}
+{
+"model" "*10"
+"classname" "func_wall"
+"gametype" "0134568"
+}
+{
+"model" "*11"
+"gametype" "0134568"
+"classname" "func_wall"
+}
+{
+"model" "*12"
+"classname" "func_wall"
+"gametype" "0134568"
+}
+{
+"model" "*13"
+"gametype" "0134568"
+"classname" "func_wall"
+}
+{
+"model" "*14"
+"classname" "func_wall"
+"gametype" "0134568"
+}
+{
+"model" "*15"
+"gametype" "0134568"
+"classname" "func_wall"
+}
+{
+"model" "*16"
+"classname" "func_wall"
+"gametype" "0134568"
+}
+{
+"model" "*17"
+"target" "t9"
+"classname" "trigger_multiple"
+"spawnflags" "2"
+}
+{
+"team" "red"
+"origin" "6574.399902 134.399994 168.000000"
+"classname" "ut_mrsentry"
+}
+{
+"angle" "180"
+"g_gametype" "7"
+"team" "red"
+"origin" "6809.600098 134.399994 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "6809.600098 44.799999 44.799999"
+"team" "red"
+"g_gametype" "7"
+"angle" "180"
+}
+{
+"angle" "180"
+"g_gametype" "7"
+"team" "red"
+"origin" "6809.600098 -44.799999 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "6809.600098 -134.399994 44.799999"
+"team" "red"
+"g_gametype" "7"
+"angle" "180"
+}
+{
+"angle" "180"
+"g_gametype" "7"
+"team" "red"
+"origin" "6809.600098 -224.000000 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "6809.600098 -313.600006 44.799999"
+"team" "red"
+"g_gametype" "7"
+"angle" "180"
+}
+{
+"angle" "180"
+"g_gametype" "7"
+"team" "red"
+"origin" "6809.600098 -403.199982 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "6988.799805 -403.199982 44.799999"
+"team" "red"
+"g_gametype" "7"
+"angle" "180"
+}
+{
+"angle" "180"
+"g_gametype" "7"
+"team" "red"
+"origin" "6988.799805 -313.600006 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "6988.799805 -224.000000 44.799999"
+"team" "red"
+"g_gametype" "7"
+"angle" "180"
+}
+{
+"angle" "180"
+"g_gametype" "7"
+"team" "red"
+"origin" "6988.799805 -44.799999 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "6988.799805 44.799999 44.799999"
+"team" "red"
+"g_gametype" "7"
+"angle" "180"
+}
+{
+"angle" "180"
+"g_gametype" "7"
+"team" "red"
+"origin" "6988.799805 134.399994 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "6899.199707 134.399994 44.799999"
+"team" "red"
+"g_gametype" "7"
+"angle" "180"
+}
+{
+"angle" "180"
+"g_gametype" "7"
+"team" "red"
+"origin" "6899.199707 -403.199982 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "6899.199707 -313.600006 44.799999"
+"team" "red"
+"g_gametype" "7"
+"angle" "180"
+}
+{
+"angle" "180"
+"g_gametype" "7"
+"team" "red"
+"origin" "6899.199707 -224.000000 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "6899.199707 -134.399994 44.799999"
+"team" "red"
+"g_gametype" "7"
+"angle" "180"
+}
+{
+"angle" "180"
+"g_gametype" "7"
+"team" "red"
+"origin" "6899.199707 -44.799999 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "6899.199707 44.799999 44.799999"
+"team" "red"
+"g_gametype" "7"
+"angle" "180"
+}
+{
+"angle" "270"
+"g_gametype" "7"
+"team" "blue"
+"origin" "2822.399902 313.600006 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "2912.000000 313.600006 44.799999"
+"team" "blue"
+"g_gametype" "7"
+"angle" "270"
+}
+{
+"angle" "270"
+"g_gametype" "7"
+"team" "blue"
+"origin" "3001.599854 313.600006 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "3091.199951 313.600006 44.799999"
+"team" "blue"
+"g_gametype" "7"
+"angle" "270"
+}
+{
+"angle" "270"
+"g_gametype" "7"
+"team" "blue"
+"origin" "3180.800049 313.600006 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "3270.399902 313.600006 44.799999"
+"team" "blue"
+"g_gametype" "7"
+"angle" "270"
+}
+{
+"angle" "270"
+"g_gametype" "7"
+"team" "blue"
+"origin" "2732.800049 313.600006 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "2732.800049 403.199982 44.799999"
+"team" "blue"
+"g_gametype" "7"
+"angle" "270"
+}
+{
+"angle" "270"
+"g_gametype" "7"
+"team" "blue"
+"origin" "2822.399902 403.199982 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "2912.000000 403.199982 44.799999"
+"team" "blue"
+"g_gametype" "7"
+"angle" "270"
+}
+{
+"angle" "270"
+"g_gametype" "7"
+"team" "blue"
+"origin" "3091.199951 403.199982 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "3180.800049 403.199982 44.799999"
+"team" "blue"
+"g_gametype" "7"
+"angle" "270"
+}
+{
+"angle" "270"
+"g_gametype" "7"
+"team" "blue"
+"origin" "3270.399902 403.199982 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "3270.399902 492.799988 44.799999"
+"team" "blue"
+"g_gametype" "7"
+"angle" "270"
+}
+{
+"angle" "270"
+"g_gametype" "7"
+"team" "blue"
+"origin" "3180.800049 492.799988 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "3091.199951 492.799988 44.799999"
+"team" "blue"
+"g_gametype" "7"
+"angle" "270"
+}
+{
+"angle" "270"
+"g_gametype" "7"
+"team" "blue"
+"origin" "3001.599854 492.799988 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "2912.000000 492.799988 44.799999"
+"team" "blue"
+"g_gametype" "7"
+"angle" "270"
+}
+{
+"angle" "270"
+"g_gametype" "7"
+"team" "blue"
+"origin" "2822.399902 492.799988 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "2732.800049 492.799988 44.799999"
+"team" "blue"
+"g_gametype" "7"
+"angle" "270"
+}
+{
+"model" "*20"
+"classname" "trigger_multiple"
+"spawnflags" "2"
+"target" "t8"
+}
+{
+"classname" "ut_mrsentry"
+"origin" "2732.800049 -44.799999 168.000000"
+"team" "blue"
+}
+{
+"classname" "light"
+"origin" "4950.399902 179.199997 246.399994"
+"light" "300"
+"_color" ".3 .5 .8"
+}
+{
+"_color" ".3 .5 .8"
+"light" "300"
+"origin" "4950.399902 313.600006 246.399994"
+"classname" "light"
+}
+{
+"classname" "light"
+"origin" "4950.399902 448.000000 246.399994"
+"light" "300"
+"_color" ".3 .5 .8"
+}
+{
+"angle" "90"
+"group" "ts2"
+"team" "red"
+"g_gametype" "4,6"
+"origin" "5773.600098 -2788.800049 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "5829.600098 -2788.800049 44.799999"
+"g_gametype" "4,6"
+"team" "red"
+"group" "ts2"
+"angle" "90"
+}
+{
+"angle" "90"
+"group" "ts2"
+"team" "red"
+"g_gametype" "4,6"
+"origin" "5885.600098 -2788.800049 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "5941.600098 -2788.800049 44.799999"
+"g_gametype" "4,6"
+"team" "red"
+"group" "ts2"
+"angle" "90"
+}
+{
+"angle" "90"
+"group" "ts2"
+"team" "red"
+"g_gametype" "4,6"
+"origin" "5997.600098 -2788.800049 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "6053.600098 -2788.800049 44.799999"
+"g_gametype" "4,6"
+"team" "red"
+"group" "ts2"
+"angle" "90"
+}
+{
+"angle" "90"
+"group" "ts2"
+"team" "red"
+"g_gametype" "4,6"
+"origin" "6053.600098 -2721.599854 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "5997.600098 -2721.599854 44.799999"
+"g_gametype" "4,6"
+"team" "red"
+"group" "ts2"
+"angle" "90"
+}
+{
+"angle" "90"
+"group" "ts2"
+"team" "red"
+"g_gametype" "4,6"
+"origin" "5941.600098 -2721.599854 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "5885.600098 -2721.599854 44.799999"
+"g_gametype" "4,6"
+"team" "red"
+"group" "ts2"
+"angle" "90"
+}
+{
+"angle" "90"
+"group" "ts2"
+"team" "red"
+"g_gametype" "4,6"
+"origin" "5829.600098 -2721.599854 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "5773.600098 -2721.599854 44.799999"
+"g_gametype" "4,6"
+"team" "red"
+"group" "ts2"
+"angle" "90"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "5829.600098 -2665.599854 44.799999"
+"g_gametype" "4,6"
+"team" "red"
+"group" "ts2"
+"angle" "90"
+}
+{
+"angle" "90"
+"group" "ts2"
+"team" "red"
+"g_gametype" "4,6"
+"origin" "5885.600098 -2665.599854 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "5941.600098 -2665.599854 44.799999"
+"g_gametype" "4,6"
+"team" "red"
+"group" "ts2"
+"angle" "90"
+}
+{
+"angle" "90"
+"group" "ts2"
+"team" "red"
+"g_gametype" "4,6"
+"origin" "5997.600098 -2665.599854 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "3186.399902 -336.000000 44.799999"
+"g_gametype" "4,6"
+"team" "blue"
+"group" "ts2"
+"angle" "270"
+}
+{
+"angle" "270"
+"group" "ts2"
+"team" "blue"
+"g_gametype" "4,6"
+"origin" "3242.399902 -336.000000 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "3298.399902 -336.000000 44.799999"
+"g_gametype" "4,6"
+"team" "blue"
+"group" "ts2"
+"angle" "270"
+}
+{
+"angle" "270"
+"group" "ts2"
+"team" "blue"
+"g_gametype" "4,6"
+"origin" "3354.399902 -336.000000 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"angle" "270"
+"group" "ts2"
+"team" "blue"
+"g_gametype" "4,6"
+"origin" "3410.399902 -280.000000 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "3354.399902 -280.000000 44.799999"
+"g_gametype" "4,6"
+"team" "blue"
+"group" "ts2"
+"angle" "270"
+}
+{
+"angle" "270"
+"group" "ts2"
+"team" "blue"
+"g_gametype" "4,6"
+"origin" "3298.399902 -280.000000 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "3242.399902 -280.000000 44.799999"
+"g_gametype" "4,6"
+"team" "blue"
+"group" "ts2"
+"angle" "270"
+}
+{
+"angle" "270"
+"group" "ts2"
+"team" "blue"
+"g_gametype" "4,6"
+"origin" "3186.399902 -280.000000 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "3130.399902 -280.000000 44.799999"
+"g_gametype" "4,6"
+"team" "blue"
+"group" "ts2"
+"angle" "270"
+}
+{
+"angle" "270"
+"group" "ts2"
+"team" "blue"
+"g_gametype" "4,6"
+"origin" "3130.399902 -212.800003 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "3186.399902 -212.800003 44.799999"
+"g_gametype" "4,6"
+"team" "blue"
+"group" "ts2"
+"angle" "270"
+}
+{
+"angle" "270"
+"group" "ts2"
+"team" "blue"
+"g_gametype" "4,6"
+"origin" "3242.399902 -212.800003 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "3298.399902 -212.800003 44.799999"
+"g_gametype" "4,6"
+"team" "blue"
+"group" "ts2"
+"angle" "270"
+}
+{
+"angle" "270"
+"group" "ts2"
+"team" "blue"
+"g_gametype" "4,6"
+"origin" "3354.399902 -212.800003 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "3410.399902 -212.800003 44.799999"
+"g_gametype" "4,6"
+"team" "blue"
+"group" "ts2"
+"angle" "270"
+}
+{
+"angle" "180"
+"group" "ts1"
+"team" "blue"
+"g_gametype" "4"
+"origin" "7537.600098 -1624.000000 224.000000"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "7537.600098 -1568.000000 224.000000"
+"g_gametype" "4"
+"team" "blue"
+"group" "ts1"
+"angle" "180"
+}
+{
+"angle" "180"
+"group" "ts1"
+"team" "blue"
+"g_gametype" "4"
+"origin" "7537.600098 -1512.000000 224.000000"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "7537.600098 -1456.000000 224.000000"
+"g_gametype" "4"
+"team" "blue"
+"group" "ts1"
+"angle" "180"
+}
+{
+"angle" "180"
+"group" "ts1"
+"team" "blue"
+"g_gametype" "4"
+"origin" "7537.600098 -1400.000000 224.000000"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "7537.600098 -1344.000000 224.000000"
+"g_gametype" "4"
+"team" "blue"
+"group" "ts1"
+"angle" "180"
+}
+{
+"angle" "180"
+"group" "ts1"
+"team" "blue"
+"g_gametype" "4"
+"origin" "7470.399902 -1344.000000 224.000000"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "7470.399902 -1400.000000 224.000000"
+"g_gametype" "4"
+"team" "blue"
+"group" "ts1"
+"angle" "180"
+}
+{
+"angle" "180"
+"group" "ts1"
+"team" "blue"
+"g_gametype" "4"
+"origin" "7470.399902 -1456.000000 224.000000"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "7470.399902 -1512.000000 224.000000"
+"g_gametype" "4"
+"team" "blue"
+"group" "ts1"
+"angle" "180"
+}
+{
+"angle" "180"
+"group" "ts1"
+"team" "blue"
+"g_gametype" "4"
+"origin" "7470.399902 -1568.000000 224.000000"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "7470.399902 -1624.000000 224.000000"
+"g_gametype" "4"
+"team" "blue"
+"group" "ts1"
+"angle" "180"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "7414.399902 -1568.000000 224.000000"
+"g_gametype" "4"
+"team" "blue"
+"group" "ts1"
+"angle" "180"
+}
+{
+"angle" "180"
+"group" "ts1"
+"team" "blue"
+"g_gametype" "4"
+"origin" "7414.399902 -1512.000000 224.000000"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "7414.399902 -1456.000000 224.000000"
+"g_gametype" "4"
+"team" "blue"
+"group" "ts1"
+"angle" "180"
+}
+{
+"angle" "180"
+"group" "ts1"
+"team" "blue"
+"g_gametype" "4"
+"origin" "7414.399902 -1400.000000 224.000000"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1971.199951 -1786.400024 44.799999"
+"g_gametype" "4"
+"team" "red"
+"group" "ts1"
+"angle" "360"
+}
+{
+"angle" "360"
+"group" "ts1"
+"team" "red"
+"g_gametype" "4"
+"origin" "1971.199951 -1730.400024 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1971.199951 -1674.400024 44.799999"
+"g_gametype" "4"
+"team" "red"
+"group" "ts1"
+"angle" "360"
+}
+{
+"angle" "360"
+"group" "ts1"
+"team" "red"
+"g_gametype" "4"
+"origin" "1971.199951 -1618.400024 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"angle" "360"
+"group" "ts1"
+"team" "red"
+"g_gametype" "4"
+"origin" "1915.199951 -1562.400024 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1915.199951 -1618.400024 44.799999"
+"g_gametype" "4"
+"team" "red"
+"group" "ts1"
+"angle" "360"
+}
+{
+"angle" "360"
+"group" "ts1"
+"team" "red"
+"g_gametype" "4"
+"origin" "1915.199951 -1674.400024 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1915.199951 -1730.400024 44.799999"
+"g_gametype" "4"
+"team" "red"
+"group" "ts1"
+"angle" "360"
+}
+{
+"angle" "360"
+"group" "ts1"
+"team" "red"
+"g_gametype" "4"
+"origin" "1915.199951 -1786.400024 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1915.199951 -1842.400024 44.799999"
+"g_gametype" "4"
+"team" "red"
+"group" "ts1"
+"angle" "360"
+}
+{
+"angle" "360"
+"group" "ts1"
+"team" "red"
+"g_gametype" "4"
+"origin" "1848.000000 -1842.400024 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1848.000000 -1786.400024 44.799999"
+"g_gametype" "4"
+"team" "red"
+"group" "ts1"
+"angle" "360"
+}
+{
+"angle" "360"
+"group" "ts1"
+"team" "red"
+"g_gametype" "4"
+"origin" "1848.000000 -1730.400024 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1848.000000 -1674.400024 44.799999"
+"g_gametype" "4"
+"team" "red"
+"group" "ts1"
+"angle" "360"
+}
+{
+"angle" "360"
+"group" "ts1"
+"team" "red"
+"g_gametype" "4"
+"origin" "1848.000000 -1618.400024 44.799999"
+"classname" "info_ut_spawn"
+}
+{
+"classname" "info_ut_spawn"
+"origin" "1848.000000 -1562.400024 44.799999"
+"g_gametype" "4"
+"team" "red"
+"group" "ts1"
+"angle" "360"
+}
+{
+"model" "*21"
+"target" "t1"
+"classname" "trigger_multiple"
+"spawnflags" "2"
+}
+{
+"angle" "315"
+"origin" "3001.599854 -224.000000 44.799999"
+"classname" "info_player_deathmatch"
+}
+{
+"model" "*24"
+"classname" "trigger_multiple"
+"spawnflags" "2"
+"target" "t2"
+}
+{
+"model" "*25"
+"target" "t3"
+"classname" "trigger_multiple"
+"spawnflags" "2"
+}
+{
+"model" "*28"
+"classname" "trigger_multiple"
+"spawnflags" "2"
+"target" "t4"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "2755.199951 -1097.599976 44.799999"
+"angle" "45"
+}
+{
+"angle" "315"
+"origin" "1769.599976 -313.600006 44.799999"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "2116.800049 -1030.400024 224.000000"
+"angle" "180"
+}
+{
+"angle" "315"
+"origin" "1657.599976 -1388.799927 224.000000"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "2139.199951 -1377.599976 44.799999"
+"angle" "315"
+}
+{
+"angle" "135"
+"origin" "2374.399902 -2016.000000 44.799999"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "3371.199951 -1523.199951 44.799999"
+"angle" "180"
+}
+{
+"angle" "45"
+"origin" "4043.199951 -1243.199951 44.799999"
+"classname" "info_player_deathmatch"
+}
+{
+"model" "*30"
+"classname" "trigger_multiple"
+"spawnflags" "2"
+"target" "t5"
+}
+{
+"model" "*31"
+"target" "t6"
+"classname" "trigger_teleport"
+}
+{
+"angle" "90"
+"targetname" "t6"
+"origin" "5913.600098 -3068.800049 33.599998"
+"classname" "misc_teleporter_dest"
+}
+{
+"targetname" "t6"
+"origin" "1456.000000 -672.000000 212.800003"
+"classname" "misc_teleporter_dest"
+}
+{
+"angle" "270"
+"classname" "misc_teleporter_dest"
+"origin" "4748.799805 -448.000000 -56.000000"
+"targetname" "t6"
+}
+{
+"angle" "90"
+"classname" "misc_teleporter_dest"
+"origin" "4793.600098 -2094.399902 -134.399994"
+"targetname" "t6"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "3897.599854 -224.000000 44.799999"
+"angle" "225"
+}
+{
+"angle" "315"
+"origin" "4267.199707 -313.600006 -44.799999"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "5342.399902 -492.799988 -44.799999"
+"angle" "180"
+}
+{
+"angle" "135"
+"origin" "5320.000000 -123.199997 44.799999"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "4233.600098 -134.399994 44.799999"
+"angle" "45"
+}
+{
+"angle" "315"
+"origin" "4233.600098 750.399963 44.799999"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "5320.000000 750.399963 44.799999"
+"angle" "225"
+}
+{
+"angle" "270"
+"origin" "5600.000000 -2363.199951 44.799999"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "6227.199707 -2363.199951 44.799999"
+"angle" "270"
+}
+{
+"angle" "135"
+"origin" "6832.000000 -2699.199951 44.799999"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "7313.600098 -1758.400024 224.000000"
+"angle" "135"
+}
+{
+"angle" "225"
+"origin" "7280.000000 -593.599976 224.000000"
+"classname" "info_player_deathmatch"
+}
+{
+"classname" "info_player_deathmatch"
+"origin" "6361.600098 -179.199997 56.000000"
+"angle" "225"
+}
+{
+"angle" "90"
+"origin" "4883.199707 -1265.599976 -44.799999"
+"classname" "info_player_deathmatch"
+}
+{
+"_color" ".8 .5 .1"
+"light" "300"
+"origin" "1344.000000 -672.000000 268.799988"
+"classname" "light"
+}
+{
+"model" "*33"
+"classname" "trigger_multiple"
+"spawnflags" "2"
+"target" "t7"
+}
+{
+"classname" "light"
+"origin" "5913.600098 -3180.800049 89.599998"
+"light" "300"
+"_color" ".8 .5 .1"
+}
+{
+"model" "*34"
+"classname" "trigger_teleport"
+"target" "t6"
+}
+{
+"origin" "6003.199707 -716.799988 44.799999"
+"classname" "team_CTF_redflag"
+}
+{
+"origin" "3360.000000 -672.000000 0.000000"
+"classname" "team_CTF_blueflag"
+}
+{
+"target" "t10"
+"origin" "4177.600098 -414.399994 -44.799999"
+"classname" "info_player_intermission"
+}
+{
+"targetname" "t10"
+"origin" "5275.199707 -1232.000000 380.799988"
+"classname" "target_position"
+}
+{
+"model" "*35"
+"health" "3000"
+"type" "0"
+"classname" "func_breakable"
+}
+{
+"model" "*36"
+"health" "3000"
+"type" "0"
+"classname" "func_breakable"
+}
+{
+"model" "*37"
+"health" "3000"
+"type" "0"
+"classname" "func_breakable"
+}
+{
+"model" "*38"
+"health" "3000"
+"type" "0"
+"classname" "func_breakable"
+}
+{
+"model" "*39"
+"health" "3000"
+"type" "0"
+"classname" "func_breakable"
+}
+{
+"origin" "4704.000000 313.600006 22.400000"
+"classname" "team_cah_capturepoint"
+}
+{
+"classname" "team_cah_capturepoint"
+"origin" "3494.399902 -672.000000 22.400000"
+}
+{
+"origin" "5913.600098 -896.000000 22.400000"
+"classname" "team_cah_capturepoint"
+}
+{
+"classname" "team_cah_capturepoint"
+"origin" "2060.800049 -1702.400024 22.400000"
+}
+{
+"origin" "6899.199707 -1388.799927 201.599991"
+"classname" "team_cah_capturepoint"
+}
+{
+"roll" "270"
+"target" "t12"
+"targetname" "t11"
+"origin" "2732.800049 -291.199982 145.599991"
+"classname" "misc_portal_camera"
+}
+{
+"targetname" "t12"
+"origin" "3326.399902 -638.399963 22.400000"
+"classname" "target_position"
+}
+{
+"classname" "misc_portal_surface"
+"origin" "2721.599854 134.399994 78.400002"
+"target" "t11"
+}
+{
+"target" "t13"
+"origin" "6552.000000 -89.599998 78.400002"
+"classname" "misc_portal_surface"
+}
+{
+"classname" "target_position"
+"origin" "5555.199707 -985.599976 22.400000"
+"targetname" "t14"
+}
+{
+"classname" "misc_portal_camera"
+"origin" "6375.600098 -210.000000 313.600006"
+"targetname" "t13"
+"target" "t14"
+"roll" "270"
+}
+{
+"light" "30"
+"origin" "2716.000000 134.399994 78.400002"
+"classname" "light"
+}
+{
+"classname" "light"
+"origin" "2716.000000 201.599991 78.400002"
+"light" "30"
+}

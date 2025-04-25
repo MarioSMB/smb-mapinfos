@@ -1,0 +1,22 @@
+title Spacebash
+description A simple map, just push out all your enemies!
+author Derrant
+cdtrack 17
+has weapons
+gametype lms
+gametype ca
+
+//settemp_for_type lms g_grappling_hook 0
+//settemp_for_type lms g_player_crush 0
+//settemp_for_type lms g_balance_vaporizer_primary_damage 1
+//settemp_for_type lms g_instagib_blaster_keepdamage 0
+//settemp_for_type lms g_balance_vaporizer_secondary_damage 25
+//settemp_for_type lms g_balance_vaporizer_secondary_edgedamage 12.5
+//settemp_for_type ca g_instagib_blaster_keepdamage 0
+//settemp_for_type ca g_balance_vaporizer_secondary_damage 25
+//settemp_for_type ca g_balance_vaporizer_secondary_edgedamage 12.5
+//settemp_for_type ca g_grappling_hook 0
+//settemp_for_type ca g_player_crush 0
+//settemp_for_type ca g_balance_vaporizer_primary_damage 1
+
+

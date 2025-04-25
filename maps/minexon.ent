@@ -1,0 +1,25 @@
+{
+"gridsize" "160 160 208"
+"_keepLights" "1"
+"_q3map2_version" "2.5.17n-git-757a17fb"
+"_q3map2_cmdline" "-meta -keeplights -maxarea -samplesize 8 -mv 1000000 -mi 6000000; -vis -fast -saveprt; -light -lightmapsize 1024 -lightmapsearchpower 4 -fastallocate -deluxe -patchshadows -samples 2 -randomsamples -fill"
+"_color" "0.6 0.6 1.0"
+"_noshadersun" "1"
+"classname" "worldspawn"
+}
+{
+"origin" "-408.000000 144.000000 3008.000000"
+"classname" "info_player_deathmatch"
+}
+{
+"model" "*1"
+"classname" "trigger_hurt"
+}
+{
+"classname" "item_flag_team2"
+"origin" "1706 -3874 2752"
+}
+{
+"classname" "item_flag_team1"
+"origin" "1636 4557 2752"
+}

@@ -1,0 +1,9 @@
+title MineXon
+description The End is upon us... in this space floater!
+author Mario
+cdtrack the_end
+has weapons
+gametype ctf
+gametype dm
+hidden
+noautomaplist

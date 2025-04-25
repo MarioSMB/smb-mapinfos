@@ -1,0 +1,7 @@
+title The Cube
+description Laser Sumo Slime Map
+author FruitieX
+cdtrack 3
+has weapons
+type arena 20 30
+gametype lms

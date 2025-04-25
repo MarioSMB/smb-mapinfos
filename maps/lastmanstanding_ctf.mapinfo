@@ -1,0 +1,22 @@
+title Last Man Standing CTF
+description CTF Remake of dm_lastmanstanding,and vehicle support by Jeff
+author cortez, edited by 802.1ad
+cdtrack lastmanstanding
+has weapons
+has vehicles
+gametype ctf
+gametype dm
+gametype ca
+gametype lms
+//settemp_for_type all g_items_maxdist 2000
+//settemp_for_type all g_items_mindist 1500
+//settemp_for_type all g_fullbrightplayers 1
+client//settemp_for_type all r_water "1"
+client//settemp_for_type all r_water_resolutionmultiplier "0.5"
+//settemp_for_type lms g_grappling_hook 0
+//settemp_for_type lms g_player_crush 0
+//settemp_for_type lms g_balance_vaporizer_primary_damage 1
+//settemp_for_type ca g_grappling_hook 0
+//settemp_for_type ca g_player_crush 0
+//settemp_for_type ca g_balance_vaporizer_primary_damage 1
+

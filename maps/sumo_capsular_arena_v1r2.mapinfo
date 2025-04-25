@@ -1,0 +1,8 @@
+title Capsular Arena
+description Laser Arena Map
+author Sven
+has weapons
+type arena 10 10
+gametype lms
+
+

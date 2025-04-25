@@ -1,12 +1,18 @@
+title Last Man Retextured
+description Last Man Standing (by Cortez) retextured & modified for fun
+author )> Julius
+(texture edits by musicgoat)
+cdtrack lastman_Retextured
 has weapons
 gametype dm
 gametype tdm
-gametype dom
-gametype ca
-gametype ft
 gametype lms
-cdtrack spacecross_b1
+gametype ca
 
+// Deathmatch, fraglimit, timelimit
+// Team Deathmatch, fraglimit, timelimit, teams (2, 3 or 4)
+
+client//settemp_for_type all r_fullbright 1
 //settemp_for_type lms g_grappling_hook 0
 //settemp_for_type lms g_player_crush 0
 //settemp_for_type lms g_balance_vaporizer_primary_damage 1

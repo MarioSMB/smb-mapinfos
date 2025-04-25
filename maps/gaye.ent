@@ -1,0 +1,314 @@
+{
+"classname" "worldspawn"
+"_q3map2_cmdline" "-meta -keepLights; -vis -saveprt; -light -filter -lightmapsize 1024 -lightmapsearchpower 4 -deluxe -patchshadows -randomsamples -samples 4 -fast -fastbounce -dirty -bouncegrid -fill -bounce 8 -sky 0.38"
+"_q3map2_version" "2.5.17n-git-41c3dfc9"
+"_keepLights" "1"
+}
+{
+"classname" "info_player_team1"
+"origin" "2240 -128 32"
+"angle" "-90"
+}
+{
+"classname" "item_flag_team2"
+"origin" "-4072 -336 16"
+"model" "models/map_gaye/ball_blue.obj"
+}
+{
+"classname" "item_flag_team1"
+"origin" "3552 -608 -320"
+"model" "models/map_gaye/red_flag.obj"
+}
+{
+"classname" "trigger_multiple"
+"target" "target_kill1"
+"model" "*1"
+}
+{
+"classname" "target_kill"
+"origin" "-3904 0 64"
+"targetname" "target_kill1"
+"message" "found another way to put the ball in place."
+}
+{
+"classname" "info_player_team1"
+"origin" "1472 -128 32"
+"angle" "-90"
+}
+{
+"classname" "info_player_team1"
+"origin" "2240 -64 32"
+"angle" "-90"
+}
+{
+"classname" "info_player_team1"
+"origin" "-832 -64 32"
+"angle" "-90"
+"targetname" "s2"
+}
+{
+"classname" "info_player_team1"
+"origin" "-1600 -64 32"
+"angle" "-90"
+"targetname" "s2"
+}
+{
+"classname" "info_player_team1"
+"origin" "-3136 -64 32"
+"angle" "-90"
+"targetname" "s1"
+}
+{
+"classname" "info_player_team1"
+"origin" "-3904 -64 32"
+"angle" "-90"
+"targetname" "s1"
+}
+{
+"classname" "info_player_team1"
+"origin" "-2368 -64 32"
+"angle" "-90"
+"targetname" "s1"
+}
+{
+"classname" "trigger_multiple"
+"wait" "-1"
+"spawnflags" "2"
+"target" "dr1"
+"killtarget" "s1"
+"targetname" "s1"
+"model" "*2"
+}
+{
+"classname" "trigger_multiple"
+"spawnflags" "2"
+"target" "dr2"
+"killtarget" "s2"
+"targetname" "s2"
+"wait" "-1"
+"model" "*3"
+}
+{
+"classname" "info_player_team1"
+"origin" "704 -64 32"
+"angle" "-90"
+"targetname" "s3"
+}
+{
+"classname" "info_player_team1"
+"origin" "-64 -64 32"
+"angle" "-90"
+"targetname" "s3"
+}
+{
+"classname" "info_player_team1"
+"origin" "1472 -64 32"
+"angle" "-90"
+}
+{
+"classname" "trigger_multiple"
+"spawnflags" "2"
+"target" "d3"
+"killtarget" "s3"
+"targetname" "s3"
+"wait" "-1"
+"model" "*4"
+}
+{
+"classname" "trigger_multiple"
+"wait" "-1"
+"spawnflags" "2"
+"target" "dr4"
+"killtarget" "s4"
+"targetname" "s4"
+"model" "*5"
+}
+{
+"classname" "trigger_multiple"
+"spawnflags" "2"
+"target" "dr3"
+"killtarget" "s5"
+"targetname" "s5"
+"wait" "-1"
+"model" "*6"
+}
+{
+"classname" "trigger_multiple"
+"spawnflags" "2"
+"target" "d6"
+"killtarget" "s6"
+"targetname" "s6"
+"wait" "-1"
+"model" "*7"
+}
+{
+"classname" "info_player_team2"
+"origin" "704 64 32"
+"angle" "90"
+"targetname" "s6"
+}
+{
+"classname" "info_player_team2"
+"origin" "1472 64 32"
+"angle" "90"
+}
+{
+"classname" "info_player_team2"
+"origin" "-64 64 32"
+"angle" "90"
+"targetname" "s6"
+}
+{
+"classname" "info_player_team2"
+"origin" "1472 128 32"
+"angle" "90"
+}
+{
+"classname" "info_player_team2"
+"origin" "2240 128 32"
+"angle" "90"
+}
+{
+"classname" "info_player_team2"
+"origin" "-3136 64 32"
+"angle" "90"
+"targetname" "s4"
+}
+{
+"classname" "info_player_team2"
+"origin" "-2368 64 32"
+"angle" "90"
+"targetname" "s4"
+}
+{
+"classname" "info_player_team2"
+"origin" "-832 64 32"
+"angle" "90"
+"targetname" "s5"
+}
+{
+"classname" "info_player_team2"
+"origin" "-3904 64 32"
+"angle" "90"
+"targetname" "s4"
+}
+{
+"classname" "info_player_team2"
+"origin" "-1600 64 32"
+"angle" "90"
+"targetname" "s5"
+}
+{
+"classname" "info_player_team2"
+"origin" "2240 64 32"
+"angle" "90"
+}
+{
+"classname" "item_flag_team1"
+"origin" "-4072 336 16"
+"model" "models/map_gaye/ball_red.obj"
+}
+{
+"classname" "item_flag_team2"
+"origin" "3552 608 -320"
+"model" "models/map_gaye/blue_flag.obj"
+}
+{
+"classname" "info_null"
+"origin" "0 -1160 320"
+"targetname" "info_null1"
+"angle" "180"
+}
+{
+"classname" "info_null"
+"origin" "0 1160 320"
+"targetname" "info_null2"
+}
+{
+"classname" "info_null"
+"origin" "-4164 -512 192"
+"targetname" "info_null3"
+"angle" "90"
+}
+{
+"classname" "info_null"
+"origin" "-4164 512 192"
+"targetname" "info_null4"
+"angle" "90"
+}
+{
+"classname" "func_rotating"
+"spawnflags" "4"
+"speed" "60"
+"_receiveshadows" "0"
+"_castshadows" "0"
+"origin" "184.000000 928.000000 -192.000000"
+"model" "*8"
+}
+{
+"classname" "func_rotating"
+"spawnflags" "4"
+"_receiveshadows" "0"
+"_castshadows" "0"
+"speed" "-60"
+"origin" "184.000000 288.000000 -192.000000"
+"model" "*9"
+}
+{
+"classname" "func_rotating"
+"spawnflags" "4"
+"speed" "60"
+"_receiveshadows" "0"
+"_castshadows" "0"
+"origin" "184.000000 -288.000000 -192.000000"
+"model" "*10"
+}
+{
+"classname" "func_rotating"
+"spawnflags" "4"
+"_receiveshadows" "0"
+"_castshadows" "0"
+"speed" "-60"
+"origin" "184.000000 -928.000000 -192.000000"
+"model" "*11"
+}
+{
+"classname" "trigger_push"
+"target" "target_position1"
+"model" "*12"
+}
+{
+"classname" "target_position"
+"origin" "-1536 -608 -192"
+"targetname" "target_position1"
+}
+{
+"classname" "trigger_push"
+"target" "target_position2"
+"model" "*13"
+}
+{
+"classname" "target_position"
+"origin" "-1536 608 -192"
+"targetname" "target_position2"
+}
+{
+"classname" "trigger_push"
+"target" "target_position3"
+"model" "*14"
+}
+{
+"classname" "target_position"
+"origin" "-192 -608 -192"
+"targetname" "target_position3"
+}
+{
+"classname" "trigger_push"
+"target" "target_position4"
+"model" "*15"
+}
+{
+"classname" "target_position"
+"origin" "-192 608 -192"
+"targetname" "target_position4"
+}

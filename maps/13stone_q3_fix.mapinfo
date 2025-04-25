@@ -1,13 +1,19 @@
-title push me!
+title floating stonefaces (by sst13)
 has weapons
 // uncomment this if you added turrets: has turrets
 // uncomment this if you added vehicles: has vehicles
 gametype dm  // defaults: timelimit=20 pointlimit=30 leadlimit=0
-gametype tdm
-gametype dom
-gametype ft
-gametype ka  // defaults: timelimit=20 pointlimit=30
+// gametype dom
+gametype ctf
+// gametype arena
+gametype ca
+//gametype kh
+// gametype ca
+//gametype tdm
+//gametype ft
 gametype lms
+// gametype lms // defaults: timelimit=20 lives=9 leadlimit=0
+// gametype ka  // defaults: timelimit=20 pointlimit=30
 // optional: fog density red green blue alpha mindist maxdist
 // optional: //settemp_for_type (all|gametypename) cvarname value
 // optional: client//settemp_for_type (all|gametypename) cvarname value
@@ -17,3 +23,6 @@ gametype lms
 //settemp_for_type lms g_grappling_hook 0
 //settemp_for_type lms g_player_crush 0
 //settemp_for_type lms g_balance_vaporizer_primary_damage 1
+//settemp_for_type ca g_grappling_hook 0
+//settemp_for_type ca g_player_crush 0
+//settemp_for_type ca g_balance_vaporizer_primary_damage 1

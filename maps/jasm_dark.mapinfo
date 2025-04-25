@@ -1,18 +1,15 @@
+title J.A.S.M. - Just another Spacemap
+description <cityy>it looks like just another spacemap
+author Cortez
+cdtrack 10
 has weapons
-gametype dm
-// gametype ctf
-gametype tdm
-gametype dom
+gametype dm // defaults: timelimit=20 pointlimit=30 leadlimit=0
+gametype lms // defaults: timelimit=20 lives=9 leadlimit=0
 gametype ca
-gametype ft
-gametype lms
-cdtrack 0
+
 //settemp_for_type lms g_grappling_hook 0
 //settemp_for_type lms g_player_crush 0
 //settemp_for_type lms g_balance_vaporizer_primary_damage 1
 //settemp_for_type ca g_grappling_hook 0
 //settemp_for_type ca g_player_crush 0
 //settemp_for_type ca g_balance_vaporizer_primary_damage 1
-client//settemp_for_type all r_water 1
-client//settemp_for_type all r_water_resolutionmultiplier 1
-client//settemp_for_type all r_ambient +20

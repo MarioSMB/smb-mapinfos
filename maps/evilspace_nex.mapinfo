@@ -1,0 +1,14 @@
+title [evilspace]
+description A dark space map
+author Yves Allaire
+_diameter 3612.476074
+_spawnpoints 9
+has weapons
+gametype dm
+gametype arena
+gametype lms
+cdtrack 7
+
+//settemp_for_type lms g_grappling_hook 0
+//settemp_for_type lms g_player_crush 0
+//settemp_for_type lms g_balance_vaporizer_primary_damage 1

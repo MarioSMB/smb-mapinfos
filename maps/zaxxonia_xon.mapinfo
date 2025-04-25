@@ -1,10 +1,10 @@
-title X
-description Laser Sumo Slime Map
-author FruitieX
-cdtrack 1
 has weapons
-gametype lms
+gametype dm
+gametype tdm
+gametype dom
 gametype ca
+gametype ft
+gametype lms
 
 //settemp_for_type lms g_grappling_hook 0
 //settemp_for_type lms g_player_crush 0

@@ -1,9 +1,10 @@
-title The Cube
-description Laser Sumo Slime Map
-author FruitieX
-cdtrack 3
-has weapons
+title Sumo Sumo Sumo
+description Laser Sumo Lava Map
+author PinkRobot
+cdtrack 2
+
 gametype lms
+
 
 //settemp_for_type lms g_grappling_hook 0
 //settemp_for_type lms g_player_crush 0

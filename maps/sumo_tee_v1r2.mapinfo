@@ -1,0 +1,9 @@
+title The Tee
+description Laser Sumo Space Map
+author FruitieX
+cdtrack 5
+has weapons
+gametype arena 10 10
+gametype dm 10 10
+gametype tdm 10 10
+gametype lms

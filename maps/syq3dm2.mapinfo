@@ -1,0 +1,24 @@
+title Far and Away
+description <DESCRIPTION>
+author Scythe
+cdtrack music/sonic5
+has weapons
+// uncomment this if you added turrets: has turrets
+// uncomment this if you added vehicles: has vehicles
+gametype dm // defaults: timelimit=15 pointlimit=30 leadlimit=0
+gametype duel // defaults: timelimit=10 pointlimit=0 leadlimit=0
+gametype ka // defaults: timelimit=20 pointlimit=30
+gametype lms // defaults: timelimit=20 lives=5 leadlimit=0
+gametype ca
+// optional: fog density red green blue alpha mindist maxdist
+// optional: //settemp_for_type (all|gametypename) cvarname value
+// optional: client//settemp_for_type (all|gametypename) cvarname value
+// optional: size mins_x mins_y mins_z maxs_x maxs_y maxs_z
+// optional: hidden
+client//settemp_for_type all r_ambient 20
+//settemp_for_type lms g_grappling_hook 0
+//settemp_for_type lms g_player_crush 0
+//settemp_for_type lms g_balance_vaporizer_primary_damage 1
+//settemp_for_type ca g_grappling_hook 0
+//settemp_for_type ca g_player_crush 0
+//settemp_for_type ca g_balance_vaporizer_primary_damage 1

@@ -1,10 +1,17 @@
-title Too easy
-description Oh no, not again!
-author FruitieX
-cdtrack 9
+title bo3dm10
+// description ...
+// author ...
+cdtrack 7
+// has turrets
+// has vehicles
 has weapons
-// type ctf 300 20 10
-gametype ctf
+gametype dm
+gametype arena
+gametype ka
+gametype kh
+gametype tdm
+gametype ft
+gametype inf
 gametype lms
 // optional: fog density red green blue alpha mindist maxdist
 // optional: //settemp_for_type (all|gametypename) cvarname value

@@ -1,0 +1,7 @@
+title minimanq3_double_nex
+description vehicle support by Jeff
+author  ths
+cdtrack 10
+has vehicles
+has weapons
+gametype ctf

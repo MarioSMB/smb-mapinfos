@@ -1,10 +1,18 @@
+title battle dome
 has weapons
 // uncomment this if you added turrets: has turrets
 // uncomment this if you added vehicles: has vehicles
-gametype nb
-gametype lms
+gametype dm  // defaults: timelimit=20 pointlimit=30 leadlimit=0
+// gametype dom
+// gametype ctf
+gametype arena
+gametype kh
+gametype tdm
+gametype ft
+gametype lms // defaults: timelimit=20 lives=9 leadlimit=0
+// gametype ka  // defaults: timelimit=20 pointlimit=30
 // optional: fog density red green blue alpha mindist maxdist
-//settemp_for_type all g_player_crush 0
+// optional: //settemp_for_type (all|gametypename) cvarname value
 // optional: client//settemp_for_type (all|gametypename) cvarname value
 // optional: size mins_x mins_y mins_z maxs_x maxs_y maxs_z
 // optional: hidden

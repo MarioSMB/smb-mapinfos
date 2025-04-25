@@ -2,10 +2,10 @@ has weapons
 gametype dm
 gametype tdm
 gametype dom
-gametype ca
 gametype ft
 gametype lms
-cdtrack spacecross_b1
+gametype ca
+cdtrack junkyard
 
 //settemp_for_type lms g_grappling_hook 0
 //settemp_for_type lms g_player_crush 0
