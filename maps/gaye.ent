@@ -205,11 +205,13 @@
 }
 {
 "classname" "item_flag_team1"
+"scale" "0.33"
 "origin" "-4072 336 16"
 "model" "models/map_gaye/ball_red.obj"
 }
 {
 "classname" "item_flag_team2"
+"scale" "0.33"
 "origin" "3552 608 -320"
 "model" "models/map_gaye/blue_flag.obj"
 }
