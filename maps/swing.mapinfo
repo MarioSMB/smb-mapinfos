@@ -1,0 +1,10 @@
+title Swing!
+description SWEEEEEENG!
+author SirRanjid
+cdtrack cdtracks/Odd_Chap_-_Interstellar
+size -4864 -4864 -4864 4864 4864 4864
+
+gametype ctf 
+
+fog 0.02 0.63 0.37 0.72 0.8 0 4000
+settemp_for_type all sv_friction_slick 0
